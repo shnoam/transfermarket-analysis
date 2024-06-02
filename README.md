@@ -30,4 +30,4 @@ README.md: This file, providing an overview of the project and its steps.
 ## Conclusion:
 Through this project, I gain valuable insights into the market value dynamics of top football players. The analysis shows interesting trends, dominant countries
 
-For more detailed information and analysis results, refer to the analysis notebook (analysis_notebook.ipynb) included in this repository.
+For more detailed information and analysis results, refer to the analysis notebook (data_analysis.ipynb) included in this repository.

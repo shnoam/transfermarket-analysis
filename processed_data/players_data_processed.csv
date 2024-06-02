@@ -1,0 +1,501 @@
+﻿player,current_value,main_position,other_positions,nationality,date_of_birth,city_of_birth,country_of_birth,height,current_club,contract_expires,on_loan_from,contract_there_expires,number,foot,outfitter,age
+Jude Bellingham,180.0,Attacking Midfield,Central Midfield,England,2003-06-29,Stourbridge  ,England,186,Real Madrid,2029-06-30,-,,5,right,adidas,21
+Erling Haaland,180.0,Centre Forward,,Norway,2000-07-21,Leeds  ,England,195,Manchester City,2027-06-30,-,,9,left,Nike,24
+Kylian Mbappé,180.0,Centre Forward,"Left Winger, Right Winger",France,1998-12-20,Paris  ,France,178,Paris Saint-Germain,2024-06-30,-,,7,right,Nike,26
+Vinícius Júnior,150.0,Left Winger,"Centre-Forward, Right Winger",Brazil,2000-07-12,São Gonçalo  ,Brazil,176,Real Madrid,2027-06-30,-,,7,right,Nike,24
+Bukayo Saka,130.0,Right Winger,"Left Winger, Right Midfield",England,2001-09-05,London  ,England,178,Arsenal FC,2027-06-30,-,,7,left,New Balance,23
+Phil Foden,130.0,Right Winger,"Left Winger, Attacking Midfield",England,2000-05-28,Stockport  ,England,171,Manchester City,2027-06-30,-,,47,left,Nike,24
+Florian Wirtz,110.0,Attacking Midfield,"Right Winger, Left Winger",Germany,2003-05-03,Pulheim  ,Germany,177,Bayer 04 Leverkusen,2027-06-30,-,,10,right,adidas,21
+Jamal Musiala,110.0,Attacking Midfield,"Central Midfield, Left Winger",Germany,2003-02-26,Stuttgart  ,Germany,184,Bayern Munich,2026-06-30,-,,42,right,,21
+Lautaro Martínez,110.0,Centre Forward,Second Striker,Argentina,1997-08-22,Bahía Blanca  ,Argentina,174,Inter Milan,2026-06-30,-,,10,right,Nike,27
+Victor Osimhen,110.0,Centre Forward,,Nigeria,1998-12-29,Lagos  ,Nigeria,186,SSC Napoli,2026-06-30,-,,9,right,,26
+Declan Rice,110.0,Defensive Midfield,"Central Midfield, Centre-Back",England,1999-01-14,London  ,England,188,Arsenal FC,2028-06-30,-,,41,right,adidas,25
+Rodri,110.0,Defensive Midfield,Centre-Back,Spain,1996-06-22,Madrid  ,Spain,191,Manchester City,2027-06-30,-,,16,right,Nike,28
+Harry Kane,110.0,Centre Forward,Second Striker,England,1993-07-28,London  ,England,188,Bayern Munich,2027-06-30,-,,9,right,,31
+Rodrygo,100.0,Right Winger,"Left Winger, Centre-Forward",Brazil,2001-01-09,Osasco  ,Brazil,174,Real Madrid,2028-06-30,-,,11,right,Nike,23
+Federico Valverde,100.0,Central Midfield,"Right Winger, Right Midfield",Uruguay,1998-07-22,Montevideo  ,Uruguay,182,Real Madrid,2029-06-30,-,,15,right,Nike,26
+Martin Ødegaard,95.0,Attacking Midfield,"Right Winger, Central Midfield",Norway,1998-12-17,Drammen  ,Norway,178,Arsenal FC,2028-06-30,-,,8,left,Nike,26
+Gavi,90.0,Central Midfield,"Attacking Midfield, Left Winger",Spain,2004-08-05,Los Palacios y Villafranca  ,Spain,173,FC Barcelona,2026-06-30,-,,6,right,Nike,20
+Eduardo Camavinga,90.0,Central Midfield,"Defensive Midfield, Left-Back",France,2002-11-10,Cabinda  ,Angola,182,Real Madrid,2029-06-30,-,,12,left,Nike,22
+Julián Álvarez,90.0,Second Striker,"Centre-Forward, Attacking Midfield",Argentina,2000-01-31,Calchín  ,Argentina,170,Manchester City,2028-06-30,-,,19,right,adidas,24
+Aurélien Tchouaméni,90.0,Defensive Midfield,"Central Midfield, Centre-Back",France,2000-01-27,Rouen  ,France,188,Real Madrid,2028-06-30,-,,18,right,Nike,24
+Rafael Leão,90.0,Left Winger,"Centre-Forward, Second Striker",Portugal,1999-06-10,Almada  ,Portugal,188,AC Milan,2028-06-30,-,,10,right,adidas,25
+Bruno Guimarães,85.0,Defensive Midfield,Central Midfield,Brazil,1997-11-16,Rio de Janeiro  ,Brazil,182,Newcastle United,2028-06-30,-,,39,right,adidas,27
+Moisés Caicedo,80.0,Defensive Midfield,Central Midfield,Ecuador,2001-11-02,Santo Domingo  ,Ecuador,178,Chelsea FC,2031-06-30,-,,25,right,,23
+Pedri,80.0,Central Midfield,"Attacking Midfield, Left Winger",Spain,2002-11-25,Tegueste  ,Spain,174,FC Barcelona,2026-06-30,-,,8,right,adidas,22
+Gabriel Martinelli,80.0,Left Winger,"Centre-Forward, Right Winger",Brazil,2001-06-18,Guarulhos  ,Brazil,178,Arsenal FC,2027-06-30,-,,11,right,adidas,23
+Enzo Fernández,80.0,Central Midfield,"Defensive Midfield, Attacking Midfield",Argentina,2001-01-17,San Martín  ,Argentina,178,Chelsea FC,2031-06-30,-,,8,right,,23
+Xavi Simons,80.0,Attacking Midfield,"Left Winger, Right Winger",Netherlands,2003-04-21,Amsterdam  ,Netherlands,179,RB Leipzig,2024-06-30,Paris Saint-Germain,2027-06-30,20,right,Puma,21
+Khvicha Kvaratskhelia,80.0,Left Winger,Second Striker,Georgia,2001-02-12,Tiflis  ,Georgia,183,SSC Napoli,2027-06-30,-,,77,both,Nike,23
+William Saliba,80.0,Centre Back,,France,2001-03-24,Bondy  ,France,192,Arsenal FC,2027-06-30,-,,2,right,,23
+Rúben Dias,80.0,Centre Back,,Portugal,1997-05-14,Amadora  ,Portugal,187,Manchester City,2027-06-30,-,,3,right,Nike,27
+Bernardo Silva,80.0,Attacking Midfield,"Right Winger, Central Midfield",Portugal,1994-08-10,Lisboa  ,Portugal,173,Manchester City,2026-06-30,-,,20,left,adidas,30
+Lamine Yamal,75.0,Right Winger,Left Winger,Spain,2007-07-13,Esplugues de Llobregat  ,Spain,178,FC Barcelona,2026-06-30,-,,27,left,adidas,17
+Luis Díaz,75.0,Left Winger,"Left Midfield, Right Winger",Colombia,1997-01-13,Barrancas  ,Colombia,180,Liverpool FC,2027-06-30,-,,7,right,,27
+Josko Gvardiol,75.0,Centre Back,Left-Back,Croatia,2002-01-23,Zagreb  ,Croatia,185,Manchester City,2028-06-30,-,,24,left,,22
+Dominik Szoboszlai,75.0,Central Midfield,"Attacking Midfield, Right Midfield",Hungary,2000-10-25,Székesfehérvár  ,Hungary,187,Liverpool FC,2028-06-30,-,,8,right,,24
+Nicolò Barella,75.0,Central Midfield,"Defensive Midfield, Attacking Midfield",Italy,1997-02-07,Cagliari  ,Italy,175,Inter Milan,2026-06-30,-,,23,right,Nike,27
+Darwin Núñez,70.0,Centre Forward,Left Winger,Uruguay,1999-06-24,Artigas  ,Uruguay,187,Liverpool FC,2028-06-30,-,,9,right,,25
+Alexis Mac Allister,70.0,Central Midfield,"Attacking Midfield, Defensive Midfield",Argentina,1998-12-24,Santa Rosa  ,Argentina,176,Liverpool FC,2028-06-30,-,,10,right,adidas,26
+Ronald Araujo,70.0,Centre Back,Right-Back,Uruguay,1999-03-07,Rivera  ,Uruguay,192,FC Barcelona,2026-06-30,-,,4,right,Nike,25
+Douglas Luiz,70.0,Central Midfield,Defensive Midfield,Brazil,1998-05-09,Rio de Janeiro  ,Brazil,177,Aston Villa,2026-06-30,-,,6,right,,26
+Éder Militão,70.0,Centre Back,Right-Back,Brazil,1998-01-18,Sertãozinho  ,Brazil,186,Real Madrid,2028-06-30,-,,3,right,adidas,26
+Gabriel Jesus,70.0,Centre Forward,"Left Winger, Right Winger",Brazil,1997-04-03,São Paulo  ,Brazil,175,Arsenal FC,2027-06-30,-,,9,right,adidas,27
+Alexander Isak,70.0,Centre Forward,Left Winger,Sweden,1999-09-21,Solna  ,Sweden,192,Newcastle United,2028-06-30,-,,14,right,adidas,25
+Christopher Nkunku,70.0,Attacking Midfield,"Second Striker, Left Winger",France,1997-11-14,Lagny-sur-Marne  ,France,177,Chelsea FC,2029-06-30,-,,18,right,adidas,27
+Frenkie de Jong,70.0,Central Midfield,Defensive Midfield,Netherlands,1997-05-12,Arkel  ,Netherlands,181,FC Barcelona,2026-06-30,-,,21,right,Nike,27
+Alessandro Bastoni,70.0,Centre Back,,Italy,1999-04-13,Casalmaggiore  ,Italy,190,Inter Milan,2028-06-30,-,,95,left,Puma,25
+Trent Alexander-Arnold,70.0,Right Back,"Defensive Midfield, Central Midfield",England,1998-10-07,Liverpool  ,England,180,Liverpool FC,2025-06-30,-,,66,right,adidas,26
+James Maddison,70.0,Attacking Midfield,"Central Midfield, Right Midfield",England,1996-11-23,Coventry  ,England,175,Tottenham Hotspur,2028-06-30,-,,10,right,Puma,28
+Bruno Fernandes,70.0,Attacking Midfield,"Second Striker, Central Midfield",Portugal,1994-09-08,Maia  ,Portugal,179,Manchester United,2026-06-30,-,,8,right,Nike,30
+Leroy Sané,70.0,Right Winger,"Left Winger, Attacking Midfield",Germany,1996-01-11,Essen  ,Germany,183,Bayern Munich,2025-06-30,-,,10,left,Nike,28
+Rasmus Højlund,65.0,Centre Forward,,Denmark,2003-02-04,København  ,Denmark,191,Manchester United,2028-06-30,-,,11,left,,21
+Jérémy Doku,65.0,Left Winger,Right Winger,Belgium,2002-05-27,Borgerhout  ,Belgium,173,Manchester City,2028-06-30,-,,11,right,,22
+Lucas Paquetá,65.0,Attacking Midfield,"Central Midfield, Left Winger",Brazil,1997-08-27,Paquetá  ,Brazil,180,West Ham United,2027-06-30,-,,10,left,Nike,27
+Gabriel Magalhães,65.0,Centre Back,,Brazil,1997-12-19,São Paulo  ,Brazil,190,Arsenal FC,2027-06-30,-,,6,left,,27
+Achraf Hakimi,65.0,Right Back,"Right Midfield, Left-Back",Morocco,1998-11-04,Madrid  ,Spain,181,Paris Saint-Germain,2026-06-30,-,,2,right,adidas,26
+Dušan Vlahović,65.0,Centre Forward,,Serbia,2000-01-28,Belgrade  ,Yugoslavia (Republic),190,Juventus FC,2026-06-30,-,,9,left,Nike,24
+Matthijs de Ligt,65.0,Centre Back,,Netherlands,1999-08-12,Leiderdorp  ,Netherlands,189,Bayern Munich,2027-06-30,-,,4,right,Nike,25
+Ollie Watkins,65.0,Centre Forward,"Right Winger, Left Winger",England,1995-12-30,Torquay  ,England,180,Aston Villa,2028-06-30,-,,11,right,Under Armour,29
+Kingsley Coman,65.0,Left Winger,Right Winger,France,1996-06-13,Paris  ,France,181,Bayern Munich,2027-06-30,-,,11,right,Puma,28
+Jack Grealish,65.0,Left Winger,Attacking Midfield,England,1995-09-10,Birmingham  ,England,180,Manchester City,2027-06-30,-,,10,right,Puma,29
+Mohamed Salah,65.0,Right Winger,"Second Striker, Centre-Forward",Egypt,1992-06-15,"Nagrig, Basyoun  ",Egypt,175,Liverpool FC,2025-06-30,-,,11,left,adidas,32
+Warren Zaïre-Emery,60.0,Central Midfield,Defensive Midfield,France,2006-03-08,Montreuil  ,France,178,Paris Saint-Germain,2025-06-30,-,,33,right,Nike,18
+Evan Ferguson,60.0,Centre Forward,Right Winger,Ireland,2004-10-19,"Bettystown, Meath  ",Ireland,188,Brighton & Hove Albion,2029-06-30,-,,28,right,,20
+Nuno Mendes,60.0,Left Back,Left Midfield,Portugal,2002-06-19,Lisboa  ,Portugal,183,Paris Saint-Germain,2026-06-30,-,,25,left,adidas,22
+Bremer,60.0,Centre Back,,Brazil,1997-03-18,Itapitanga  ,Brazil,188,Juventus FC,2028-06-30,-,,3,right,Puma,27
+Randal Kolo Muani,60.0,Centre Forward,"Right Winger, Left Winger",France,1998-12-05,Bondy  ,France,187,Paris Saint-Germain,2028-06-30,-,,23,right,adidas,26
+Manuel Ugarte,60.0,Defensive Midfield,Central Midfield,Uruguay,2001-04-11,Montevideo  ,Uruguay,182,Paris Saint-Germain,2028-06-30,-,,4,right,adidas,23
+Alphonso Davies,60.0,Left Back,"Left Winger, Left Midfield",Canada,2000-11-02,Buduburam  ,Ghana,185,Bayern Munich,2025-06-30,-,,19,left,,24
+Takefusa Kubo,60.0,Right Winger,"Attacking Midfield, Left Winger",Japan,2001-06-04,"Kawasaki, Kanagawa  ",Japan,173,Real Sociedad,2029-06-30,-,,14,left,,23
+Loïs Openda,60.0,Centre Forward,"Left Winger, Right Winger",Belgium,2000-02-16,Liège  ,Belgium,177,RB Leipzig,2028-06-30,-,,17,right,Nike,24
+Cristian Romero,60.0,Centre Back,,Argentina,1998-04-27,Córdoba  ,Argentina,185,Tottenham Hotspur,2027-06-30,-,,17,right,,26
+Theo Hernández,60.0,Left Back,"Left Midfield, Centre-Back",France,1997-10-06,Marseille  ,France,184,AC Milan,2026-06-30,-,,19,left,,27
+Marcus Thuram,60.0,Centre Forward,Left Winger,France,1997-08-06,Parma  ,Italy,192,Inter Milan,2028-06-30,-,,9,right,Nike,27
+Kai Havertz,60.0,Attacking Midfield,"Centre-Forward, Right Winger",Germany,1999-06-11,Aachen  ,Germany,193,Arsenal FC,2028-06-30,-,,29,left,Puma,25
+Ousmane Dembélé,60.0,Right Winger,Left Winger,France,1997-05-15,Vernon  ,France,178,Paris Saint-Germain,2028-06-30,-,,10,both,adidas,27
+Marcus Rashford,60.0,Left Winger,"Centre-Forward, Right Winger",England,1997-10-31,Manchester  ,England,185,Manchester United,2028-06-30,-,,10,right,Nike,27
+Joshua Kimmich,60.0,Right Back,"Defensive Midfield, Central Midfield",Germany,1995-02-08,Rottweil  ,Germany,177,Bayern Munich,2025-06-30,-,,6,right,,29
+Kevin De Bruyne,60.0,Attacking Midfield,Central Midfield,Belgium,1991-06-28,Drongen  ,Belgium,181,Manchester City,2025-06-30,-,,17,right,Nike,33
+Endrick,55.0,Centre Forward,"Second Striker, Right Winger",Brazil,2006-07-21,Taguatinga  ,Brazil,173,Sociedade Esportiva Palmeiras,2025-06-30,-,,9,left,New Balance,18
+Cole Palmer,55.0,Attacking Midfield,"Right Winger, Centre-Forward",England,2002-05-06,Manchester  ,England,189,Chelsea FC,2030-06-30,-,,20,left,Nike,22
+Min-jae Kim,55.0,Centre Back,,South Korea,1996-11-15,"Tongyeong, Gyeongnam  ","Korea, South",190,Bayern Munich,2028-06-30,-,,3,right,Nike,28
+Pedro Neto,55.0,Right Winger,"Left Winger, Attacking Midfield",Portugal,2000-03-09,Viana do Castelo  ,Portugal,172,Wolverhampton Wanderers,2027-06-30,-,,7,left,,24
+Dejan Kulusevski,55.0,Right Winger,Attacking Midfield,Sweden,2000-04-25,Stockholm  ,Sweden,186,Tottenham Hotspur,2028-06-30,-,,21,left,,24
+Moussa Diaby,55.0,Right Winger,"Left Winger, Attacking Midfield",France,1999-07-07,Paris  ,France,171,Aston Villa,2028-06-30,-,,19,left,,25
+Ben White,55.0,Right Back,"Centre-Back, Defensive Midfield",England,1997-10-08,Poole  ,England,186,Arsenal FC,2028-06-30,-,,4,right,adidas,27
+Viktor Gyökeres,55.0,Centre Forward,,Sweden,1998-06-04,Stockholm  ,Sweden,187,Sporting CP,2028-06-30,-,,9,right,Nike,26
+João Palhinha,55.0,Defensive Midfield,,Portugal,1995-07-09,Lisboa  ,Portugal,190,Fulham FC,2028-06-30,-,,26,right,adidas,29
+Marquinhos,55.0,Centre Back,"Defensive Midfield, Right-Back",Brazil,1994-05-14,São Paulo  ,Brazil,183,Paris Saint-Germain,2028-06-30,-,,5,right,Nike,30
+Nico Williams,50.0,Left Winger,Right Winger,Spain,2002-07-12,Pamplona  ,Spain,181,Athletic Bilbao,2027-06-30,-,,11,right,Nike,22
+Levi Colwill,50.0,Centre Back,Left-Back,England,2003-02-26,Southampton  ,England,187,Chelsea FC,2029-06-30,-,,26,left,,21
+Matheus Nunes,50.0,Central Midfield,"Attacking Midfield, Defensive Midfield",Portugal,1998-08-27,Rio de Janeiro  ,Brazil,183,Manchester City,2028-06-30,-,,27,right,,26
+Michael Olise,50.0,Right Winger,"Attacking Midfield, Right Midfield",France,2001-12-12,London  ,England,184,Crystal Palace,2027-06-30,-,,7,left,Nike,23
+Micky van de Ven,50.0,Centre Back,Left-Back,Netherlands,2001-04-19,Wormer  ,Netherlands,193,Tottenham Hotspur,2029-06-30,-,,37,left,,23
+Gonçalo Ramos,50.0,Centre Forward,,Portugal,2001-06-20,Olhão  ,Portugal,185,Paris Saint-Germain,2028-06-30,-,,9,right,Nike,23
+Mohammed Kudus,50.0,Attacking Midfield,"Centre-Forward, Right Winger",Ghana,2000-08-02,Accra  ,Ghana,177,West Ham United,2028-06-30,-,,14,left,Puma,24
+Jonathan David,50.0,Centre Forward,"Second Striker, Attacking Midfield",Canada,2000-01-14,"Brooklyn, New York  ",United States,180,LOSC Lille,2025-06-30,-,,9,both,adidas,24
+Anthony Gordon,50.0,Left Winger,"Right Winger, Centre-Forward",England,2001-02-24,Liverpool  ,England,182,Newcastle United,2026-06-30,-,,10,right,adidas,23
+Amadou Onana,50.0,Defensive Midfield,Central Midfield,Belgium,2001-08-16,Dakar  ,Senegal,195,Everton FC,2027-06-30,-,,8,right,,23
+Jeremie Frimpong,50.0,Right Midfield,"Right-Back, Right Winger",Netherlands,2000-12-10,Amsterdam  ,Netherlands,172,Bayer 04 Leverkusen,2028-06-30,-,,30,right,Puma,24
+Reece James,50.0,Right Back,"Centre-Back, Right Midfield",England,1999-12-08,London  ,England,180,Chelsea FC,2028-06-30,-,,24,right,Nike,25
+Cody Gakpo,50.0,Left Winger,"Centre-Forward, Right Winger",Netherlands,1999-05-07,Eindhoven  ,Netherlands,193,Liverpool FC,2028-06-30,-,,18,right,Puma,25
+Martín Zubimendi,50.0,Defensive Midfield,Central Midfield,Spain,1999-02-02,Donostia-San Sebastián  ,Spain,181,Real Sociedad,2027-06-30,-,,4,right,,25
+Jules Koundé,50.0,Centre Back,Right-Back,France,1998-11-12,Paris  ,France,180,FC Barcelona,2027-06-30,-,,23,right,adidas,26
+Raphinha,50.0,Right Winger,Left Winger,Brazil,1996-12-14,Porto Alegre  ,Brazil,176,FC Barcelona,2027-06-30,-,,11,left,adidas,28
+Benjamin Pavard,50.0,Centre Back,Right-Back,France,1996-03-28,Maubeuge  ,France,186,Inter Milan,2028-06-30,-,,28,right,adidas,28
+Mikel Oyarzabal,50.0,Left Winger,"Centre-Forward, Right Winger",Spain,1997-04-21,Eibar  ,Spain,181,Real Sociedad,2028-06-30,-,,10,left,Nike,27
+Dayot Upamecano,50.0,Centre Back,,France,1998-10-27,Évreux  ,France,186,Bayern Munich,2026-06-30,-,,2,right,,26
+Diogo Jota,50.0,Left Winger,"Centre-Forward, Right Winger",Portugal,1996-12-04,Porto  ,Portugal,178,Liverpool FC,2027-06-30,-,,20,right,adidas,28
+Mikel Merino,50.0,Central Midfield,Defensive Midfield,Spain,1996-06-22,Pamplona  ,Spain,189,Real Sociedad,2025-06-30,-,,8,left,adidas,28
+Jarrod Bowen,50.0,Right Winger,"Second Striker, Centre-Forward",England,1996-12-20,Leominster  ,England,175,West Ham United,2030-06-30,-,,20,left,adidas,28
+Dani Olmo,50.0,Attacking Midfield,"Left Winger, Right Winger",Spain,1998-05-07,Terrassa  ,Spain,179,RB Leipzig,2027-06-30,-,,7,right,adidas,26
+Ivan Toney,50.0,Centre Forward,,England,1996-03-16,Northampton  ,England,185,Brentford FC,2025-06-30,-,,17,right,,28
+Federico Dimarco,50.0,Left Back,"Left Midfield, Centre-Back",Italy,1997-11-10,Milano  ,Italy,175,Inter Milan,2027-06-30,-,,32,left,adidas,27
+Heung-min Son,50.0,Left Winger,"Centre-Forward, Second Striker",South Korea,1992-07-08,"Chuncheon, Gangwon  ","Korea, South",184,Tottenham Hotspur,2025-06-30,-,,7,both,adidas,32
+Conor Gallagher,48.0,Central Midfield,"Defensive Midfield, Attacking Midfield",England,2000-02-06,Epsom  ,England,182,Chelsea FC,2025-06-30,-,,23,right,,24
+Eberechi Eze,48.0,Attacking Midfield,"Left Midfield, Central Midfield",England,1998-06-29,London  ,England,178,Crystal Palace,2027-06-30,-,,10,right,New Balance,26
+Brennan Johnson,48.0,Right Winger,"Left Winger, Centre-Forward",Wales,2001-05-23,Nottingham  ,England,186,Tottenham Hotspur,2028-06-30,-,,22,right,,23
+João Neves,45.0,Defensive Midfield,Central Midfield,Portugal,2004-09-27,Tavira  ,Portugal,174,SL Benfica,2028-06-30,-,,87,right,,20
+António Silva,45.0,Centre Back,,Portugal,2003-10-30,Viseu  ,Portugal,187,SL Benfica,2027-06-30,-,,4,right,adidas,21
+João Pedro,45.0,Centre Forward,"Left Winger, Second Striker",Brazil,2001-09-26,Ribeirão Preto  ,Brazil,182,Brighton & Hove Albion,2028-06-30,-,,9,right,,23
+Giorgio Scalvini,45.0,Centre Back,Defensive Midfield,Italy,2003-12-11,Chiari  ,Italy,194,Atalanta BC,2028-06-30,-,,42,right,Puma,21
+Destiny Udogie,45.0,Left Back,Left Midfield,Italy,2002-11-28,Verona  ,Italy,188,Tottenham Hotspur,2030-06-30,-,,38,left,Puma,22
+Pedro Porro,45.0,Right Back,Right Midfield,Spain,1999-09-13,Don Benito  ,Spain,173,Tottenham Hotspur,2028-06-30,-,,23,right,Nike,25
+Santiago Gimenez,45.0,Centre Forward,,Mexico,2001-04-18,Buenos Aires  ,Argentina,182,Feyenoord Rotterdam,2027-06-30,-,,29,left,adidas,23
+Kaoru Mitoma,45.0,Left Winger,Left Midfield,Japan,1997-05-20,"Kawasaki, Kanagawa  ",Japan,178,Brighton & Hove Albion,2027-06-30,-,,22,right,Puma,27
+Vitinha,45.0,Central Midfield,"Attacking Midfield, Defensive Midfield",Portugal,2000-02-13,Vila das Aves  ,Portugal,172,Paris Saint-Germain,2027-06-30,-,,17,right,Nike,24
+Lisandro Martínez,45.0,Centre Back,"Left-Back, Defensive Midfield",Argentina,1998-01-18,Gualeguay  ,Argentina,175,Manchester United,2027-06-30,-,,6,left,,26
+Pau Torres,45.0,Centre Back,,Spain,1997-01-16,Villarreal  ,Spain,192,Aston Villa,2028-06-30,-,,14,left,,27
+Sven Botman,45.0,Centre Back,,Netherlands,2000-01-12,Badhoevedorp  ,Netherlands,195,Newcastle United,2027-06-30,-,,4,left,adidas,24
+Diogo Costa,45.0,Goalkeeper,,Portugal,1999-09-19,Rothrist  ,Switzerland,186,FC Porto,2027-06-30,-,,99,right,adidas,25
+Ibrahima Konaté,45.0,Centre Back,,France,1999-05-25,Paris  ,France,194,Liverpool FC,2026-06-30,-,,5,right,Nike,25
+Lucas Hernández,45.0,Left Back,Centre-Back,France,1996-02-14,Marseille  ,France,184,Paris Saint-Germain,2028-06-30,-,,21,left,Nike,28
+Alejandro Grimaldo,45.0,Left Back,Left Midfield,Spain,1995-09-20,Valencia  ,Spain,171,Bayer 04 Leverkusen,2027-06-30,-,,20,left,adidas,29
+Serge Gnabry,45.0,Right Winger,"Left Winger, Second Striker",Germany,1995-07-14,Stuttgart  ,Germany,176,Bayern Munich,2026-06-30,-,,7,right,adidas,29
+Raheem Sterling,45.0,Left Winger,"Right Winger, Centre-Forward",England,1994-12-08,Kingston  ,Jamaica,170,Chelsea FC,2027-06-30,-,,7,right,New Balance,30
+Neymar,45.0,Left Winger,"Second Striker, Attacking Midfield",Brazil,1992-02-05,Mogi das Cruzes  ,Brazil,175,Al-Hilal SFC,2025-06-30,-,,10,right,Puma,32
+Matheus Cunha,42.0,Centre Forward,"Left Winger, Right Winger",Brazil,1999-05-27,João Pessoa  ,Brazil,183,Wolverhampton Wanderers,2027-06-30,-,,12,right,Nike,25
+Jacob Ramsey,42.0,Attacking Midfield,"Central Midfield, Left Midfield",England,2001-05-28,Birmingham  ,England,180,Aston Villa,2027-06-30,-,,41,right,,23
+Axel Disasi,42.0,Centre Back,Right-Back,France,1998-03-11,Gonesse  ,France,190,Chelsea FC,2029-06-30,-,,2,right,,26
+Joelinton,42.0,Central Midfield,"Attacking Midfield, Left Winger",Brazil,1996-08-14,Aliança  ,Brazil,186,Newcastle United,2028-06-30,-,,7,right,,28
+Manuel Akanji,42.0,Centre Back,"Right-Back, Left-Back",Switzerland,1995-07-19,Wiesendangen  ,Switzerland,188,Manchester City,2027-06-30,-,,25,right,Puma,29
+Oleksandr Zinchenko,42.0,Left Back,"Left Midfield, Central Midfield",Ukraine,1996-12-15,"Radomyshl, Zhytomyr Oblast  ",Ukraine,175,Arsenal FC,2026-06-30,-,,35,left,,28
+Samu Omorodion,40.0,Centre Forward,,Spain,2004-05-05,Melilla  ,Spain,193,Deportivo Alavés,2024-06-30,Atlético de Madrid,2028-06-30,32,right,,20
+Ousmane Diomande,40.0,Centre Back,,Ivory Coast,2003-12-04,Abidjan  ,Cote d'Ivoire,190,Sporting CP,2027-06-30,-,,26,right,,21
+Vitor Roque,40.0,Centre Forward,"Left Winger, Right Winger",Brazil,2005-02-28,Timóteo  ,Brazil,172,FC Barcelona,2031-06-30,-,,19,right,Nike,19
+Leny Yoro,40.0,Centre Back,,France,2005-11-13,Saint-Maurice  ,France,190,LOSC Lille,2025-06-30,-,,15,right,,19
+Alejandro Garnacho,40.0,Left Winger,Right Winger,Argentina,2004-07-01,Madrid  ,Spain,180,Manchester United,2028-06-30,-,,17,right,Nike,20
+Mathys Tel,40.0,Left Winger,"Right Winger, Centre-Forward",France,2005-04-27,Sarcelles  ,France,183,Bayern Munich,2029-06-30,-,,39,right,,19
+Sávio,40.0,Left Winger,"Right Winger, Attacking Midfield",Brazil,2004-04-10,São Mateus  ,Brazil,176,Girona FC,2024-06-30,ESTAC Troyes,2027-06-30,16,left,Nike,20
+Bradley Barcola,40.0,Left Winger,"Right Winger, Centre-Forward",France,2002-09-02,Lyon  ,France,182,Paris Saint-Germain,2028-06-30,-,,29,right,,22
+Victor Boniface,40.0,Centre Forward,,Nigeria,2000-12-23,Akure  ,Nigeria,190,Bayer 04 Leverkusen,2028-06-30,-,,22,right,,24
+Alejandro Balde,40.0,Left Back,"Left Winger, Right-Back",Spain,2003-10-18,Barcelona  ,Spain,175,FC Barcelona,2028-06-30,-,,3,left,Nike,21
+Roméo Lavia,40.0,Defensive Midfield,Central Midfield,Belgium,2004-01-06,Brussels  ,Belgium,181,Chelsea FC,2030-06-30,-,,45,right,adidas,20
+Benjamin Sesko,40.0,Centre Forward,,Slovenia,2003-05-31,Radeče  ,Slovenia,195,RB Leipzig,2028-06-30,-,,30,right,,21
+Castello Lukeba,40.0,Centre Back,,France,2002-12-17,Lyon  ,France,184,RB Leipzig,2028-06-30,-,,23,left,,22
+Pape Matar Sarr,40.0,Central Midfield,"Defensive Midfield, Attacking Midfield",Senegal,2002-09-14,Thiaroye  ,Senegal,184,Tottenham Hotspur,2030-06-30,-,,29,right,,22
+Johan Bakayoko,40.0,Right Winger,,Belgium,2003-04-20,Overijse  ,Belgium,179,PSV Eindhoven,2026-06-30,-,,11,left,Puma,21
+Edmond Tapsoba,40.0,Centre Back,,Burkina Faso,1999-02-02,Ouagadougou  ,Burkina Faso,194,Bayer 04 Leverkusen,2028-06-30,-,,12,right,,25
+Gonçalo Inácio,40.0,Centre Back,Defensive Midfield,Portugal,2001-08-25,Almada  ,Portugal,186,Sporting CP,2027-06-30,-,,25,left,,23
+Nicolás González,40.0,Right Winger,"Centre-Forward, Left Winger",Argentina,1998-04-06,Belén de Escobar  ,Argentina,180,ACF Fiorentina,2028-06-30,-,,10,left,,26
+Joshua Zirkzee,40.0,Centre Forward,Second Striker,Netherlands,2001-05-22,Schiedam  ,Netherlands,193,Bologna FC 1909,2026-06-30,-,,9,right,Nike,23
+Morgan Gibbs-White,40.0,Attacking Midfield,"Central Midfield, Second Striker",England,2000-01-27,Stafford  ,England,171,Nottingham Forest,2027-06-30,-,,10,right,,24
+Jurrien Timber,40.0,Centre Back,"Right-Back, Left-Back",Netherlands,2001-06-17,Utrecht  ,Netherlands,179,Arsenal FC,2028-06-30,-,,12,right,adidas,23
+Exequiel Palacios,40.0,Central Midfield,"Attacking Midfield, Defensive Midfield",Argentina,1998-10-05,Famaillá  ,Argentina,177,Bayer 04 Leverkusen,2028-06-30,-,,25,right,,26
+Sandro Tonali,40.0,Defensive Midfield,Central Midfield,Italy,2000-05-08,Lodi  ,Italy,181,Newcastle United,2028-06-30,-,,8,right,Nike,24
+Richarlison,40.0,Centre Forward,"Left Winger, Right Winger",Brazil,1997-05-10,Nova Venécia  ,Brazil,184,Tottenham Hotspur,2027-06-30,-,,9,right,Nike,27
+Teun Koopmeiners,40.0,Attacking Midfield,"Central Midfield, Defensive Midfield",Netherlands,1998-02-28,Castricum  ,Netherlands,184,Atalanta BC,2027-06-30,-,,7,left,,26
+Robin Le Normand,40.0,Centre Back,,Spain,1996-11-11,Pabu  ,France,187,Real Sociedad,2026-06-30,-,,24,right,,28
+Mason Mount,40.0,Attacking Midfield,"Central Midfield, Left Midfield",England,1999-01-10,Portsmouth  ,England,181,Manchester United,2028-06-30,-,,7,right,Nike,25
+Federico Chiesa,40.0,Left Winger,"Right Winger, Second Striker",Italy,1997-10-25,Genova  ,Italy,175,Juventus FC,2025-06-30,-,,7,right,Nike,27
+Donyell Malen,40.0,Right Winger,"Centre-Forward, Left Winger",Netherlands,1999-01-19,Wieringen  ,Netherlands,176,Borussia Dortmund,2026-06-30,-,,21,right,Nike,25
+Gianluigi Donnarumma,40.0,Goalkeeper,,Italy,1999-02-25,Castellammare di Stabia  ,Italy,196,Paris Saint-Germain,2026-06-30,-,,99,right,adidas,25
+Brais Méndez,40.0,Attacking Midfield,"Central Midfield, Right Winger",Spain,1997-01-07,Mos  ,Spain,184,Real Sociedad,2028-06-30,-,,23,left,,27
+Fikayo Tomori,40.0,Centre Back,Right-Back,England,1997-12-19,"Calgary, Alberta  ",Canada,185,AC Milan,2027-06-30,-,,23,right,adidas,27
+Serhou Guirassy,40.0,Centre Forward,Left Winger,Guinea,1996-03-12,Arles  ,France,187,VfB Stuttgart,2026-06-30,-,,9,right,adidas,28
+Gregor Kobel,40.0,Goalkeeper,,Switzerland,1997-12-06,Zürich  ,Switzerland,196,Borussia Dortmund,2028-06-30,-,,1,right,,27
+Ederson,40.0,Goalkeeper,,Brazil,1993-08-17,Osasco (SP)  ,Brazil,188,Manchester City,2026-06-30,-,,31,left,Puma,31
+André Onana,40.0,Goalkeeper,,Cameroon,1996-04-02,Nkol Ngok  ,Cameroon,190,Manchester United,2028-06-30,-,,24,right,adidas,28
+Rúben Neves,40.0,Defensive Midfield,Central Midfield,Portugal,1997-03-13,Santa Maria da Feira  ,Portugal,180,Al-Hilal SFC,2026-06-30,-,,8,right,Nike,27
+Milan Skriniar,40.0,Centre Back,,Slovakia,1995-02-11,Žiar nad Hronom  ,Slovakia,188,Paris Saint-Germain,2028-06-30,-,,37,right,Puma,29
+Andreas Christensen,40.0,Centre Back,Defensive Midfield,Denmark,1996-04-10,Lillerød  ,Denmark,187,FC Barcelona,2026-06-30,-,,15,right,adidas,28
+Julian Brandt,40.0,Attacking Midfield,"Right Winger, Left Winger",Germany,1996-05-02,Bremen  ,Germany,185,Borussia Dortmund,2026-06-30,-,,19,right,Nike,28
+Adrien Rabiot,40.0,Central Midfield,"Defensive Midfield, Left Midfield",France,1995-04-03,Saint-Maurice  ,France,188,Juventus FC,2024-06-30,-,,25,left,adidas,29
+Mike Maignan,40.0,Goalkeeper,,France,1995-07-03,Cayenne  ,French Guiana,191,AC Milan,2026-06-30,-,,16,right,,29
+Nathan Aké,40.0,Centre Back,"Left-Back, Defensive Midfield",Netherlands,1995-02-18,Den Haag  ,Netherlands,180,Manchester City,2027-06-30,-,,6,left,Nike,29
+Hakan Çalhanoğlu,40.0,Defensive Midfield,"Central Midfield, Attacking Midfield",Türkiye,1994-02-08,Mannheim  ,Germany,178,Inter Milan,2027-06-30,-,,20,right,Nike,30
+Rico Lewis,38.0,Right Back,"Defensive Midfield, Right Midfield",England,2004-11-21,Bury  ,England,169,Manchester City,2028-06-30,-,,82,right,,20
+Bryan Mbeumo,38.0,Right Winger,"Second Striker, Centre-Forward",Cameroon,1999-08-07,Avallon  ,France,171,Brentford FC,2026-06-30,-,,19,left,,25
+Boubacar Kamara,38.0,Defensive Midfield,"Centre-Back, Central Midfield",France,1999-11-23,Marseille  ,France,184,Aston Villa,2027-06-30,-,,44,right,Nike,25
+Marc Guéhi,38.0,Centre Back,,England,2000-07-13,Abidjan  ,Cote d'Ivoire,182,Crystal Palace,2026-06-30,-,,6,right,,24
+Nayef Aguerd,38.0,Centre Back,,Morocco,1996-03-30,Kénitra  ,Morocco,190,West Ham United,2027-06-30,-,,27,left,,28
+John Stones,38.0,Centre Back,"Right-Back, Defensive Midfield",England,1994-05-28,Barnsley  ,England,188,Manchester City,2026-06-30,-,,5,right,Nike,30
+Leandro Trossard,38.0,Left Winger,"Attacking Midfield, Second Striker",Belgium,1994-12-04,Waterschei  ,Belgium,172,Arsenal FC,2026-06-30,-,,19,right,,30
+Kobbie Mainoo,35.0,Central Midfield,"Attacking Midfield, Defensive Midfield",England,2005-04-19,Stockport  ,England,175,Manchester United,2027-06-30,-,,37,right,,19
+Nicolas Jackson,35.0,Centre Forward,"Right Winger, Left Winger",Senegal,2001-06-20,Djibonker  ,Senegal,188,Chelsea FC,2031-06-30,-,,15,right,,23
+Mohamed Simakan,35.0,Centre Back,Right-Back,France,2000-05-03,Marseille  ,France,187,RB Leipzig,2027-06-30,-,,2,right,Puma,24
+Piero Hincapié,35.0,Centre Back,"Left-Back, Left Midfield",Ecuador,2002-01-09,Esmeraldas  ,Ecuador,184,Bayer 04 Leverkusen,2027-06-30,-,,3,left,adidas,22
+Elye Wahi,35.0,Centre Forward,"Right Winger, Left Winger",France,2003-01-02,Courcouronnes  ,France,181,RC Lens,2028-06-30,-,,9,right,adidas,21
+Odilon Kossounou,35.0,Centre Back,Right-Back,Ivory Coast,2001-01-04,Abidjan  ,Cote d'Ivoire,191,Bayer 04 Leverkusen,2026-06-30,-,,6,right,,23
+Jean-Clair Todibo,35.0,Centre Back,,France,1999-12-30,Cayenne  ,French Guiana,190,OGC Nice,2027-06-30,-,,6,right,adidas,25
+Oihan Sancet,35.0,Attacking Midfield,Central Midfield,Spain,2000-04-25,Pamplona  ,Spain,188,Athletic Bilbao,2032-06-30,-,,8,right,,24
+Harvey Elliott,35.0,Attacking Midfield,"Right Winger, Central Midfield",England,2003-04-04,London  ,England,170,Liverpool FC,2027-06-30,-,,19,left,New Balance,21
+Cheick Doucouré,35.0,Defensive Midfield,Centre-Back,Mali,2000-01-08,Bamako  ,Mali,180,Crystal Palace,2029-06-30,-,,28,right,,24
+Mykhaylo Mudryk,35.0,Left Winger,"Right Winger, Attacking Midfield",Ukraine,2001-01-05,"Krasnograd, Kharkiv Oblast  ",Ukraine,175,Chelsea FC,2031-06-30,-,,10,right,Nike,23
+Max Kilman,35.0,Centre Back,Left-Back,England,1997-05-23,London  ,England,194,Wolverhampton Wanderers,2028-06-30,-,,23,left,,27
+Tino Livramento,35.0,Right Back,"Right Midfield, Left-Back",England,2002-11-12,London  ,England,182,Newcastle United,2028-06-30,-,,21,right,adidas,22
+Giorgi Mamardashvili,35.0,Goalkeeper,,Georgia,2000-09-29,Tbilisi  ,Georgia,197,Valencia CF,2027-06-30,-,,25,left,,24
+Ryan Gravenberch,35.0,Central Midfield,Defensive Midfield,Netherlands,2002-05-16,Amsterdam  ,Netherlands,190,Liverpool FC,2028-06-30,-,,38,right,adidas,22
+Khéphren Thuram,35.0,Central Midfield,"Defensive Midfield, Left Midfield",France,2001-03-26,Reggio Emilia  ,Italy,192,OGC Nice,2025-06-30,-,,19,right,,23
+Curtis Jones,35.0,Central Midfield,"Attacking Midfield, Left Midfield",England,2001-01-30,Liverpool  ,England,185,Liverpool FC,2027-06-30,-,,17,right,Nike,23
+Nahuel Molina,35.0,Right Back,Right Midfield,Argentina,1998-04-06,Embalse  ,Argentina,175,Atlético de Madrid,2027-06-30,-,,16,right,,26
+Ezri Konsa,35.0,Centre Back,Right-Back,England,1997-10-23,London  ,England,183,Aston Villa,2028-06-30,-,,4,right,,27
+Yves Bissouma,35.0,Central Midfield,"Defensive Midfield, Attacking Midfield",Mali,1996-08-30,Issia  ,Cote d'Ivoire,182,Tottenham Hotspur,2026-06-30,-,,8,right,Nike,28
+Dávid Hancko,35.0,Centre Back,Left-Back,Slovakia,1997-12-13,Prievidza  ,Slovakia,188,Feyenoord Rotterdam,2028-06-30,-,,33,left,,27
+Edson Álvarez,35.0,Defensive Midfield,Centre-Back,Mexico,1997-10-24,Tlalnepantla  ,Mexico,190,West Ham United,2028-06-30,-,,19,right,adidas,27
+Ferran Torres,35.0,Left Winger,"Right Winger, Centre-Forward",Spain,2000-02-29,Foios  ,Spain,184,FC Barcelona,2027-06-30,-,,7,right,adidas,24
+Harvey Barnes,35.0,Left Winger,"Left Midfield, Attacking Midfield",England,1997-12-09,Burnley  ,England,182,Newcastle United,2028-06-30,-,,15,right,,27
+Leon Bailey,35.0,Left Winger,Right Winger,Jamaica,1997-08-09,Kingston  ,Jamaica,178,Aston Villa,2027-06-30,-,,31,left,Nike,27
+Diogo Dalot,35.0,Right Back,"Right Midfield, Left-Back",Portugal,1999-03-18,Braga  ,Portugal,183,Manchester United,2028-06-30,-,,20,right,Nike,25
+Rodrigo Bentancur,35.0,Central Midfield,Defensive Midfield,Uruguay,1997-06-25,Nueva Helvecia  ,Uruguay,187,Tottenham Hotspur,2026-06-30,-,,30,right,adidas,27
+Ismaël Bennacer,35.0,Defensive Midfield,"Attacking Midfield, Central Midfield",Algeria,1997-12-01,Arles  ,France,175,AC Milan,2027-06-30,-,,4,left,,27
+Pervis Estupiñán,35.0,Left Back,Left Midfield,Ecuador,1998-01-21,Esmeraldas  ,Ecuador,175,Brighton & Hove Albion,2027-06-30,-,,30,left,Nike,26
+Joe Willock,35.0,Central Midfield,"Attacking Midfield, Right Midfield",England,1999-08-20,London  ,England,186,Newcastle United,2027-06-30,-,,28,right,adidas,25
+Tammy Abraham,35.0,Centre Forward,,England,1997-10-02,London  ,England,194,AS Roma,2026-06-30,-,,9,right,Nike,27
+Brahim Díaz,35.0,Attacking Midfield,"Right Winger, Second Striker",Morocco,1999-08-03,Málaga  ,Spain,170,Real Madrid,2027-06-30,-,,21,both,adidas,25
+Guglielmo Vicario,35.0,Goalkeeper,,Italy,1996-10-07,Udine  ,Italy,194,Tottenham Hotspur,2028-06-30,-,,13,right,,28
+Tomas Soucek,35.0,Defensive Midfield,"Central Midfield, Attacking Midfield",Czechia,1995-02-27,Havlíčkův Brod  ,Czech Republic,192,West Ham United,2027-06-30,-,,28,right,,29
+Sergej Milinković-Savić,35.0,Central Midfield,Attacking Midfield,Serbia,1995-02-27,Lleida  ,Spain,192,Al-Hilal SFC,2026-06-30,-,,22,right,Nike,29
+David Raya,35.0,Goalkeeper,,Spain,1995-09-15,Barcelona  ,Spain,183,Arsenal FC,2024-06-30,Brentford FC,2025-06-30,22,right,,29
+Joachim Andersen,35.0,Centre Back,,Denmark,1996-05-31,Frederiksberg  ,Denmark,192,Crystal Palace,2026-06-30,-,,16,right,,28
+Dominic Solanke,35.0,Centre Forward,,England,1997-09-14,Basingstoke  ,England,186,AFC Bournemouth,2027-06-30,-,,9,right,adidas,27
+Andrew Robertson,35.0,Left Back,Left Midfield,Scotland,1994-03-11,Glasgow  ,Scotland,178,Liverpool FC,2026-06-30,-,,26,left,Nike,30
+Fabinho,35.0,Defensive Midfield,Centre-Back,Brazil,1993-10-23,Campinas  ,Brazil,188,Al-Ittihad Club,2026-06-30,-,,8,right,adidas,31
+Luke Shaw,35.0,Left Back,"Left Midfield, Centre-Back",England,1995-07-12,London  ,England,178,Manchester United,2027-06-30,-,,23,left,adidas,29
+James Ward-Prowse,35.0,Central Midfield,"Attacking Midfield, Right Midfield",England,1994-11-01,Portsmouth  ,England,177,West Ham United,2027-06-30,-,,7,right,,30
+Manuel Locatelli,33.0,Defensive Midfield,Central Midfield,Italy,1998-01-08,Lecco  ,Italy,185,Juventus FC,2028-06-30,-,,5,right,,26
+Malo Gusto,32.0,Right Back,Right Midfield,France,2003-05-19,Décines-Charpieu  ,France,178,Chelsea FC,2030-06-30,-,,27,right,,21
+Rayan Aït-Nouri,32.0,Left Back,Left Midfield,Algeria,2001-06-06,Montreuil  ,France,180,Wolverhampton Wanderers,2026-06-30,-,,3,left,,23
+Wesley Fofana,32.0,Centre Back,,France,2000-12-17,Marseille  ,France,186,Chelsea FC,2029-06-30,-,,33,right,adidas,24
+Benoît Badiashile,32.0,Centre Back,Left-Back,France,2001-03-26,Limoges  ,France,194,Chelsea FC,2030-06-30,-,,5,left,adidas,23
+Lutsharel Geertruida,32.0,Right Back,"Centre-Back, Defensive Midfield",Netherlands,2000-07-18,Rotterdam  ,Netherlands,184,Feyenoord Rotterdam,2025-06-30,-,,4,right,adidas,24
+Joey Veerman,32.0,Central Midfield,"Attacking Midfield, Defensive Midfield",Netherlands,1998-11-19,Purmerend  ,Netherlands,185,PSV Eindhoven,2026-06-30,-,,23,right,adidas,26
+Ibrahim Sangaré,32.0,Defensive Midfield,Central Midfield,Ivory Coast,1997-12-02,Abidjan  ,Cote d'Ivoire,191,Nottingham Forest,2028-06-30,-,,6,right,,27
+Scott McTominay,32.0,Defensive Midfield,"Central Midfield, Attacking Midfield",Scotland,1996-12-08,Lancaster  ,England,191,Manchester United,2025-06-30,-,,39,right,adidas,28
+Christian Pulisic,32.0,Right Winger,"Left Winger, Attacking Midfield",USA,1998-09-18,"Hershey, Pennsylvania  ",United States,177,AC Milan,2027-06-30,-,,11,right,Puma,26
+Virgil van Dijk,32.0,Centre Back,,Netherlands,1991-07-08,Breda  ,Netherlands,193,Liverpool FC,2025-06-30,-,,4,right,Nike,33
+Alisson,32.0,Goalkeeper,,Brazil,1992-10-02,Novo Hamburgo  ,Brazil,193,Liverpool FC,2027-06-30,-,,1,right,Nike,32
+Arthur Vermeeren,30.0,Central Midfield,Defensive Midfield,Belgium,2005-02-07,Lier  ,Belgium,180,Atlético de Madrid,2030-06-30,-,,18,right,,19
+Kenan Yıldız,30.0,Second Striker,"Left Winger, Right Winger",Türkiye,2005-05-04,Regensburg  ,Germany,187,Juventus FC,2027-06-30,-,,15,both,adidas,19
+Evanilson,30.0,Centre Forward,,Brazil,1999-10-06,Fortaleza  ,Brazil,183,FC Porto,2027-06-30,-,,30,both,,25
+Gabri Veiga,30.0,Central Midfield,"Attacking Midfield, Defensive Midfield",Spain,2002-05-27,Porriño  ,Spain,185,Al-Ahli SFC,2026-06-30,-,,24,right,adidas,22
+Willian Pacho,30.0,Centre Back,,Ecuador,2001-10-16,Quinindé  ,Ecuador,187,Eintracht Frankfurt,2028-06-30,-,,3,left,,23
+Jarrad Branthwaite,30.0,Centre Back,,England,2002-06-27,Carlisle  ,England,195,Everton FC,2027-06-30,-,,32,left,,22
+Simon Adingra,30.0,Left Winger,Right Winger,Ivory Coast,2002-01-01,Abobo  ,Cote d'Ivoire,175,Brighton & Hove Albion,2026-06-30,-,,24,right,,22
+Éderson,30.0,Central Midfield,"Defensive Midfield, Attacking Midfield",Brazil,1999-07-07,Campo Grande  ,Brazil,183,Atalanta BC,2026-06-30,-,,13,right,adidas,25
+Aaron Hickey,30.0,Right Back,"Left-Back, Left Midfield",Scotland,2002-06-10,Glasgow  ,Scotland,185,Brentford FC,2026-06-30,-,,2,both,,22
+Enzo Millot,30.0,Attacking Midfield,"Central Midfield, Right Winger",France,2002-07-17,Lucé  ,France,174,VfB Stuttgart,2028-06-30,-,,8,left,,22
+Yéremy Pino,30.0,Right Winger,Left Winger,Spain,2002-10-20,Las Palmas  ,Spain,172,Villarreal CF,2027-06-30,-,,21,right,,22
+Malick Thiaw,30.0,Centre Back,"Defensive Midfield, Right-Back",Germany,2001-08-08,Düsseldorf  ,Germany,194,AC Milan,2027-06-30,-,,28,right,Under Armour,23
+Folarin Balogun,30.0,Centre Forward,,USA,2001-07-03,"New York City, New York  ",United States,178,AS Monaco,2028-06-30,-,,29,right,adidas,23
+Ian Maatsen,30.0,Left Back,"Left Midfield, Left Winger",Netherlands,2002-03-10,Vlaardingen  ,Netherlands,178,Borussia Dortmund,2024-06-30,Chelsea FC,2026-06-30,22,left,,22
+Kiernan Dewsbury-Hall,30.0,Central Midfield,"Defensive Midfield, Attacking Midfield",England,1998-09-06,Shepshed  ,England,178,Leicester City,2027-06-30,-,,22,left,,26
+Ansu Fati,30.0,Left Winger,"Attacking Midfield, Centre-Forward",Spain,2002-10-31,Bissau  ,Guinea-Bissau,178,Brighton & Hove Albion,2024-06-30,FC Barcelona,2027-06-30,31,right,Nike,22
+João Félix,30.0,Left Winger,"Second Striker, Centre-Forward",Portugal,1999-11-10,Viseu  ,Portugal,181,FC Barcelona,2024-06-30,Atlético de Madrid,2029-06-30,14,right,adidas,25
+Morten Hjulmand,30.0,Defensive Midfield,"Central Midfield, Attacking Midfield",Denmark,1999-06-25,Kastrup  ,Denmark,185,Sporting CP,2028-06-30,-,,42,right,,25
+Orkun Kökçü,30.0,Central Midfield,Attacking Midfield,Türkiye,2000-12-29,Haarlem  ,Netherlands,175,SL Benfica,2028-06-30,-,,10,both,,24
+Charles De Ketelaere,30.0,Attacking Midfield,"Centre-Forward, Right Winger",Belgium,2001-03-10,Brugge  ,Belgium,192,Atalanta BC,2024-06-30,AC Milan,2027-06-30,17,left,,23
+Pedro Gonçalves,30.0,Attacking Midfield,"Left Winger, Right Winger",Portugal,1998-06-28,Chaves  ,Portugal,173,Sporting CP,2027-06-30,-,,8,right,,26
+Ademola Lookman,30.0,Second Striker,"Right Winger, Left Winger",Nigeria,1997-10-20,London  ,England,174,Atalanta BC,2026-06-30,-,,11,right,Nike,27
+Davide Frattesi,30.0,Central Midfield,Attacking Midfield,Italy,1999-09-22,Roma  ,Italy,178,Inter Milan,2028-06-30,US Sassuolo,2026-06-30,16,right,Puma,25
+Nico Schlotterbeck,30.0,Centre Back,Left-Back,Germany,1999-12-01,Waiblingen  ,Germany,191,Borussia Dortmund,2027-06-30,-,,4,left,,25
+Alessandro Buongiorno,30.0,Centre Back,Left-Back,Italy,1999-06-06,Torino  ,Italy,190,Torino FC,2028-06-30,-,,4,left,adidas,25
+Frank Anguissa,30.0,Central Midfield,Defensive Midfield,Cameroon,1995-11-16,Yaoundé  ,Cameroon,184,SSC Napoli,2025-06-30,-,,99,right,,29
+Fabián Ruiz,30.0,Central Midfield,"Defensive Midfield, Attacking Midfield",Spain,1996-04-03,Los Palacios y Villafranca  ,Spain,189,Paris Saint-Germain,2027-06-30,-,,8,left,adidas,28
+Artem Dovbyk,30.0,Centre Forward,,Ukraine,1997-06-21,Cherkasy  ,Ukraine,189,Girona FC,2028-06-30,-,,9,left,,27
+Noussair Mazraoui,30.0,Right Back,"Left-Back, Central Midfield",Morocco,1997-11-14,Leiderdorp  ,Netherlands,183,Bayern Munich,2026-06-30,-,,40,right,adidas,27
+Eddie Nketiah,30.0,Centre Forward,"Right Winger, Left Winger",England,1999-05-30,London  ,England,175,Arsenal FC,2027-06-30,-,,14,right,Under Armour,25
+Takehiro Tomiyasu,30.0,Right Back,"Centre-Back, Left-Back",Japan,1998-11-05,"Fukuoka, Fukuoka  ",Japan,188,Arsenal FC,2026-06-30,-,,18,right,,26
+Malcom,30.0,Right Winger,"Left Winger, Second Striker",Brazil,1997-02-26,São Paulo  ,Brazil,171,Al-Hilal SFC,2027-06-30,-,,77,left,adidas,27
+Mathias Jensen,30.0,Central Midfield,,Denmark,1996-01-01,"Jerslev, West Zealand  ",Denmark,180,Brentford FC,2026-06-30,-,,8,right,Nike,28
+Ben Chilwell,30.0,Left Back,Left Midfield,England,1996-12-21,Milton Keynes  ,England,180,Chelsea FC,2027-06-30,-,,21,left,Nike,28
+Marcos Llorente,30.0,Central Midfield,"Right Midfield, Right-Back",Spain,1995-01-30,Madrid  ,Spain,184,Atlético de Madrid,2027-06-30,-,,14,right,Nike,29
+Aleksandr Golovin,30.0,Attacking Midfield,"Central Midfield, Left Winger",Russia,1996-05-30,"Kaltan, Kemerovo Oblast  ",Russia,178,AS Monaco,2026-06-30,-,,17,right,Nike,28
+Rodrigo de Paul,30.0,Central Midfield,Attacking Midfield,Argentina,1994-05-24,Sarandí  ,Argentina,180,Atlético de Madrid,2026-06-30,-,,5,right,adidas,30
+Otávio,30.0,Attacking Midfield,"Right Winger, Central Midfield",Portugal,1995-02-09,João Pessoa  ,Brazil,172,Al-Nassr FC,2026-06-30,-,,25,right,,29
+José Gayà,30.0,Left Back,,Spain,1995-05-25,Pedreguer  ,Spain,172,Valencia CF,2027-06-30,-,,14,left,Nike,29
+Jonathan Tah,30.0,Centre Back,,Germany,1996-02-11,Hamburg  ,Germany,195,Bayer 04 Leverkusen,2025-06-30,-,,4,right,adidas,28
+John McGinn,30.0,Central Midfield,"Left Midfield, Defensive Midfield",Scotland,1994-10-18,Glasgow  ,Scotland,178,Aston Villa,2027-06-30,-,,7,left,,30
+Stanislav Lobotka,30.0,Defensive Midfield,Central Midfield,Slovakia,1994-11-25,Trenčín  ,Slovakia,168,SSC Napoli,2027-06-30,-,,68,right,,30
+João Cancelo,30.0,Right Back,"Left-Back, Right Midfield",Portugal,1994-05-27,Barreiro  ,Portugal,182,FC Barcelona,2024-06-30,Manchester City,2027-06-30,2,right,Nike,30
+Leon Goretzka,30.0,Central Midfield,"Attacking Midfield, Defensive Midfield",Germany,1995-02-06,Bochum  ,Germany,189,Bayern Munich,2026-06-30,-,,8,right,,29
+Jan Oblak,30.0,Goalkeeper,,Slovenia,1993-01-07,Škofja Loka  ,Slovenia,188,Atlético de Madrid,2028-06-30,-,,13,right,Puma,31
+Thibaut Courtois,30.0,Goalkeeper,,Belgium,1992-05-11,Bree  ,Belgium,200,Real Madrid,2026-06-30,-,,1,left,Nike,32
+Romelu Lukaku,30.0,Centre Forward,,Belgium,1993-05-13,Antwerpen  ,Belgium,191,AS Roma,2024-06-30,Chelsea FC,2026-06-30,90,left,Nike,31
+Marc-André ter Stegen,30.0,Goalkeeper,,Germany,1992-04-30,Mönchengladbach  ,Germany,187,FC Barcelona,2028-06-30,-,,1,right,adidas,32
+Mateo Kovacic,30.0,Central Midfield,"Attacking Midfield, Defensive Midfield",Croatia,1994-05-06,Linz  ,Austria,177,Manchester City,2027-06-30,-,,8,right,Nike,30
+Lionel Messi,30.0,Right Winger,"Centre-Forward, Second Striker",Argentina,1987-06-24,Rosario  ,Argentina,170,Inter Miami CF,2025-12-31,-,,10,left,adidas,37
+Casemiro,30.0,Defensive Midfield,,Brazil,1992-02-23,São José dos Campos  ,Brazil,185,Manchester United,2026-06-30,-,,18,right,adidas,32
+Hugo Larsson,28.0,Central Midfield,Defensive Midfield,Sweden,2004-06-27,Svarte  ,Sweden,187,Eintracht Frankfurt,2028-06-30,-,,16,right,Puma,20
+Danilo,28.0,Central Midfield,"Defensive Midfield, Attacking Midfield",Brazil,2001-04-29,Salvador  ,Brazil,177,Nottingham Forest,2029-06-30,-,,28,left,Nike,23
+João Gomes,28.0,Central Midfield,Defensive Midfield,Brazil,2001-02-12,Rio de Janeiro   ,Brazil,176,Wolverhampton Wanderers,2028-06-30,-,,8,right,Nike,23
+Jamie Bynoe-Gittens,28.0,Left Winger,Right Winger,England,2004-08-08,London  ,England,177,Borussia Dortmund,2028-06-30,-,,43,right,,20
+Ilya Zabarnyi,28.0,Centre Back,,Ukraine,2002-09-01,Kyiv  ,Ukraine,189,AFC Bournemouth,2028-06-30,-,,27,right,,22
+Antony,28.0,Right Winger,Left Winger,Brazil,2000-02-24,São Paulo  ,Brazil,172,Manchester United,2027-06-30,-,,21,left,Puma,24
+Armando Broja,28.0,Centre Forward,,Albania,2001-09-10,Slough  ,England,191,Fulham FC,2024-06-30,Chelsea FC,2028-06-30,9,right,Nike,23
+Youssouf Fofana,28.0,Central Midfield,"Defensive Midfield, Right Midfield",France,1999-01-10,Paris  ,France,185,AS Monaco,2025-06-30,-,,19,right,adidas,25
+Karim Adeyemi,28.0,Left Winger,"Centre-Forward, Right Winger",Germany,2002-01-18,München  ,Germany,180,Borussia Dortmund,2027-06-30,-,,27,left,Nike,22
+Matty Cash,28.0,Right Back,"Right Midfield, Central Midfield",Poland,1997-08-07,Slough  ,England,185,Aston Villa,2027-06-30,-,,2,right,Under Armour,27
+Amine Gouiri,28.0,Left Winger,"Centre-Forward, Second Striker",Algeria,2000-02-16,Bourgoin-Jallieu  ,France,181,Stade Rennais FC,2027-06-30,-,,10,right,,24
+Giacomo Raspadori,28.0,Second Striker,"Left Winger, Centre-Forward",Italy,2000-02-18,Bentivoglio  ,Italy,172,SSC Napoli,2028-06-30,-,,81,right,adidas,24
+Vitaliy Mykolenko,28.0,Left Back,"Centre-Back, Left Midfield",Ukraine,1999-05-29,Cherkasy  ,Ukraine,180,Everton FC,2026-06-30,-,,19,left,,25
+Kalvin Phillips,28.0,Defensive Midfield,"Central Midfield, Centre-Back",England,1995-12-02,Leeds  ,England,179,West Ham United,2024-06-30,Manchester City,2028-06-30,11,right,,29
+Ermedin Demirovic,28.0,Centre Forward,"Right Winger, Left Winger",Bosnia,1998-03-25,Hamburg  ,Germany,185,FC Augsburg,2026-06-30,-,,9,right,Nike,26
+Taiwo Awoniyi,28.0,Centre Forward,,Nigeria,1997-08-12,Ilorin  ,Nigeria,183,Nottingham Forest,2027-06-30,-,,9,right,,27
+Viktor Tsygankov,28.0,Right Winger,"Attacking Midfield, Left Winger",Ukraine,1997-11-15,Nahariya  ,Israel,178,Girona FC,2027-06-30,-,,8,left,,27
+Alex Iwobi,28.0,Attacking Midfield,"Left Winger, Right Winger",Nigeria,1996-05-03,Lagos  ,Nigeria,183,Fulham FC,2028-06-30,-,,22,right,Nike,28
+Xaver Schlager,28.0,Central Midfield,"Attacking Midfield, Defensive Midfield",Austria,1997-09-28,Linz  ,Austria,174,RB Leipzig,2026-06-30,-,,24,left,Puma,27
+Konrad Laimer,28.0,Central Midfield,"Defensive Midfield, Right-Back",Austria,1997-05-27,Salzburg  ,Austria,180,Bayern Munich,2027-06-30,-,,27,right,,27
+Emiliano Martínez,28.0,Goalkeeper,,Argentina,1992-09-02,Mar del Plata  ,Argentina,195,Aston Villa,2027-06-30,-,,1,right,adidas,32
+Aleksandar Mitrovic,28.0,Centre Forward,,Serbia,1994-09-16,Smederevo  ,Yugoslavia (Republic),189,Al-Hilal SFC,2026-06-30,-,,9,right,Puma,30
+Thiago Almada,27.0,Attacking Midfield,"Left Winger, Right Winger",Argentina,2001-04-26,Buenos Aires  ,Argentina,171,Atlanta United FC,2026-12-31,-,,10,right,Nike,23
+Mats Wieffer,27.0,Defensive Midfield,"Central Midfield, Centre-Back",Netherlands,1999-11-16,Borne  ,Netherlands,188,Feyenoord Rotterdam,2027-06-30,-,,20,right,Puma,25
+Denzel Dumfries,27.0,Right Midfield,Right-Back,Netherlands,1996-04-18,Rotterdam  ,Netherlands,188,Inter Milan,2025-06-30,-,,2,right,,28
+Olivier Boscagli,27.0,Centre Back,"Left-Back, Defensive Midfield",France,1997-11-18,Monaco  ,Monaco,181,PSV Eindhoven,2025-06-30,-,,18,left,,27
+Murillo,25.0,Centre Back,,Brazil,2002-07-04,São Paulo  ,Brazil,184,Nottingham Forest,2028-06-30,-,,40,left,Nike,22
+Pau Cubarsí,25.0,Centre Back,,Spain,2007-01-22,Estanyol  ,Spain,184,FC Barcelona,2026-06-30,-,,33,right,,17
+André,25.0,Defensive Midfield,"Central Midfield, Centre-Back",Brazil,2001-07-16,Ibirataia  ,Brazil,176,Fluminense Football Club,2026-12-31,-,,7,right,Nike,23
+Aleksandar Pavlovic,25.0,Defensive Midfield,Central Midfield,Germany,2004-05-03,München   ,Germany,188,Bayern Munich,2027-06-30,-,,45,both,,20
+Pablo Barrios,25.0,Central Midfield,Attacking Midfield,Spain,2003-06-15,Madrid  ,Spain,181,Atlético de Madrid,2028-06-30,-,,24,right,,21
+Alan Varela,25.0,Defensive Midfield,Central Midfield,Argentina,2001-07-04,Isidro Casanova  ,Argentina,177,FC Porto,2028-06-30,-,,22,right,,23
+Igor Thiago,25.0,Centre Forward,Second Striker,Brazil,2001-06-26,Gama  ,Brazil,191,Club Brugge KV,2027-06-30,-,,99,right,,23
+Lesley Ugochukwu,25.0,Defensive Midfield,Central Midfield,France,2004-03-26,Rennes  ,France,190,Chelsea FC,2030-06-30,-,,16,right,Nike,20
+Samuel Lino,25.0,Left Winger,"Left Midfield, Right Winger",Brazil,1999-12-23,Santo André  ,Brazil,170,Atlético de Madrid,2027-06-30,-,,12,right,,25
+Matías Soulé,25.0,Right Winger,"Attacking Midfield, Second Striker",Argentina,2003-04-15,Mar del Plata  ,Argentina,182,Frosinone Calcio,2024-06-30,Juventus FC,2026-06-30,18,left,adidas,21
+Marcos Leonardo,25.0,Centre Forward,Second Striker,Brazil,2003-05-02,Itapetinga  ,Brazil,177,SL Benfica,2029-06-30,-,,36,right,Nike,21
+Oscar Bobb,25.0,Right Winger,"Attacking Midfield, Left Winger",Norway,2003-07-12,Oslo  ,Norway,175,Manchester City,2029-06-30,-,,52,left,Puma,21
+Bilal El Khannouss,25.0,Attacking Midfield,Central Midfield,Morocco,2004-05-10,Strombeek-Bever  ,Belgium,180,KRC Genk,2027-06-30,-,,10,right,,20
+Manu Koné,25.0,Central Midfield,"Defensive Midfield, Attacking Midfield",France,2001-05-17,Colombes  ,France,185,Borussia Mönchengladbach,2026-06-30,-,,17,right,adidas,23
+Georgiy Sudakov,25.0,Attacking Midfield,"Central Midfield, Left Midfield",Ukraine,2002-09-01,"Bryanka, Lugansk Oblast  ",Ukraine,177,Shakhtar Donetsk,2028-12-31,-,,10,both,Nike,22
+Rayan Cherki,25.0,Attacking Midfield,"Left Winger, Right Winger",France,2003-08-17,Lyon  ,France,177,Olympique Lyon,2025-06-30,-,,18,both,adidas,21
+Pierre Kalulu,25.0,Centre Back,Right-Back,France,2000-06-05,Lyon  ,France,182,AC Milan,2027-06-30,-,,20,right,,24
+Strahinja Pavlovic,25.0,Centre Back,,Serbia,2001-05-24,Šabac  ,Yugoslavia (Republic),194,Red Bull Salzburg,2027-06-30,-,,31,left,Puma,23
+Radu Drăgușin,25.0,Centre Back,Right-Back,Romania,2002-02-03,Bucharest  ,Romania,191,Tottenham Hotspur,2030-06-30,-,,6,right,Nike,22
+Álex Baena,25.0,Attacking Midfield,"Left Winger, Right Winger",Spain,2001-07-20,Roquetas de Mar  ,Spain,174,Villarreal CF,2028-06-30,-,,16,right,,23
+Mohamed Camara,25.0,Defensive Midfield,Central Midfield,Mali,2000-01-06,Bamako  ,Mali,173,AS Monaco,2027-06-30,-,,4,right,,24
+Terem Moffi,25.0,Centre Forward,Right Winger,Nigeria,1999-05-25,Calabar  ,Nigeria,188,OGC Nice,2027-06-30,-,,9,left,,25
+Anatoliy Trubin,25.0,Goalkeeper,,Ukraine,2001-08-01,Donetsk  ,Ukraine,199,SL Benfica,2028-06-30,-,,1,right,Puma,23
+Fábio Vieira,25.0,Attacking Midfield,"Central Midfield, Right Midfield",Portugal,2000-05-30,Santa Maria da Feira  ,Portugal,170,Arsenal FC,2027-06-30,-,,21,left,,24
+Amine Adli,25.0,Left Winger,"Right Winger, Second Striker",Morocco,2000-05-10,Béziers  ,France,174,Bayer 04 Leverkusen,2026-06-30,-,,21,left,adidas,24
+Roger Ibañez,25.0,Centre Back,,Brazil,1998-11-23,Canela  ,Brazil,185,Al-Ahli SFC,2027-06-30,-,,3,right,,26
+Dani Vivian,25.0,Centre Back,,Spain,1999-07-05,Vitoria-Gasteiz  ,Spain,184,Athletic Bilbao,2026-06-30,-,,3,right,,25
+Pepê,25.0,Left Winger,"Right Winger, Right-Back",Brazil,1997-02-24,Foz do Iguaçu  ,Brazil,175,FC Porto,2027-06-30,-,,11,right,,27
+Jesper Lindstrøm,25.0,Attacking Midfield,"Left Winger, Right Winger",Denmark,2000-02-29,Taastrup  ,Denmark,182,SSC Napoli,2028-06-30,-,,29,right,adidas,24
+Noni Madueke,25.0,Right Winger,Centre-Forward,England,2002-03-10,London  ,England,182,Chelsea FC,2030-06-30,-,,11,left,adidas,22
+Riccardo Calafiori,25.0,Centre Back,"Left Midfield, Left-Back",Italy,2002-05-19,Roma  ,Italy,188,Bologna FC 1909,2027-06-30,-,,33,left,,22
+Facundo Medina,25.0,Centre Back,Left-Back,Argentina,1999-05-28,Villa Fiorito  ,Argentina,184,RC Lens,2028-06-30,-,,14,left,,25
+Brian Brobbey,25.0,Centre Forward,,Netherlands,2002-02-01,Amsterdam  ,Netherlands,180,Ajax Amsterdam,2027-06-30,-,,9,right,Nike,22
+Kevin Schade,25.0,Right Winger,"Left Winger, Centre-Forward",Germany,2001-11-27,Potsdam  ,Germany,185,Brentford FC,2028-06-30,-,,9,right,Puma,23
+David Neres,25.0,Right Winger,"Left Winger, Attacking Midfield",Brazil,1997-03-03,São Paulo  ,Brazil,176,SL Benfica,2027-06-30,-,,7,left,adidas,27
+Nathan Collins,25.0,Centre Back,Right-Back,Ireland,2001-04-30,Leixlip  ,Ireland,193,Brentford FC,2029-06-30,-,,22,right,,23
+Youssoufa Moukoko,25.0,Centre Forward,Second Striker,Germany,2004-11-20,Yaoundé  ,Cameroon,179,Borussia Dortmund,2026-06-30,-,,18,left,Nike,20
+Mattéo Guendouzi,25.0,Central Midfield,"Defensive Midfield, Attacking Midfield",France,1999-04-14,Poissy  ,France,185,SS Lazio,2028-06-30,Olympique Marseille,2025-06-30,8,right,adidas,25
+Rodrigo Riquelme,25.0,Left Winger,"Right Winger, Attacking Midfield",Spain,2000-04-02,Madrid  ,Spain,174,Atlético de Madrid,2028-06-30,-,,17,right,,24
+Andrea Cambiaso,25.0,Left Back,"Right-Back, Left Midfield",Italy,2000-02-20,Genova  ,Italy,182,Juventus FC,2027-06-30,-,,27,both,adidas,24
+Galeno,25.0,Left Winger,"Right Winger, Left Midfield",Brazil,1997-10-22,Barra da Corda  ,Brazil,179,FC Porto,2028-06-30,-,,13,right,,27
+Martin Terrier,25.0,Left Winger,Centre-Forward,France,1997-03-04,Armentières  ,France,184,Stade Rennais FC,2026-06-30,-,,7,right,adidas,27
+Aaron Ramsdale,25.0,Goalkeeper,,England,1998-05-14,Chesterton  ,England,190,Arsenal FC,2026-06-30,-,,1,right,adidas,26
+Jakub Kiwior,25.0,Left Back,"Centre-Back, Defensive Midfield",Poland,2000-02-15,Tychy  ,Poland,189,Arsenal FC,2028-06-30,-,,15,left,,24
+Perr Schuurs,25.0,Centre Back,,Netherlands,1999-11-26,Nieuwstadt  ,Netherlands,191,Torino FC,2026-06-30,-,,3,right,Nike,25
+Felix Nmecha,25.0,Central Midfield,Attacking Midfield,Germany,2000-10-10,Hamburg  ,Germany,190,Borussia Dortmund,2028-06-30,-,,8,right,,24
+Robert Sánchez,25.0,Goalkeeper,,Spain,1997-11-18,Cartagena  ,Spain,197,Chelsea FC,2030-06-30,-,,1,right,Nike,27
+Jadon Sancho,25.0,Left Winger,"Right Winger, Attacking Midfield",England,2000-03-25,London  ,England,180,Borussia Dortmund,2024-06-30,Manchester United,2026-06-30,10,right,Nike,24
+Emile Smith Rowe,25.0,Attacking Midfield,"Central Midfield, Left Midfield",England,2000-07-28,London  ,England,182,Arsenal FC,2026-06-30,-,,10,right,Nike,24
+Yoane Wissa,25.0,Left Winger,"Centre-Forward, Right Winger",DR Congo,1996-09-03,Villeneuve-Saint-George  ,France,176,Brentford FC,2026-06-30,-,,11,right,,28
+Lovro Majer,25.0,Attacking Midfield,Central Midfield,Croatia,1998-01-17,Zagreb  ,Croatia,178,VfL Wolfsburg,2028-06-30,-,,19,left,,26
+Hiroki Ito,25.0,Centre Back,"Left-Back, Defensive Midfield",Japan,1999-05-12,"Hamamatsu, Shizuoka  ",Japan,188,VfB Stuttgart,2027-06-30,-,,21,left,,25
+Sean Longstaff,25.0,Central Midfield,"Attacking Midfield, Defensive Midfield",England,1997-10-30,Newcastle upon Tyne  ,England,187,Newcastle United,2025-06-30,-,,36,right,,27
+Rico Henry,25.0,Left Back,Left Midfield,England,1997-07-08,Birmingham  ,England,170,Brentford FC,2026-06-30,-,,3,left,,27
+Denis Zakaria,25.0,Defensive Midfield,"Central Midfield, Centre-Back",Switzerland,1996-11-20,Genf  ,Switzerland,190,AS Monaco,2028-06-30,-,,6,right,adidas,28
+Weston McKennie,25.0,Central Midfield,"Right Midfield, Defensive Midfield",USA,1998-08-28,"Little Elm, Texas  ",United States,185,Juventus FC,2025-06-30,-,,16,right,adidas,26
+Gianluca Scamacca,25.0,Centre Forward,,Italy,1999-01-01,Roma  ,Italy,195,Atalanta BC,2027-06-30,-,,90,right,Nike,25
+Marcus Edwards,25.0,Right Winger,"Attacking Midfield, Left Winger",England,1998-12-03,London  ,England,168,Sporting CP,2026-06-30,-,,10,left,,26
+Hee-chan Hwang,25.0,Centre Forward,"Left Winger, Right Winger",South Korea,1996-01-26,"Chuncheon, Gangwon  ","Korea, South",177,Wolverhampton Wanderers,2028-06-30,-,,11,right,,28
+Lorenzo Pellegrini,25.0,Attacking Midfield,"Central Midfield, Defensive Midfield",Italy,1996-06-19,Roma  ,Italy,186,AS Roma,2026-06-30,-,,7,right,Nike,28
+Marc Cucurella,25.0,Left Back,"Left Midfield, Centre-Back",Spain,1998-07-22,Alella  ,Spain,173,Chelsea FC,2028-06-30,-,,3,left,Puma,26
+Mario Hermoso,25.0,Centre Back,Left-Back,Spain,1995-06-18,Madrid  ,Spain,184,Atlético de Madrid,2024-06-30,-,,22,left,,29
+Chris Führich,25.0,Left Winger,"Right Winger, Second Striker",Germany,1998-01-09,Castrop-Rauxel  ,Germany,181,VfB Stuttgart,2028-06-30,-,,27,right,,26
+Kevin Danso,25.0,Centre Back,,Austria,1998-09-19,Voitsberg  ,Austria,190,RC Lens,2027-06-30,-,,4,right,Puma,26
+Unai Simón,25.0,Goalkeeper,,Spain,1997-06-11,Vitoria-Gasteiz  ,Spain,190,Athletic Bilbao,2025-06-30,-,,1,right,,27
+Aleix García,25.0,Central Midfield,"Defensive Midfield, Attacking Midfield",Spain,1997-06-28,Ulldecona  ,Spain,173,Girona FC,2026-06-30,-,,14,right,,27
+Joe Gomez,25.0,Centre Back,"Right-Back, Left-Back",England,1997-05-23,London  ,England,188,Liverpool FC,2027-06-30,-,,2,right,Nike,27
+Iñaki Williams,25.0,Right Winger,"Centre-Forward, Left Winger",Ghana,1994-06-15,Bilbao  ,Spain,186,Athletic Bilbao,2028-06-30,-,,9,right,Nike,30
+José María Giménez,25.0,Centre Back,"Right-Back, Defensive Midfield",Uruguay,1995-01-20,Toledo  ,Uruguay,185,Atlético de Madrid,2028-06-30,-,,2,right,Puma,29
+Youri Tielemans,25.0,Central Midfield,"Defensive Midfield, Attacking Midfield",Belgium,1997-05-07,Sint-Pieters-Leeuw  ,Belgium,177,Aston Villa,2027-06-30,-,,8,right,Nike,27
+Álex Remiro,25.0,Goalkeeper,,Spain,1995-03-24,Cascante  ,Spain,191,Real Sociedad,2027-06-30,-,,1,right,,29
+Paulo Dybala,25.0,Second Striker,"Centre-Forward, Right Winger",Argentina,1993-11-15,Laguna Larga  ,Argentina,177,AS Roma,2025-06-30,-,,21,left,adidas,31
+Ruben Loftus-Cheek,25.0,Central Midfield,"Attacking Midfield, Defensive Midfield",England,1996-01-23,London  ,England,191,AC Milan,2027-06-30,-,,8,right,adidas,28
+Piotr Zieliński,25.0,Central Midfield,"Attacking Midfield, Left Midfield",Poland,1994-05-20,Ząbkowice Śląskie  ,Poland,180,SSC Napoli,2024-06-30,-,,20,both,Nike,30
+Aymeric Laporte,25.0,Centre Back,,Spain,1994-05-27,Agen  ,France,191,Al-Nassr FC,2026-06-30,-,,27,left,adidas,30
+Raphaël Varane,25.0,Centre Back,,France,1993-04-25,Lille  ,France,191,Manchester United,2024-06-30,-,,19,right,Puma,31
+Kurt Zouma,25.0,Centre Back,Right-Back,France,1994-10-27,Lyon  ,France,190,West Ham United,2025-06-30,-,,4,right,,30
+Antoine Griezmann,25.0,Centre Forward,"Second Striker, Left Winger",France,1991-03-21,Mâcon  ,France,176,Atlético de Madrid,2026-06-30,-,,7,left,Puma,33
+Marco Verratti,25.0,Central Midfield,Defensive Midfield,Italy,1992-11-05,Pescara  ,Italy,165,Al-Arabi SC,2025-06-30,-,,7,right,Nike,32
+Antonio Rüdiger,25.0,Centre Back,Right-Back,Germany,1993-03-03,Berlin  ,Germany,190,Real Madrid,2026-06-30,-,,22,right,Under Armour,31
+David Alaba,25.0,Centre Back,"Left-Back, Central Midfield",Austria,1992-06-24,Wien  ,Austria,180,Real Madrid,2026-06-30,-,,4,left,adidas,32
+Maximilian Beier,24.0,Centre Forward,"Right Winger, Left Winger",Germany,2002-10-17,Brandenburg an der Havel  ,Germany,185,TSG 1899 Hoffenheim,2027-06-30,-,,14,right,,22
+Lewis Ferguson,24.0,Attacking Midfield,Central Midfield,Scotland,1999-08-24,Hamilton  ,Scotland,181,Bologna FC 1909,2027-06-30,-,,19,right,,25
+Eljif Elmas,24.0,Attacking Midfield,"Left Winger, Central Midfield",North Macedonia,1999-09-24,Skopje  ,Macedonia,184,RB Leipzig,2028-06-30,-,,6,right,,25
+Evan Ndicka,24.0,Centre Back,,Ivory Coast,1999-08-20,Paris  ,France,192,AS Roma,2028-06-30,-,,5,left,,25
+Jerdy Schouten,24.0,Defensive Midfield,"Centre-Back, Central Midfield",Netherlands,1997-01-12,Spijkenisse  ,Netherlands,185,PSV Eindhoven,2028-06-30,-,,22,right,,27
+Guido Rodríguez,24.0,Defensive Midfield,Central Midfield,Argentina,1994-04-12,Sáenz Peña  ,Argentina,185,Real Betis Balompié,2024-06-30,-,,5,right,,30
+Quilindschy Hartman,23.0,Left Back,,Netherlands,2001-11-14,Zwijndrecht  ,Netherlands,183,Feyenoord Rotterdam,2026-06-30,-,,5,left,Puma,23
+Yunus Musah,23.0,Central Midfield,"Attacking Midfield, Right Midfield",USA,2002-11-29,"New York City, New York  ",United States,178,AC Milan,2028-06-30,-,,80,right,Puma,22
+Tijjani Reijnders,23.0,Central Midfield,"Defensive Midfield, Attacking Midfield",Netherlands,1998-07-29,Zwolle  ,Netherlands,185,AC Milan,2028-06-30,-,,14,right,Mizuno,26
+Nathan Tella,23.0,Right Winger,"Left Winger, Right Midfield",Nigeria,1999-07-05,Stevenage  ,England,173,Bayer 04 Leverkusen,2028-06-30,-,,19,right,,25
+Lewis Miley,22.0,Central Midfield,"Attacking Midfield, Defensive Midfield",England,2006-05-01,Stanley  ,England,189,Newcastle United,2029-06-30,-,,67,right,,18
+Jorrel Hato,22.0,Centre Back,Left-Back,Netherlands,2006-03-07,Rotterdam  ,Netherlands,182,Ajax Amsterdam,2028-06-30,-,,4,left,,18
+Tyrick Mitchell,22.0,Left Back,Left Midfield,England,1999-09-01,London  ,England,175,Crystal Palace,2025-06-30,-,,3,left,,25
+Julio Enciso,22.0,Attacking Midfield,"Centre-Forward, Left Winger",Paraguay,2004-01-23,Caaguazú  ,Paraguay,173,Brighton & Hove Albion,2026-06-30,-,,10,right,adidas,20
+Beto,22.0,Centre Forward,,Portugal,1998-01-31,Lisboa  ,Portugal,194,Everton FC,2027-06-30,-,,14,right,,26
+Anthony Elanga,22.0,Left Winger,"Centre-Forward, Right Winger",Sweden,2002-04-27,Hyllie  ,Sweden,178,Nottingham Forest,2028-06-30,-,,21,right,Nike,22
+Kang-in Lee,22.0,Attacking Midfield,"Left Winger, Right Winger",South Korea,2001-02-19,Incheon  ,"Korea, South",173,Paris Saint-Germain,2028-06-30,-,,19,left,adidas,23
+James Garner,22.0,Defensive Midfield,"Central Midfield, Right-Back",England,2001-03-13,Birkenhead  ,England,182,Everton FC,2026-06-30,-,,37,right,,23
+Taylor Harwood-Bellis,22.0,Centre Back,,England,2002-01-30,Stockport  ,England,188,Southampton FC,2024-05-31,Manchester City,2025-06-30,21,right,,22
+Wendel,22.0,Central Midfield,"Attacking Midfield, Defensive Midfield",Brazil,1997-08-28,Duque de Caxias  ,Brazil,180,Zenit St. Petersburg,2027-06-30,-,,8,right,Nike,27
+Sacha Boey,22.0,Right Back,,France,2000-09-13,Montreuil  ,France,178,Bayern Munich,2028-06-30,-,,23,right,Nike,24
+Lucas Chevalier,22.0,Goalkeeper,,France,2001-11-06,Calais  ,France,189,LOSC Lille,2027-06-30,-,,30,right,adidas,23
+Omar Marmoush,22.0,Centre Forward,"Left Winger, Right Winger",Egypt,1999-02-07,Kairo  ,Egypt,183,Eintracht Frankfurt,2027-06-30,-,,7,right,Nike,25
+Pedro,22.0,Centre Forward,,Brazil,1997-06-20,Rio de Janeiro  ,Brazil,185,CR Flamengo,2027-12-31,-,,9,right,adidas,27
+Quinten Timber,22.0,Central Midfield,"Defensive Midfield, Attacking Midfield",Netherlands,2001-06-17,Utrecht  ,Netherlands,179,Feyenoord Rotterdam,2026-06-30,-,,8,right,adidas,23
+Jack Harrison,22.0,Right Winger,Left Winger,England,1996-11-20,Stoke-on-Trent  ,England,175,Everton FC,2024-05-31,Leeds United,2028-06-30,11,left,,28
+Angel Gomes,22.0,Attacking Midfield,"Central Midfield, Defensive Midfield",England,2000-08-31,London  ,England,168,LOSC Lille,2025-06-30,-,,8,right,Nike,24
+Sergiño Dest,22.0,Left Back,Right-Back,USA,2000-11-03,Almere  ,Netherlands,173,PSV Eindhoven,2024-06-30,FC Barcelona,2025-06-30,8,right,,24
+Igor Zubeldia,22.0,Centre Back,"Central Midfield, Defensive Midfield",Spain,1997-03-30,Azkoitia  ,Spain,181,Real Sociedad,2029-06-30,-,,5,right,,27
+Deniz Undav,22.0,Centre Forward,"Second Striker, Attacking Midfield",Germany,1996-07-19,Varel  ,Germany,179,VfB Stuttgart,2024-06-30,Brighton & Hove Albion,2026-06-30,26,right,,28
+Konstantinos Tsimikas,22.0,Left Back,,Greece,1996-05-12,Thessaloniki  ,Greece,179,Liverpool FC,2027-06-30,-,,21,left,adidas,28
+Vangelis Pavlidis,22.0,Centre Forward,"Left Winger, Second Striker",Greece,1998-11-21,Thessaloniki  ,Greece,186,AZ Alkmaar,2025-06-30,-,,9,both,adidas,26
+Emiliano Buendía,22.0,Right Winger,"Left Winger, Attacking Midfield",Argentina,1996-12-25,Mar del Plata  ,Argentina,172,Aston Villa,2026-06-30,-,,10,right,,28
+Philip Billing,22.0,Central Midfield,"Defensive Midfield, Attacking Midfield",Denmark,1996-06-11,Copenhagen  ,Denmark,193,AFC Bournemouth,2027-06-30,-,,29,left,adidas,28
+Dominic Calvert-Lewin,22.0,Centre Forward,"Second Striker, Left Winger",England,1997-03-16,Sheffield  ,England,189,Everton FC,2025-06-30,-,,9,right,Nike,27
+Albert Gudmundsson,22.0,Second Striker,"Left Winger, Right Winger",Iceland,1997-06-15,Reykjavík  ,Iceland,177,Genoa CFC,2027-06-30,-,,11,right,,27
+Saïd Benrahma,22.0,Left Winger,"Right Winger, Attacking Midfield",Algeria,1995-08-10,Aïn Témouchent  ,Algeria,172,Olympique Lyon,2024-06-30,West Ham United,2026-06-30,17,right,,29
+Orel Mangala,22.0,Central Midfield,Defensive Midfield,Belgium,1998-03-18,Brüssel  ,Belgium,178,Olympique Lyon,2024-06-30,Nottingham Forest,2026-06-30,25,right,adidas,26
+Sofyan Amrabat,22.0,Defensive Midfield,"Central Midfield, Left-Back",Morocco,1996-08-21,Huizen  ,Netherlands,185,Manchester United,2024-06-30,ACF Fiorentina,2025-06-30,4,right,Nike,28
+Mattia Zaccagni,22.0,Left Winger,"Attacking Midfield, Central Midfield",Italy,1995-06-16,Cesena  ,Italy,177,SS Lazio,2029-06-30,-,,20,right,,29
+Issa Diop,22.0,Centre Back,,France,1997-01-09,Toulouse  ,France,194,Fulham FC,2027-06-30,-,,31,right,adidas,27
+Vitaly Janelt,22.0,Defensive Midfield,"Central Midfield, Left-Back",Germany,1998-05-10,Hamburg  ,Germany,184,Brentford FC,2026-06-30,-,,27,left,,26
+Patrik Schick,22.0,Centre Forward,"Right Winger, Second Striker",Czechia,1996-01-24,Praha  ,Czech Republic,191,Bayer 04 Leverkusen,2027-06-30,-,,14,left,,28
+Solly March,22.0,Right Winger,"Left Winger, Attacking Midfield",England,1994-07-20,Eastbourne  ,England,180,Brighton & Hove Albion,2026-06-30,-,,7,left,,30
+Niklas Süle,22.0,Centre Back,Right-Back,Germany,1995-09-03,Frankfurt am Main  ,Germany,195,Borussia Dortmund,2026-06-30,-,,25,right,Nike,29
+Jordan Pickford,22.0,Goalkeeper,,England,1994-03-07,Washington  ,England,185,Everton FC,2027-06-30,-,,1,left,Puma,30
+Carlos Baleba,20.0,Defensive Midfield,Central Midfield,Cameroon,2004-01-03,Douala  ,Cameroon,179,Brighton & Hove Albion,2028-06-30,-,,20,left,Puma,20
+Oscar Gloukh,20.0,Attacking Midfield,Central Midfield,Israel,2004-04-01,Rehovot  ,Israel,170,Red Bull Salzburg,2027-06-30,-,,30,both,,20
+Désiré Doué,20.0,Attacking Midfield,"Central Midfield, Left Winger",France,2005-06-03,Angers  ,France,181,Stade Rennais FC,2026-06-30,-,,33,both,,19
+Lucas Beraldo,20.0,Centre Back,Left-Back,Brazil,2003-11-24,Piracicaba  ,Brazil,182,Paris Saint-Germain,2028-06-30,-,,35,left,Nike,21
+Alex Scott,20.0,Central Midfield,"Attacking Midfield, Right Midfield",England,2003-08-21,Guernsey  ,Guernsey,178,AFC Bournemouth,,-,,14,right,,21
+Javi Guerra,20.0,Central Midfield,Defensive Midfield,Spain,2003-05-13,Valencia  ,Spain,187,Valencia CF,2027-06-30,-,,8,right,adidas,21
+Dango Ouattara,20.0,Right Winger,Left Winger,Burkina Faso,2002-02-11,Ouagadougou  ,Burkina Faso,177,AFC Bournemouth,2028-06-30,-,,11,left,,22
+Vanderson,20.0,Right Back,"Right Midfield, Right Winger",Brazil,2001-06-21,Rondonópolis  ,Brazil,173,AS Monaco,2028-06-30,-,,2,right,,23
+Adam Wharton,20.0,Central Midfield,"Attacking Midfield, Defensive Midfield",England,2004-02-06,Blackburn  ,England,182,Crystal Palace,2029-06-30,-,,20,left,,20
+Milos Kerkez,20.0,Left Back,Left Midfield,Hungary,2003-11-07,Vrbas  ,Serbia and Montenegro,180,AFC Bournemouth,,-,,3,left,,21
+El Bilal Touré,20.0,Centre Forward,Right Winger,Mali,2001-10-03,Adjamé  ,Cote d'Ivoire,185,Atalanta BC,2027-06-30,-,,10,both,,23
+Wilfried Singo,20.0,Right Back,"Centre-Back, Right Midfield",Ivory Coast,2000-12-25,Grand-Béréby  ,Cote d'Ivoire,190,AS Monaco,2028-06-30,-,,99,right,,24
+Enzo Le Fée,20.0,Attacking Midfield,"Central Midfield, Left Midfield",France,2000-02-03,Lorient  ,France,173,Stade Rennais FC,2028-06-30,-,,28,right,,24
+Ander Barrenetxea,20.0,Left Winger,"Right Winger, Right-Back",Spain,2001-12-27,Donostia-San Sebastián  ,Spain,175,Real Sociedad,2030-06-30,-,,7,right,,23
+Carlos Augusto,20.0,Left Midfield,"Left-Back, Centre-Back",Brazil,1999-01-07,Campinas  ,Brazil,184,Inter Milan,2028-06-30,AC Monza,2025-06-30,30,left,,25
+Arnaud Kalimuendo,20.0,Centre Forward,,France,2002-01-20,Suresnes  ,France,178,Stade Rennais FC,2027-06-30,-,,9,right,adidas,22
+Dwight McNeil,20.0,Left Winger,"Left Midfield, Right Winger",England,1999-11-22,Rochdale  ,England,183,Everton FC,2027-06-30,-,,7,left,,25
+Lazar Samardžić,20.0,Central Midfield,Attacking Midfield,Serbia,2002-02-24,Berlin  ,Germany,184,Udinese Calcio,2026-06-30,-,,24,left,adidas,22
+Miguel Gutiérrez,20.0,Left Back,Left Midfield,Spain,2001-07-27,Madrid  ,Spain,180,Girona FC,2027-06-30,-,,3,left,,23
+Amar Dedic,20.0,Right Back,"Left-Back, Centre-Back",Bosnia,2002-08-18,Zell am See  ,Austria,180,Red Bull Salzburg,2027-06-30,-,,70,right,,22
+Giovanni Reyna,20.0,Attacking Midfield,"Right Winger, Left Winger",USA,2002-11-13,Durham  ,England,185,Nottingham Forest,2024-06-30,Borussia Dortmund,2026-06-30,20,right,adidas,22
+Aaron Wan-Bissaka,20.0,Right Back,,England,1997-11-26,London  ,England,183,Manchester United,2025-06-30,-,,29,right,adidas,27
+Renan Lodi,20.0,Left Back,Left Midfield,Brazil,1998-04-08,Serrana  ,Brazil,173,Al-Hilal SFC,2027-06-30,-,,6,left,,26
+Marcos Senesi,20.0,Centre Back,,Argentina,1997-05-10,Concordia  ,Argentina,185,AFC Bournemouth,2026-06-30,-,,25,left,,27
+Samuele Ricci,20.0,Defensive Midfield,Central Midfield,Italy,2001-08-21,Pontedera  ,Italy,181,Torino FC,2026-06-30,-,,28,right,,23
+Maxence Lacroix,20.0,Centre Back,"Sweeper, Right-Back",France,2000-04-06,Villeneuve-Saint-Georges  ,France,190,VfL Wolfsburg,2025-06-30,-,,4,right,,24
+Jørgen Strand Larsen,20.0,Centre Forward,"Right Winger, Left Winger",Norway,2000-02-06,Halden  ,Norway,193,Celta de Vigo,2028-06-30,-,,18,right,,24
+Caio Henrique,20.0,Left Back,"Attacking Midfield, Left Midfield",Brazil,1997-07-31,Santos  ,Brazil,178,AS Monaco,2027-06-30,-,,12,left,,27
+Ismaïla Sarr,20.0,Right Winger,"Centre-Forward, Left Winger",Senegal,1998-02-25,Saint-Louis  ,Senegal,185,Olympique Marseille,2028-06-30,-,,23,right,,26
+Samuel Chukwueze,20.0,Right Winger,Left Winger,Nigeria,1999-05-22,Umahaia  ,Nigeria,172,AC Milan,2028-06-30,-,,21,left,,25
+Dodô,20.0,Right Back,,Brazil,1998-11-17,Taubaté  ,Brazil,166,ACF Fiorentina,2027-06-30,-,,2,right,adidas,26
+Marcus Tavernier,20.0,Left Winger,"Right Winger, Attacking Midfield",England,1999-03-22,Leeds  ,England,178,AFC Bournemouth,2028-06-30,-,,16,left,,25
+Maxence Caqueret,20.0,Central Midfield,"Defensive Midfield, Attacking Midfield",France,2000-02-15,Vénissieux  ,France,174,Olympique Lyon,2027-06-30,-,,6,right,adidas,24
+Nicolò Zaniolo,20.0,Attacking Midfield,"Right Winger, Second Striker",Italy,1999-07-02,Massa  ,Italy,190,Aston Villa,2024-06-30,Galatasaray,2027-06-30,22,left,adidas,25
+Jonas Wind,20.0,Centre Forward,Second Striker,Denmark,1999-02-07,Hvidovre  ,Denmark,190,VfL Wolfsburg,2026-06-30,-,,23,right,,25
+Yangel Herrera,20.0,Central Midfield,Defensive Midfield,Venezuela,1998-01-07,"La Guaira, Vargas  ",Venezuela,184,Girona FC,2027-06-30,-,,21,right,adidas,26
+Carlos Soler,20.0,Central Midfield,"Right Midfield, Attacking Midfield",Spain,1997-01-02,Valencia  ,Spain,180,Paris Saint-Germain,2027-06-30,-,,28,right,adidas,27
+Ferdi Kadıoğlu,20.0,Left Back,"Right-Back, Central Midfield",Türkiye,1999-10-07,Arnhem  ,Netherlands,174,Fenerbahce,2026-06-30,-,,7,right,,25
+Arthur Theate,20.0,Centre Back,Left-Back,Belgium,2000-05-25,Liège  ,Belgium,185,Stade Rennais FC,2027-06-30,-,,5,left,,24
+Florentino,20.0,Defensive Midfield,,Portugal,1999-08-19,Lobito  ,Angola,184,SL Benfica,2027-06-30,-,,61,right,adidas,25
+Antonee Robinson,20.0,Left Back,Left Midfield,USA,1997-08-08,Milton Keynes  ,England,183,Fulham FC,2028-06-30,-,,33,left,,27
+Noah Okafor,20.0,Centre Forward,"Left Winger, Right Winger",Switzerland,2000-05-24,Binningen  ,Switzerland,185,AC Milan,2028-06-30,-,,17,right,,24
+Odsonne Edouard,20.0,Centre Forward,,France,1998-01-16,Kourou  ,French Guiana,187,Crystal Palace,2025-06-30,-,,22,right,,26
+Kyle Walker-Peters,20.0,Right Back,Left-Back,England,1997-04-13,London  ,England,173,Southampton FC,2025-06-30,-,,2,right,adidas,27
+Noa Lang,20.0,Left Winger,"Right Winger, Second Striker",Netherlands,1999-06-17,Capelle aan de IJssel  ,Netherlands,170,PSV Eindhoven,2028-06-30,-,,7,right,adidas,25
+Sander Berge,20.0,Defensive Midfield,Central Midfield,Norway,1998-02-14,Bærum  ,Norway,195,Burnley FC,2027-06-30,-,,16,right,adidas,26
+Christoph Baumgartner,20.0,Attacking Midfield,"Second Striker, Left Winger",Austria,1999-08-01,Horn  ,Austria,180,RB Leipzig,2028-06-30,-,,14,right,adidas,25
+Sebastian Szymanski,20.0,Attacking Midfield,"Right Winger, Central Midfield",Poland,1999-05-10,Biała Podlaska  ,Poland,174,Fenerbahce,2027-06-30,-,,53,left,Nike,25
+Marco Asensio,20.0,Right Winger,"Left Winger, Attacking Midfield",Spain,1996-01-21,Palma de Mallorca  ,Spain,182,Paris Saint-Germain,2026-06-30,-,,11,left,adidas,28

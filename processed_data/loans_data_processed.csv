@@ -1,0 +1,453 @@
+﻿player,season,from_club,to_club,market_value,transfer_fee
+Kylian Mbappé,2017,Monaco,Paris SG,35.0,loan transfer
+Victor Osimhen,2018,VfL Wolfsburg,R Charleroi SC,1.0,loan transfer
+Harry Kane,2012,Tottenham,Leicester,0.5,loan transfer
+Harry Kane,2012,Tottenham,Norwich,0.0,loan transfer
+Harry Kane,2011,Tottenham,Millwall,0.0,loan transfer
+Harry Kane,2010,Tottenham,Leyton Orient,0.0,loan transfer
+Federico Valverde,2017,RM Castilla,Dep. La Coruña,3.0,loan transfer
+Martin Ødegaard,2020,Real Madrid,Arsenal,40.0,loan transfer
+Martin Ødegaard,2019,Real Madrid,Real Sociedad,15.0,loan transfer
+Martin Ødegaard,2018,Real Madrid,Vitesse,4.0,loan transfer
+Martin Ødegaard,2016,Real Madrid,Heerenveen,2.0,loan transfer
+Julián Álvarez,2021,Man City,River Plate,20.0,loan transfer
+Moisés Caicedo,2021,Brighton,Beerschot V.A.,5.0,loan transfer
+Pedri,2019,Barcelona,UD Las Palmas,0.0,loan transfer
+Enzo Fernández,2020,River Plate II,Defensa,0.0,loan transfer
+Xavi Simons,2023,Paris SG,RB Leipzig,40.0,loan transfer
+Khvicha Kvaratskhelia,2018,Rustavi,Loko Moscow,0.35,loan transfer
+William Saliba,2021,Arsenal,Marseille,18.0,loan transfer
+William Saliba,2020,Arsenal,OGC Nice,17.0,loan transfer
+William Saliba,2019,Arsenal,Saint-Étienne,12.0,loan transfer
+Bernardo Silva,2014,Benfica,Monaco,2.5,loan transfer
+Nicolò Barella,2019,Cagliari Calcio,Inter,36.0,loan transfer
+Nicolò Barella,2015,Cagliari Calcio,Como,0.8,loan transfer
+Alexis Mac Allister,2019,Brighton,Boca Juniors,5.0,loan transfer
+Alexis Mac Allister,2018,Brighton,Argentinos Jrs.,5.0,loan transfer
+Douglas Luiz,2017,Man City,Girona,0.0,loan transfer
+Alexander Isak,2018,Bor. Dortmund,Willem II,3.0,loan transfer
+Frenkie de Jong,2015,Ajax U21,Willem II,0.25,loan transfer
+Alessandro Bastoni,2018,Inter,Parma,2.5,loan transfer
+Alessandro Bastoni,2017,Inter,Atalanta BC,1.5,loan transfer
+James Maddison,2016,Norwich,Aberdeen FC,1.5,loan transfer
+James Maddison,2015,Norwich,Coventry,0.5,loan transfer
+Bruno Fernandes,2016,Udinese Calcio,Sampdoria,6.5,loan transfer
+Gabriel Magalhães,2017,LOSC Lille,Din. Zagreb II,0.6,loan transfer
+Gabriel Magalhães,2017,LOSC Lille,Troyes,0.6,loan transfer
+Achraf Hakimi,2018,Real Madrid,Bor. Dortmund,5.0,loan transfer
+Ollie Watkins,2014,Exeter City,Weston-super-M.,0.0,loan transfer
+Kingsley Coman,2015,Juventus,Bayern Munich,3.5,loan transfer
+Jack Grealish,2013,Aston Villa,Notts County,0.15,loan transfer
+Mohamed Salah,2015,Chelsea,AS Roma,18.0,loan transfer
+Mohamed Salah,2014,Chelsea,Fiorentina,13.0,loan transfer
+Nuno Mendes,2021,Sporting CP,Paris SG,40.0,loan transfer
+Bremer,2015,Desportivo U20,São Paulo U20,0.0,loan transfer
+Randal Kolo Muani,2019,FC Nantes,US Boulogne,0.3,loan transfer
+Takefusa Kubo,2021,Real Madrid,RCD Mallorca,15.0,loan transfer
+Takefusa Kubo,2020,Real Madrid,Getafe,20.0,loan transfer
+Takefusa Kubo,2020,Real Madrid,Villarreal,30.0,loan transfer
+Takefusa Kubo,2019,Real Madrid,RCD Mallorca,2.0,loan transfer
+Takefusa Kubo,2018,FC Tokyo,Yokohama F. M.,0.3,loan transfer
+Loïs Openda,2020,Club Brugge,Vitesse,4.0,loan transfer
+Cristian Romero,2021,Atalanta BC,Tottenham,35.0,loan transfer
+Cristian Romero,2020,Juventus,Atalanta BC,14.0,loan transfer
+Cristian Romero,2019,Juventus,Genoa,15.0,loan transfer
+Theo Hernández,2018,Real Madrid,Real Sociedad,15.0,loan transfer
+Theo Hernández,2016,Atlético Madrid,Alavés,1.0,loan transfer
+Kevin De Bruyne,2012,Chelsea,Werder Bremen,9.0,loan transfer
+Kevin De Bruyne,2011,Chelsea,KRC Genk,9.0,loan transfer
+Pedro Neto,2017,SC Braga,Lazio,0.25,loan transfer
+Pedro Neto,2015,Braga U15,Palmeiras U17,0.0,loan transfer
+Dejan Kulusevski,2021,Juventus,Tottenham,30.0,loan transfer
+Dejan Kulusevski,2019,Juventus,Parma,25.0,loan transfer
+Dejan Kulusevski,2019,Atalanta BC,Parma,1.0,loan transfer
+Moussa Diaby,2017,Paris SG B,Crotone,0.0,loan transfer
+Ben White,2019,Brighton,Leeds,0.0,loan transfer
+Ben White,2018,Brighton,Peterborough,0.0,loan transfer
+Ben White,2017,Brighton U23,Newport County,0.0,loan transfer
+Viktor Gyökeres,2020,Brighton,Coventry,1.0,loan transfer
+Viktor Gyökeres,2020,Brighton,Swansea,1.0,loan transfer
+Viktor Gyökeres,2019,Brighton,FC St. Pauli,0.5,loan transfer
+João Palhinha,2018,Sporting CP,SC Braga,1.5,loan transfer
+João Palhinha,2016,Sporting CP,Belenenses,1.25,loan transfer
+João Palhinha,2015,Sporting B,Moreirense,0.075,loan transfer
+Marquinhos,2012,Corinthians,AS Roma,0.75,loan transfer
+Levi Colwill,2022,Chelsea U21,Brighton,5.0,loan transfer
+Levi Colwill,2021,Chelsea U23,Huddersfield,0.0,loan transfer
+Anthony Gordon,2020,Everton,Preston,5.0,loan transfer
+Reece James,2018,Chelsea U23,Wigan,0.0,loan transfer
+Mikel Oyarzabal,2013,Real Sociedad Y,SD Eibar Youth,0.0,loan transfer
+Diogo Jota,2017,Atlético Madrid,Wolves,8.0,loan transfer
+Diogo Jota,2016,Atlético Madrid,FC Porto,7.0,loan transfer
+Mikel Merino,2017,Bor. Dortmund,Newcastle,2.5,loan transfer
+Ivan Toney,2017,Newcastle,Scunthorpe Utd.,0.5,loan transfer
+Ivan Toney,2017,Newcastle,Wigan,0.5,loan transfer
+Ivan Toney,2016,Newcastle,Scunthorpe Utd.,0.5,loan transfer
+Ivan Toney,2016,Newcastle,Shrewsbury,0.5,loan transfer
+Ivan Toney,2015,Newcastle,Barnsley FC,0.5,loan transfer
+Ivan Toney,2015,Newcastle,Barnsley FC,0.5,loan transfer
+Federico Dimarco,2019,Inter,Hellas Verona,5.0,loan transfer
+Federico Dimarco,2018,Inter,Parma,2.0,loan transfer
+Federico Dimarco,2016,Inter,FC Empoli,1.3,loan transfer
+Federico Dimarco,2015,Inter,Ascoli,0.6,loan transfer
+Conor Gallagher,2021,Chelsea U23,Crystal Palace,15.0,loan transfer
+Conor Gallagher,2020,Chelsea U23,West Brom,5.4,loan transfer
+Conor Gallagher,2019,Chelsea U23,Swansea,2.0,loan transfer
+Conor Gallagher,2019,Chelsea U23,Charlton,0.0,loan transfer
+Eberechi Eze,2017,QPR,Wycombe,0.0,loan transfer
+Brennan Johnson,2020,Nottm Forest,Lincoln City,0.0,loan transfer
+Destiny Udogie,2022,Tottenham,Udinese Calcio,17.0,loan transfer
+Destiny Udogie,2021,Hellas Verona,Udinese Calcio,1.0,loan transfer
+Pedro Porro,2022,Sporting CP,Tottenham,25.0,loan transfer
+Pedro Porro,2020,Man City,Sporting CP,9.0,loan transfer
+Pedro Porro,2019,Man City,Real Valladolid,10.0,loan transfer
+Kaoru Mitoma,2021,Brighton,Union SG,1.8,loan transfer
+Kaoru Mitoma,2018,Tsukuba Univ.,Kawasaki Front.,0.05,loan transfer
+Kaoru Mitoma,2018,Tsukuba Univ.,Kawasaki Front.,0.0,loan transfer
+Kaoru Mitoma,2017,Tsukuba Univ.,Kawasaki Front.,0.0,loan transfer
+Vitinha,2020,FC Porto,Wolves,5.0,loan transfer
+Vitinha,2015,FC Porto U17,Padroense U17,0.0,loan transfer
+Lisandro Martínez,2017,Newell's II,Defensa,0.0,loan transfer
+Pau Torres,2018,Villarreal,Málaga CF,0.5,loan transfer
+Sven Botman,2019,Ajax U21,Heerenveen,0.3,loan transfer
+Serge Gnabry,2017,Bayern Munich,TSG Hoffenheim,15.0,loan transfer
+Serge Gnabry,2015,Arsenal,West Brom,3.5,loan transfer
+Matheus Cunha,2022,Atlético Madrid,Wolves,20.0,loan transfer
+Jacob Ramsey,2019,Aston Villa U23,Doncaster,0.0,loan transfer
+Joelinton,2016,TSG Hoffenheim,Rapid Vienna,1.25,loan transfer
+Samu Omorodion,2023,Atlético Madrid,Alavés,0.2,loan transfer
+Ousmane Diomande,2022,FC Midtjylland,Mafra,0.0,loan transfer
+Sávio,2023,Troyes,Girona,5.0,loan transfer
+Sávio,2022,Troyes,PSV Eindhoven,6.0,loan transfer
+Benjamin Sesko,2019,RB Salzburg,FC Liefering,0.0,loan transfer
+Pape Matar Sarr,2021,Tottenham,FC Metz,10.0,loan transfer
+Joshua Zirkzee,2021,Bayern Munich,RSC Anderlecht,8.0,loan transfer
+Joshua Zirkzee,2020,Bayern Munich,Parma,9.0,loan transfer
+Morgan Gibbs-White,2021,Wolves,Sheff Utd,7.0,loan transfer
+Morgan Gibbs-White,2020,Wolves,Swansea,7.2,loan transfer
+Sandro Tonali,2020,Brescia,AC Milan,32.0,loan transfer
+Mason Mount,2018,Chelsea U23,Derby,4.0,loan transfer
+Mason Mount,2017,Chelsea U23,Vitesse,0.4,loan transfer
+Federico Chiesa,2020,Fiorentina,Juventus,48.0,loan transfer
+Fikayo Tomori,2020,Chelsea,AC Milan,17.0,loan transfer
+Fikayo Tomori,2018,Chelsea,Derby,1.0,loan transfer
+Fikayo Tomori,2017,Chelsea,Hull City,0.25,loan transfer
+Fikayo Tomori,2016,Chelsea U23,Brighton,0.0,loan transfer
+Serhou Guirassy,2022,Stade Rennais,VfB Stuttgart,10.0,loan transfer
+Serhou Guirassy,2018,1.FC Köln,Amiens SC,2.0,loan transfer
+Serhou Guirassy,2015,LOSC Lille,AJ Auxerre,0.5,loan transfer
+Gregor Kobel,2019,TSG Hoffenheim,VfB Stuttgart,6.0,loan transfer
+Gregor Kobel,2018,TSG Hoffenheim,FC Augsburg,1.0,loan transfer
+Gregor Kobel,2014,GC Zürich U18,Hoffenheim U19,0.0,loan transfer
+Milan Skriniar,2012,MSK Zilina,FC ViOn,0.1,loan transfer
+Andreas Christensen,2015,Chelsea,Bor. M'gladbach,1.5,loan transfer
+Adrien Rabiot,2012,Paris SG,Toulouse,1.5,loan transfer
+Nathan Aké,2016,Chelsea,Bournemouth,4.5,loan transfer
+Nathan Aké,2015,Chelsea,Watford,2.0,loan transfer
+Nathan Aké,2014,Chelsea,Reading,1.5,loan transfer
+Hakan Çalhanoğlu,2012,Hamburger SV,Karlsruher SC,1.0,loan transfer
+Marc Guéhi,2020,Chelsea,Swansea,2.7,loan transfer
+Marc Guéhi,2019,Chelsea,Swansea,1.5,loan transfer
+Leandro Trossard,2015,KRC Genk,OH Leuven,0.5,loan transfer
+Leandro Trossard,2014,KRC Genk,Lommel United,0.2,loan transfer
+Leandro Trossard,2013,KRC Genk,KVC Westerlo,0.2,loan transfer
+Leandro Trossard,2012,KRC Genk,Lommel United,0.2,loan transfer
+Nicolas Jackson,2020,Villarreal CF B,CD Mirandés,0.0,loan transfer
+Jean-Clair Todibo,2020,Barcelona,OGC Nice,12.0,loan transfer
+Jean-Clair Todibo,2020,Barcelona,Benfica,14.0,loan transfer
+Jean-Clair Todibo,2019,Barcelona,FC Schalke 04,10.0,loan transfer
+Harvey Elliott,2020,Liverpool U23,Blackburn,4.0,loan transfer
+Mykhaylo Mudryk,2020,Shakhtar II,Desna,0.2,loan transfer
+Mykhaylo Mudryk,2018,Shakhtar II,Arsenal Kyiv,0.0,loan transfer
+Max Kilman,2016,Maidenhead Utd.,Marlow,0.0,loan transfer
+Giorgi Mamardashvili,2021,Dinamo Tbilisi,Valencia,0.8,loan transfer
+Giorgi Mamardashvili,2019,Dinamo Tbilisi,FC Locomotive,0.25,loan transfer
+Giorgi Mamardashvili,2018,Dinamo Tbilisi,Rustavi,0.025,loan transfer
+Nahuel Molina,2018,Boca Juniors II,Rosario Central,0.75,loan transfer
+Nahuel Molina,2017,Boca Juniors II,Defensa,0.3,loan transfer
+Dávid Hancko,2019,Fiorentina,Sparta Prague,2.5,loan transfer
+Harvey Barnes,2018,Leicester,West Brom,0.25,loan transfer
+Harvey Barnes,2017,Leicester U21,Barnsley FC,0.1,loan transfer
+Harvey Barnes,2016,Leicester U21,MK Dons,0.0,loan transfer
+Diogo Dalot,2020,Man Utd,AC Milan,12.0,loan transfer
+Ismaël Bennacer,2016,Arsenal U23,Tours FC,0.1,loan transfer
+Pervis Estupiñán,2019,Watford,CA Osasuna,2.0,loan transfer
+Pervis Estupiñán,2018,Watford,RCD Mallorca,0.8,loan transfer
+Pervis Estupiñán,2017,Watford,UD Almería,0.4,loan transfer
+Pervis Estupiñán,2016,Udinese Calcio,Granada B,0.6,loan transfer
+Joe Willock,2020,Arsenal,Newcastle,16.0,loan transfer
+Tammy Abraham,2018,Chelsea,Aston Villa,10.0,loan transfer
+Tammy Abraham,2017,Chelsea,Swansea,8.0,loan transfer
+Tammy Abraham,2016,Chelsea U23,Bristol City,0.0,loan transfer
+Brahim Díaz,2021,Real Madrid,AC Milan,15.0,loan transfer
+Brahim Díaz,2020,Real Madrid,AC Milan,13.5,loan transfer
+Tomas Soucek,2019,Slavia Prague,West Ham,10.0,loan transfer
+Tomas Soucek,2016,Slavia Prague,Slovan Liberec,1.25,loan transfer
+Tomas Soucek,2014,Slavia Prague,Viktoria Zizkov,0.0,loan transfer
+David Raya,2023,Brentford,Arsenal,30.0,loan transfer
+David Raya,2014,Blackburn,Southport,0.0,loan transfer
+Joachim Andersen,2020,Olympique Lyon,Fulham,16.0,loan transfer
+Dominic Solanke,2015,Chelsea U21,Vitesse,0.25,loan transfer
+Fabinho,2013,Rio Ave,Monaco,2.5,loan transfer
+Fabinho,2012,Rio Ave,RM Castilla,0.0,loan transfer
+Manuel Locatelli,2021,Sassuolo,Juventus,35.0,loan transfer
+Manuel Locatelli,2018,AC Milan,Sassuolo,8.0,loan transfer
+Malo Gusto,2022,Chelsea,Olympique Lyon,15.0,loan transfer
+Rayan Aït-Nouri,2020,Angers SCO,Wolves,20.0,loan transfer
+Christian Pulisic,2018,Chelsea,Bor. Dortmund,50.0,loan transfer
+Evanilson,2019,Tombense,Fluminense,0.05,loan transfer
+Evanilson,2017,Fluminense U20,STK Samorin,0.0,loan transfer
+Jarrad Branthwaite,2022,Everton,PSV Eindhoven,3.0,loan transfer
+Jarrad Branthwaite,2020,Everton,Blackburn,2.0,loan transfer
+Simon Adingra,2022,Brighton,Union SG,1.5,loan transfer
+Éderson,2020,Corinthians,Fortaleza,4.0,loan transfer
+Folarin Balogun,2022,Arsenal,Stade Reims,4.0,loan transfer
+Folarin Balogun,2021,Arsenal U23,Middlesbrough,4.0,loan transfer
+Ian Maatsen,2023,Chelsea,Bor. Dortmund,20.0,loan transfer
+Ian Maatsen,2022,Chelsea U21,Burnley,5.0,loan transfer
+Ian Maatsen,2021,Chelsea U23,Coventry,0.0,loan transfer
+Ian Maatsen,2020,Chelsea U23,Charlton,0.0,loan transfer
+Kiernan Dewsbury-Hall,2020,Leicester U21,Luton,0.0,loan transfer
+Kiernan Dewsbury-Hall,2019,Leicester U21,Blackpool,0.0,loan transfer
+Ansu Fati,2023,Barcelona,Brighton,35.0,loan transfer
+João Félix,2023,Atlético Madrid,Barcelona,50.0,loan transfer
+João Félix,2022,Atlético Madrid,Chelsea,50.0,loan transfer
+Charles De Ketelaere,2023,AC Milan,Atalanta BC,22.0,loan transfer
+Ademola Lookman,2021,RB Leipzig,Leicester,11.0,loan transfer
+Ademola Lookman,2020,RB Leipzig,Fulham,10.0,loan transfer
+Ademola Lookman,2017,Everton,RB Leipzig,7.0,loan transfer
+Davide Frattesi,2023,Sassuolo,Inter,25.0,loan transfer
+Davide Frattesi,2020,Sassuolo,Monza,5.0,loan transfer
+Davide Frattesi,2019,Sassuolo,FC Empoli,2.5,loan transfer
+Davide Frattesi,2018,Sassuolo,Ascoli,1.0,loan transfer
+Nico Schlotterbeck,2020,SC Freiburg,Union Berlin,4.0,loan transfer
+Alessandro Buongiorno,2019,Torino,Trapani,0.5,loan transfer
+Alessandro Buongiorno,2018,Torino,Carpi,0.125,loan transfer
+Frank Anguissa,2021,Fulham,SSC Napoli,25.0,loan transfer
+Frank Anguissa,2019,Fulham,Villarreal,25.0,loan transfer
+Fabián Ruiz,2016,Real Betis,Elche CF,0.5,loan transfer
+Eddie Nketiah,2019,Arsenal,Leeds,8.0,loan transfer
+Ben Chilwell,2015,Leicester,Huddersfield,0.0,loan transfer
+Marcos Llorente,2016,Real Madrid,Alavés,0.8,loan transfer
+Rodrigo de Paul,2015,Valencia,Racing Club,5.0,loan transfer
+Otávio,2014,FC Porto,Vit. Guimarães,4.5,loan transfer
+Jonathan Tah,2014,Hamburger SV,F. Düsseldorf,6.5,loan transfer
+Stanislav Lobotka,2013,AS Trencin,Ajax U21,0.2,loan transfer
+João Cancelo,2023,Man City,Barcelona,50.0,loan transfer
+João Cancelo,2022,Man City,Bayern Munich,70.0,loan transfer
+João Cancelo,2017,Valencia,Inter,20.0,loan transfer
+João Cancelo,2014,Benfica,Valencia,2.0,loan transfer
+Jan Oblak,2012,Benfica,Rio Ave,1.1,loan transfer
+Jan Oblak,2011,Benfica,Leiria,0.7,loan transfer
+Jan Oblak,2010,Benfica,Olhanense,0.75,loan transfer
+Jan Oblak,2009,Benfica,Beira-Mar,0.75,loan transfer
+Romelu Lukaku,2023,Chelsea,AS Roma,40.0,loan transfer
+Romelu Lukaku,2022,Chelsea,Inter,70.0,loan transfer
+Romelu Lukaku,2013,Chelsea,Everton,24.0,loan transfer
+Romelu Lukaku,2012,Chelsea,West Brom,14.0,loan transfer
+Mateo Kovacic,2018,Real Madrid,Chelsea,30.0,loan transfer
+Casemiro,2014,Real Madrid,FC Porto,6.0,loan transfer
+Casemiro,2012,São Paulo,RM Castilla,4.5,loan transfer
+Danilo,2018,PFC Cajazeiras,Palmeiras U20,0.0,loan transfer
+Armando Broja,2023,Chelsea,Fulham,28.0,loan transfer
+Armando Broja,2021,Chelsea U23,Southampton,3.0,loan transfer
+Armando Broja,2020,Chelsea U23,Vitesse,1.0,loan transfer
+Karim Adeyemi,2018,RB Salzburg,FC Liefering,1.5,loan transfer
+Matty Cash,2015,Nottingham U18,Dag & Red FC,0.0,loan transfer
+Giacomo Raspadori,2022,Sassuolo,SSC Napoli,28.0,loan transfer
+Kalvin Phillips,2023,Man City,West Ham,28.0,loan transfer
+Ermedin Demirovic,2019,Alavés,FC St. Gallen,1.0,loan transfer
+Ermedin Demirovic,2018,Alavés,UD Almería,1.0,loan transfer
+Ermedin Demirovic,2018,Alavés,FC Sochaux,1.0,loan transfer
+Taiwo Awoniyi,2020,Liverpool,Union Berlin,3.2,loan transfer
+Taiwo Awoniyi,2019,Liverpool,1.FSV Mainz 05,4.5,loan transfer
+Taiwo Awoniyi,2018,Liverpool,Mouscron,1.5,loan transfer
+Taiwo Awoniyi,2018,Liverpool,KAA Gent,1.5,loan transfer
+Taiwo Awoniyi,2017,Liverpool,Mouscron,0.4,loan transfer
+Taiwo Awoniyi,2016,Liverpool,NEC Nijmegen,0.3,loan transfer
+Taiwo Awoniyi,2015,Liverpool,FSV Frankfurt,0.0,loan transfer
+Emiliano Martínez,2018,Arsenal,Reading,1.0,loan transfer
+Emiliano Martínez,2017,Arsenal,Getafe,1.0,loan transfer
+Emiliano Martínez,2015,Arsenal,Wolves,1.5,loan transfer
+Emiliano Martínez,2014,Arsenal,Rotherham,1.0,loan transfer
+Emiliano Martínez,2013,Arsenal,Sheff Wed,0.0,loan transfer
+Emiliano Martínez,2011,Arsenal Res.,Oxford United,0.0,loan transfer
+Aleksandar Mitrovic,2017,Newcastle,Fulham,8.0,loan transfer
+Aleksandar Mitrovic,2011,Partizan U19,Teleoptik,0.0,loan transfer
+Olivier Boscagli,2017,OGC Nice,Nîmes Olympique,0.8,loan transfer
+Samuel Lino,2022,Atlético Madrid,Valencia,7.0,loan transfer
+Samuel Lino,2017,São Bernardo,Flamengo U20,0.0,loan transfer
+Matías Soulé,2023,Juventus,Frosinone,4.0,loan transfer
+Manu Koné,2020,Bor. M'gladbach,Toulouse,5.0,loan transfer
+Strahinja Pavlovic,2021,Monaco,FC Basel,8.0,loan transfer
+Strahinja Pavlovic,2020,Monaco,Cercle Brugge,8.0,loan transfer
+Strahinja Pavlovic,2019,Monaco,Partizan,8.0,loan transfer
+Strahinja Pavlovic,2016,Partizan U17,Teleoptik U17,0.0,loan transfer
+Radu Drăgușin,2022,Juventus,Genoa,3.5,loan transfer
+Radu Drăgușin,2021,Juventus,Salernitana,3.5,loan transfer
+Radu Drăgușin,2021,Juventus,Sampdoria,3.0,loan transfer
+Álex Baena,2021,Villarreal,Girona,2.5,loan transfer
+Mohamed Camara,2018,FC Liefering,TSV Hartberg,0.4,loan transfer
+Roger Ibañez,2019,Atalanta BC,AS Roma,2.0,loan transfer
+Roger Ibañez,2016,PRS FC,Fluminense,0.0,loan transfer
+Roger Ibañez,2016,PRS FC,Sergipe,0.0,loan transfer
+Dani Vivian,2020,Athletic,CD Mirandés,0.2,loan transfer
+Pepê,2015,Foz do Iguaçu,Coritiba U20,0.0,loan transfer
+Riccardo Calafiori,2021,AS Roma,Genoa,4.0,loan transfer
+Brian Brobbey,2021,RB Leipzig,Ajax,7.5,loan transfer
+Kevin Schade,2022,SC Freiburg,Brentford,12.0,loan transfer
+Mattéo Guendouzi,2023,Marseille,Lazio,25.0,loan transfer
+Mattéo Guendouzi,2021,Arsenal,Marseille,20.0,loan transfer
+Mattéo Guendouzi,2020,Arsenal,Hertha BSC,32.0,loan transfer
+Rodrigo Riquelme,2022,Atlético Madrid,Girona,2.0,loan transfer
+Rodrigo Riquelme,2021,Atlético Madrid,CD Mirandés,1.8,loan transfer
+Rodrigo Riquelme,2020,Atlético Madrid,Bournemouth,2.3,loan transfer
+Andrea Cambiaso,2022,Juventus,Bologna,5.0,loan transfer
+Andrea Cambiaso,2020,Genoa,Empoli,0.15,loan transfer
+Andrea Cambiaso,2019,Genoa,Alessandria,0.1,loan transfer
+Andrea Cambiaso,2018,Genoa,Savona,0.075,loan transfer
+Andrea Cambiaso,2017,Genoa,Albissola,0.0,loan transfer
+Galeno,2018,FC Porto,Rio Ave,2.0,loan transfer
+Galeno,2017,FC Porto,Portimonense,0.75,loan transfer
+Galeno,2016,Anápolis,FC Porto B,0.0,loan transfer
+Martin Terrier,2017,Olympique Lyon,R. Strasbourg,12.0,loan transfer
+Martin Terrier,2017,LOSC Lille,R. Strasbourg,0.4,loan transfer
+Aaron Ramsdale,2018,Bournemouth,AFC Wimbledon,0.5,loan transfer
+Aaron Ramsdale,2017,Bournemouth,Chesterfield FC,0.5,loan transfer
+Aaron Ramsdale,2015,Sheff Utd U18,Worksop,0.0,loan transfer
+Perr Schuurs,2017,Ajax,Fortuna Sittard,0.5,loan transfer
+Robert Sánchez,2019,Brighton U23,Rochdale,0.0,loan transfer
+Robert Sánchez,2018,Brighton U23,Forest Green,0.0,loan transfer
+Jadon Sancho,2023,Man Utd,Bor. Dortmund,25.0,loan transfer
+Emile Smith Rowe,2019,Arsenal U23,Huddersfield,3.0,loan transfer
+Emile Smith Rowe,2018,Arsenal U23,RB Leipzig,0.0,loan transfer
+Yoane Wissa,2017,Angers SCO,AC Ajaccio,0.3,loan transfer
+Yoane Wissa,2016,Angers SCO,Stade Lavallois,0.3,loan transfer
+Hiroki Ito,2021,Júbilo Iwata,VfB Stuttgart,0.55,loan transfer
+Hiroki Ito,2018,Júbilo Iwata,Nagoya Grampus,0.075,loan transfer
+Sean Longstaff,2017,Newcastle U23,Blackpool,0.075,loan transfer
+Sean Longstaff,2016,Newcastle U23,Kilmarnock FC,0.0,loan transfer
+Denis Zakaria,2022,Juventus,Chelsea,27.0,loan transfer
+Weston McKennie,2022,Juventus,Leeds,21.0,loan transfer
+Weston McKennie,2020,FC Schalke 04,Juventus,20.0,loan transfer
+Gianluca Scamacca,2020,Sassuolo,Genoa,5.0,loan transfer
+Gianluca Scamacca,2019,Sassuolo,Ascoli,0.7,loan transfer
+Gianluca Scamacca,2018,Sassuolo,PEC Zwolle,0.8,loan transfer
+Gianluca Scamacca,2017,Sassuolo,Cremonese,0.3,loan transfer
+Marcus Edwards,2018,Tottenham U23,Excelsior,0.5,loan transfer
+Marcus Edwards,2017,Tottenham U23,Norwich,0.0,loan transfer
+Hee-chan Hwang,2021,RB Leipzig,Wolves,11.0,loan transfer
+Hee-chan Hwang,2018,RB Salzburg,Hamburger SV,10.0,loan transfer
+Marc Cucurella,2019,Barcelona,Getafe,10.0,loan transfer
+Marc Cucurella,2018,Barcelona,SD Eibar,5.0,loan transfer
+Mario Hermoso,2015,RM Castilla,Real Valladolid,0.2,loan transfer
+Chris Führich,2020,B. Dortmund II,SC Paderborn,0.2,loan transfer
+Kevin Danso,2020,FC Augsburg,F. Düsseldorf,6.3,loan transfer
+Kevin Danso,2019,FC Augsburg,Southampton,8.0,loan transfer
+Aleix García,2019,Man City,Mouscron,3.0,loan transfer
+Aleix García,2017,Man City,Girona,1.0,loan transfer
+Youri Tielemans,2018,Monaco,Leicester,18.0,loan transfer
+Álex Remiro,2017,Athletic,SD Huesca,0.6,loan transfer
+Álex Remiro,2016,Athletic,Levante,1.0,loan transfer
+Ruben Loftus-Cheek,2020,Chelsea,Fulham,24.0,loan transfer
+Ruben Loftus-Cheek,2017,Chelsea,Crystal Palace,5.0,loan transfer
+Kurt Zouma,2018,Chelsea,Everton,15.0,loan transfer
+Kurt Zouma,2017,Chelsea,Stoke City,15.0,loan transfer
+Kurt Zouma,2013,Chelsea,Saint-Étienne,7.5,loan transfer
+Antoine Griezmann,2021,Barcelona,Atlético Madrid,60.0,loan transfer
+Antonio Rüdiger,2015,VfB Stuttgart,AS Roma,10.0,loan transfer
+David Alaba,2010,Bayern Munich,TSG Hoffenheim,2.0,loan transfer
+Maximilian Beier,2021,TSG Hoffenheim,Hannover 96,2.0,loan transfer
+Guido Rodríguez,2015,River Plate,Defensa,0.75,loan transfer
+Tijjani Reijnders,2019,AZ Alkmaar,RKC Waalwijk,0.7,loan transfer
+Nathan Tella,2022,Southampton,Burnley,1.8,loan transfer
+Beto,2021,Portimonense,Udinese Calcio,5.0,loan transfer
+James Garner,2021,Man Utd,Nottm Forest,4.0,loan transfer
+James Garner,2020,Man Utd,Nottm Forest,3.5,loan transfer
+James Garner,2020,Man Utd,Watford,2.7,loan transfer
+Taylor Harwood-Bellis,2023,Man City,Southampton,25.0,loan transfer
+Taylor Harwood-Bellis,2022,Man City,Burnley,7.0,loan transfer
+Taylor Harwood-Bellis,2021,Man City,Stoke City,3.0,loan transfer
+Taylor Harwood-Bellis,2021,Man City,RSC Anderlecht,3.0,loan transfer
+Taylor Harwood-Bellis,2020,Man City,Blackburn,2.3,loan transfer
+Sacha Boey,2020,Stade Rennais,Dijon,1.8,loan transfer
+Lucas Chevalier,2021,LOSC Lille,Valenciennes FC,0.5,loan transfer
+Omar Marmoush,2021,VfL Wolfsburg,VfB Stuttgart,2.0,loan transfer
+Omar Marmoush,2020,VfL Wolfsburg,FC St. Pauli,0.4,loan transfer
+Pedro,2019,Fiorentina,Flamengo,15.0,loan transfer
+Jack Harrison,2023,Leeds,Everton,22.0,loan transfer
+Jack Harrison,2018,Man City,Leeds,3.5,loan transfer
+Jack Harrison,2017,Man City,Middlesbrough,1.75,loan transfer
+Angel Gomes,2020,LOSC Lille,Boavista,3.6,loan transfer
+Sergiño Dest,2023,Barcelona,PSV Eindhoven,10.0,loan transfer
+Sergiño Dest,2022,Barcelona,AC Milan,18.0,loan transfer
+Deniz Undav,2023,Brighton,VfB Stuttgart,10.0,loan transfer
+Deniz Undav,2021,Brighton,Union SG,5.0,loan transfer
+Konstantinos Tsimikas,2017,Olympiacos,Willem II,0.3,loan transfer
+Konstantinos Tsimikas,2016,Olympiacos,Esbjerg fB,0.25,loan transfer
+Vangelis Pavlidis,2018,VfL Bochum,Willem II,0.15,loan transfer
+Vangelis Pavlidis,2017,VfL Bochum,B. Dortmund II,0.2,loan transfer
+Emiliano Buendía,2017,Getafe,CyD Leonesa,0.5,loan transfer
+Dominic Calvert-Lewin,2015,Sheff Utd,Northampton,0.0,loan transfer
+Dominic Calvert-Lewin,2014,Sheff Utd,Stalybridge,0.0,loan transfer
+Saïd Benrahma,2023,West Ham,Olympique Lyon,22.0,loan transfer
+Saïd Benrahma,2020,Brentford,West Ham,22.0,loan transfer
+Saïd Benrahma,2017,OGC Nice,LB Châteauroux,1.0,loan transfer
+Saïd Benrahma,2016,OGC Nice,G. Ajaccio,0.8,loan transfer
+Saïd Benrahma,2015,OGC Nice,Angers SCO,0.25,loan transfer
+Orel Mangala,2023,Nottm Forest,Olympique Lyon,22.0,loan transfer
+Orel Mangala,2018,VfB Stuttgart,Hamburger SV,1.8,loan transfer
+Orel Mangala,2016,Anderlecht U21,B. Dortmund U19,0.0,loan transfer
+Sofyan Amrabat,2023,Fiorentina,Man Utd,30.0,loan transfer
+Sofyan Amrabat,2019,Fiorentina,Hellas Verona,10.0,loan transfer
+Sofyan Amrabat,2019,Club Brugge,Hellas Verona,3.0,loan transfer
+Mattia Zaccagni,2021,Hellas Verona,Lazio,15.0,loan transfer
+Mattia Zaccagni,2015,Hellas Verona,Cittadella,0.3,loan transfer
+Mattia Zaccagni,2014,Hellas Verona,Unione Venezia,0.075,loan transfer
+Mattia Zaccagni,2013,Bellaria IM,Verona U19,0.075,loan transfer
+Vitaly Janelt,2016,RB Leipzig,VfL Bochum,0.125,loan transfer
+Patrik Schick,2019,AS Roma,RB Leipzig,15.0,loan transfer
+Patrik Schick,2017,Sampdoria,AS Roma,15.0,loan transfer
+Patrik Schick,2015,Sparta Prague,Bohemians 1905,0.2,loan transfer
+Jordan Pickford,2015,Sunderland,Preston,0.25,loan transfer
+Jordan Pickford,2014,Sunderland,Bradford,0.25,loan transfer
+Jordan Pickford,2013,Sunderland,Carlisle United,0.25,loan transfer
+Jordan Pickford,2013,Sunderland,Burton Albion,0.15,loan transfer
+Jordan Pickford,2012,Sunderland U21,Alfreton,0.0,loan transfer
+Jordan Pickford,2011,Sunderland U18,Darlington,0.0,loan transfer
+Carlos Augusto,2023,Monza,Inter,15.0,loan transfer
+Arnaud Kalimuendo,2021,Paris SG,Lens,10.0,loan transfer
+Arnaud Kalimuendo,2020,Paris SG,Lens,1.0,loan transfer
+Amar Dedic,2021,RB Salzburg,Wolfsberger AC,0.9,loan transfer
+Giovanni Reyna,2023,Bor. Dortmund,Nottm Forest,20.0,loan transfer
+Renan Lodi,2022,Atlético Madrid,Nottm Forest,30.0,loan transfer
+Samuele Ricci,2021,FC Empoli,Torino,12.0,loan transfer
+Jørgen Strand Larsen,2017,Sarpsborg 08,Milan U19,0.05,loan transfer
+Caio Henrique,2019,Atlético Madrid,Grêmio,1.5,loan transfer
+Caio Henrique,2018,Atlético Madrid,Fluminense,0.8,loan transfer
+Caio Henrique,2017,Atl. Madrid B,Paraná,0.3,loan transfer
+Dodô,2018,Shakhtar D.,Vit. Guimarães,2.0,loan transfer
+Marcus Tavernier,2017,Boro U21,MK Dons,0.0,loan transfer
+Nicolò Zaniolo,2023,Galatasaray,Aston Villa,27.0,loan transfer
+Yangel Herrera,2022,Man City,Girona,14.0,loan transfer
+Yangel Herrera,2021,Man City,Espanyol,18.0,loan transfer
+Yangel Herrera,2019,Man City,Granada CF,2.0,loan transfer
+Yangel Herrera,2018,Man City,SD Huesca,1.0,loan transfer
+Yangel Herrera,2016,Man City,New York City,0.9,loan transfer
+Yangel Herrera,2014,Atl. Venez. B,Monagas SC,0.0,loan transfer
+Arthur Theate,2021,KV Oostende,Bologna,5.0,loan transfer
+Florentino,2021,Benfica,Getafe,10.0,loan transfer
+Florentino,2020,Benfica,Monaco,18.0,loan transfer
+Antonee Robinson,2018,Everton U23,Wigan,0.5,loan transfer
+Antonee Robinson,2017,Everton U23,Bolton,0.0,loan transfer
+Odsonne Edouard,2017,Paris SG,Celtic,1.5,loan transfer
+Odsonne Edouard,2016,Paris SG,Toulouse,0.25,loan transfer
+Kyle Walker-Peters,2019,Tottenham,Southampton,10.0,loan transfer
+Noa Lang,2020,Ajax,Club Brugge,3.5,loan transfer
+Noa Lang,2019,Ajax,Twente FC,3.0,loan transfer
+Sebastian Szymanski,2022,Dynamo Moscow,Feyenoord,14.0,loan transfer
+Marco Asensio,2015,Real Madrid,Espanyol,3.5,loan transfer
+Éderson,2021,Corinthians,Fortaleza,5.0,loan transfer
+Danilo,2019,PFC Cajazeiras,Palmeiras U20,0.0,loan transfer
+Jack Harrison,2019,Man City,Leeds,15.0,loan transfer
+Yangel Herrera,2017,Man City,New York City,1.0,loan transfer

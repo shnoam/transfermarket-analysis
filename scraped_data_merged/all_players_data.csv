@@ -1,0 +1,501 @@
+﻿player,current_value,main_position,other_positions,nationality,date_of_birth,city_of_birth,country_of_birth,height,current_club,contract_expires,on_loan_from,contract_there_expires,number,foot,outfitter
+Jude Bellingham,€180.00m,Attacking Midfield,['Central Midfield'],England,"Jun 29, 2003 (20)",Stourbridge  ,England,"1,86 m",Real Madrid,30-Jun-29,-,-,#5,right,adidas
+Erling Haaland,€180.00m,Centre-Forward,[],Norway,"Jul 21, 2000 (23)",Leeds  ,England,"1,95 m",Manchester City,30-Jun-27,-,-,#9,left,Nike
+Kylian Mbappé,€180.00m,Centre-Forward,"['Left Winger', 'Right Winger']",France,"Dec 20, 1998 (25)",Paris  ,France,"1,78 m",Paris Saint-Germain,30-Jun-24,-,-,#7,right,Nike
+Vinícius Júnior,€150.00m,Left Winger,"['Centre-Forward', 'Right Winger']",Brazil,"Jul 12, 2000 (23)",São Gonçalo  ,Brazil,"1,76 m",Real Madrid,30-Jun-27,-,-,#7,right,Nike
+Bukayo Saka,€130.00m,Right Winger,"['Left Winger', 'Right Midfield']",England,"Sep 5, 2001 (22)",London  ,England,"1,78 m",Arsenal FC,30-Jun-27,-,-,#7,left,New Balance
+Phil Foden,€130.00m,Right Winger,"['Left Winger', 'Attacking Midfield']",England,"May 28, 2000 (23)",Stockport  ,England,"1,71 m",Manchester City,30-Jun-27,-,-,#47,left,Nike
+Florian Wirtz,€110.00m,Attacking Midfield,"['Right Winger', 'Left Winger']",Germany,"May 3, 2003 (20)",Pulheim  ,Germany,"1,77 m",Bayer 04 Leverkusen,30-Jun-27,-,-,#10,right,adidas
+Jamal Musiala,€110.00m,Attacking Midfield,"['Central Midfield', 'Left Winger']",Germany,"Feb 26, 2003 (21)",Stuttgart  ,Germany,"1,84 m",Bayern Munich,30-Jun-26,-,-,#42,right,
+Lautaro Martínez,€110.00m,Centre-Forward,['Second Striker'],Argentina,"Aug 22, 1997 (26)",Bahía Blanca  ,Argentina,"1,74 m",Inter Milan,30-Jun-26,-,-,#10,right,Nike
+Victor Osimhen,€110.00m,Centre-Forward,[],Nigeria,"Dec 29, 1998 (25)",Lagos  ,Nigeria,"1,86 m",SSC Napoli,30-Jun-26,-,-,#9,right,
+Declan Rice,€110.00m,Defensive Midfield,"['Central Midfield', 'Centre-Back']",England,"Jan 14, 1999 (25)",London  ,England,"1,88 m",Arsenal FC,30-Jun-28,-,-,#41,right,adidas
+Rodri,€110.00m,Defensive Midfield,['Centre-Back'],Spain,"Jun 22, 1996 (27)",Madrid  ,Spain,"1,91 m",Manchester City,30-Jun-27,-,-,#16,right,Nike
+Harry Kane,€110.00m,Centre-Forward,['Second Striker'],England,"Jul 28, 1993 (30)",London  ,England,"1,88 m",Bayern Munich,30-Jun-27,-,-,#9,right,
+Rodrygo,€100.00m,Right Winger,"['Left Winger', 'Centre-Forward']",Brazil,"Jan 9, 2001 (23)",Osasco  ,Brazil,"1,74 m",Real Madrid,30-Jun-28,-,-,#11,right,Nike
+Federico Valverde,€100.00m,Central Midfield,"['Right Winger', 'Right Midfield']",Uruguay,"Jul 22, 1998 (25)",Montevideo  ,Uruguay,"1,82 m",Real Madrid,30-Jun-29,-,-,#15,right,Nike
+Martin Ødegaard,€95.00m,Attacking Midfield,"['Right Winger', 'Central Midfield']",Norway,"Dec 17, 1998 (25)",Drammen  ,Norway,"1,78 m",Arsenal FC,30-Jun-28,-,-,#8,left,Nike
+Gavi,€90.00m,Central Midfield,"['Attacking Midfield', 'Left Winger']",Spain,"Aug 5, 2004 (19)",Los Palacios y Villafranca  ,Spain,"1,73 m",FC Barcelona,30-Jun-26,-,-,#6,right,Nike
+Eduardo Camavinga,€90.00m,Central Midfield,"['Defensive Midfield', 'Left-Back']",France,"Nov 10, 2002 (21)",Cabinda  ,Angola,"1,82 m",Real Madrid,30-Jun-29,-,-,#12,left,Nike
+Julián Álvarez,€90.00m,Second Striker,"['Centre-Forward', 'Attacking Midfield']",Argentina,"Jan 31, 2000 (24)",Calchín  ,Argentina,"1,70 m",Manchester City,30-Jun-28,-,-,#19,right,adidas
+Aurélien Tchouaméni,€90.00m,Defensive Midfield,"['Central Midfield', 'Centre-Back']",France,"Jan 27, 2000 (24)",Rouen  ,France,"1,88 m",Real Madrid,30-Jun-28,-,-,#18,right,Nike
+Rafael Leão,€90.00m,Left Winger,"['Centre-Forward', 'Second Striker']",Portugal,"Jun 10, 1999 (24)",Almada  ,Portugal,"1,88 m",AC Milan,30-Jun-28,-,-,#10,right,adidas
+Bruno Guimarães,€85.00m,Defensive Midfield,['Central Midfield'],Brazil,"Nov 16, 1997 (26)",Rio de Janeiro  ,Brazil,"1,82 m",Newcastle United,30-Jun-28,-,-,#39,right,adidas
+Moisés Caicedo,€80.00m,Defensive Midfield,['Central Midfield'],Ecuador,"Nov 2, 2001 (22)",Santo Domingo  ,Ecuador,"1,78 m",Chelsea FC,30-Jun-31,-,-,#25,right,
+Pedri,€80.00m,Central Midfield,"['Attacking Midfield', 'Left Winger']",Spain,"Nov 25, 2002 (21)",Tegueste  ,Spain,"1,74 m",FC Barcelona,30-Jun-26,-,-,#8,right,adidas
+Gabriel Martinelli,€80.00m,Left Winger,"['Centre-Forward', 'Right Winger']",Brazil,"Jun 18, 2001 (22)",Guarulhos  ,Brazil,"1,78 m",Arsenal FC,30-Jun-27,-,-,#11,right,adidas
+Enzo Fernández,€80.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",Argentina,"Jan 17, 2001 (23)",San Martín  ,Argentina,"1,78 m",Chelsea FC,30-Jun-31,-,-,#8,right,
+Xavi Simons,€80.00m,Attacking Midfield,"['Left Winger', 'Right Winger']",Netherlands,"Apr 21, 2003 (21)",Amsterdam  ,Netherlands,"1,79 m",RB Leipzig,30-Jun-24,Paris Saint-Germain,30-Jun-27,#20,right,Puma
+Khvicha Kvaratskhelia,€80.00m,Left Winger,['Second Striker'],Georgia,"Feb 12, 2001 (23)",Tiflis  ,Georgia,"1,83 m",SSC Napoli,30-Jun-27,-,-,#77,both,Nike
+William Saliba,€80.00m,Centre-Back,[],France,"Mar 24, 2001 (23)",Bondy  ,France,"1,92 m",Arsenal FC,30-Jun-27,-,-,#2,right,
+Rúben Dias,€80.00m,Centre-Back,[],Portugal,"May 14, 1997 (26)",Amadora  ,Portugal,"1,87 m",Manchester City,30-Jun-27,-,-,#3,right,Nike
+Bernardo Silva,€80.00m,Attacking Midfield,"['Right Winger', 'Central Midfield']",Portugal,"Aug 10, 1994 (29)",Lisboa  ,Portugal,"1,73 m",Manchester City,30-Jun-26,-,-,#20,left,adidas
+Lamine Yamal,€75.00m,Right Winger,['Left Winger'],Spain,"Jul 13, 2007 (16)",Esplugues de Llobregat  ,Spain,"1,78 m",FC Barcelona,30-Jun-26,-,-,#27,left,adidas
+Luis Díaz,€75.00m,Left Winger,"['Left Midfield', 'Right Winger']",Colombia,"Jan 13, 1997 (27)",Barrancas  ,Colombia,"1,80 m",Liverpool FC,30-Jun-27,-,-,#7,right,
+Josko Gvardiol,€75.00m,Centre-Back,['Left-Back'],Croatia,"Jan 23, 2002 (22)",Zagreb  ,Croatia,"1,85 m",Manchester City,30-Jun-28,-,-,#24,left,
+Dominik Szoboszlai,€75.00m,Central Midfield,"['Attacking Midfield', 'Right Midfield']",Hungary,"Oct 25, 2000 (23)",Székesfehérvár  ,Hungary,"1,87 m",Liverpool FC,30-Jun-28,-,-,#8,right,
+Nicolò Barella,€75.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",Italy,"Feb 7, 1997 (27)",Cagliari  ,Italy,"1,75 m",Inter Milan,30-Jun-26,-,-,#23,right,Nike
+Darwin Núñez,€70.00m,Centre-Forward,['Left Winger'],Uruguay,"Jun 24, 1999 (24)",Artigas  ,Uruguay,"1,87 m",Liverpool FC,30-Jun-28,-,-,#9,right,
+Alexis Mac Allister,€70.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",Argentina,"Dec 24, 1998 (25)",Santa Rosa  ,Argentina,"1,76 m",Liverpool FC,30-Jun-28,-,-,#10,right,adidas
+Ronald Araujo,€70.00m,Centre-Back,['Right-Back'],Uruguay,"Mar 7, 1999 (25)",Rivera  ,Uruguay,"1,92 m",FC Barcelona,30-Jun-26,-,-,#4,right,Nike
+Douglas Luiz,€70.00m,Central Midfield,['Defensive Midfield'],Brazil,"May 9, 1998 (25)",Rio de Janeiro  ,Brazil,"1,77 m",Aston Villa,30-Jun-26,-,-,#6,right,
+Éder Militão,€70.00m,Centre-Back,['Right-Back'],Brazil,"Jan 18, 1998 (26)",Sertãozinho  ,Brazil,"1,86 m",Real Madrid,30-Jun-28,-,-,#3,right,adidas
+Gabriel Jesus,€70.00m,Centre-Forward,"['Left Winger', 'Right Winger']",Brazil,"Apr 3, 1997 (27)",São Paulo  ,Brazil,"1,75 m",Arsenal FC,30-Jun-27,-,-,#9,right,adidas
+Alexander Isak,€70.00m,Centre-Forward,['Left Winger'],Sweden,"Sep 21, 1999 (24)",Solna  ,Sweden,"1,92 m",Newcastle United,30-Jun-28,-,-,#14,right,adidas
+Christopher Nkunku,€70.00m,Attacking Midfield,"['Second Striker', 'Left Winger']",France,"Nov 14, 1997 (26)",Lagny-sur-Marne  ,France,"1,77 m",Chelsea FC,30-Jun-29,-,-,#18,right,adidas
+Frenkie de Jong,€70.00m,Central Midfield,['Defensive Midfield'],Netherlands,"May 12, 1997 (26)",Arkel  ,Netherlands,"1,81 m",FC Barcelona,30-Jun-26,-,-,#21,right,Nike
+Alessandro Bastoni,€70.00m,Centre-Back,[],Italy,"Apr 13, 1999 (25)",Casalmaggiore  ,Italy,"1,90 m",Inter Milan,30-Jun-28,-,-,#95,left,Puma
+Trent Alexander-Arnold,€70.00m,Right-Back,"['Defensive Midfield', 'Central Midfield']",England,"Oct 7, 1998 (25)",Liverpool  ,England,"1,80 m",Liverpool FC,30-Jun-25,-,-,#66,right,adidas
+James Maddison,€70.00m,Attacking Midfield,"['Central Midfield', 'Right Midfield']",England,"Nov 23, 1996 (27)",Coventry  ,England,"1,75 m",Tottenham Hotspur,30-Jun-28,-,-,#10,right,Puma
+Bruno Fernandes,€70.00m,Attacking Midfield,"['Second Striker', 'Central Midfield']",Portugal,"Sep 8, 1994 (29)",Maia  ,Portugal,"1,79 m",Manchester United,30-Jun-26,-,-,#8,right,Nike
+Leroy Sané,€70.00m,Right Winger,"['Left Winger', 'Attacking Midfield']",Germany,"Jan 11, 1996 (28)",Essen  ,Germany,"1,83 m",Bayern Munich,30-Jun-25,-,-,#10,left,Nike
+Rasmus Højlund,€65.00m,Centre-Forward,[],Denmark,"Feb 4, 2003 (21)",København  ,Denmark,"1,91 m",Manchester United,30-Jun-28,-,-,#11,left,
+Jérémy Doku,€65.00m,Left Winger,['Right Winger'],Belgium,"May 27, 2002 (21)",Borgerhout  ,Belgium,"1,73 m",Manchester City,30-Jun-28,-,-,#11,right,
+Lucas Paquetá,€65.00m,Attacking Midfield,"['Central Midfield', 'Left Winger']",Brazil,"Aug 27, 1997 (26)",Paquetá  ,Brazil,"1,80 m",West Ham United,30-Jun-27,-,-,#10,left,Nike
+Gabriel Magalhães,€65.00m,Centre-Back,[],Brazil,"Dec 19, 1997 (26)",São Paulo  ,Brazil,"1,90 m",Arsenal FC,30-Jun-27,-,-,#6,left,
+Achraf Hakimi,€65.00m,Right-Back,"['Right Midfield', 'Left-Back']",Morocco,"Nov 4, 1998 (25)",Madrid  ,Spain,"1,81 m",Paris Saint-Germain,30-Jun-26,-,-,#2,right,adidas
+Dušan Vlahović,€65.00m,Centre-Forward,[],Serbia,"Jan 28, 2000 (24)",Belgrade  ,Yugoslavia (Republic),"1,90 m",Juventus FC,30-Jun-26,-,-,#9,left,Nike
+Matthijs de Ligt,€65.00m,Centre-Back,[],Netherlands,"Aug 12, 1999 (24)",Leiderdorp  ,Netherlands,"1,89 m",Bayern Munich,30-Jun-27,-,-,#4,right,Nike
+Ollie Watkins,€65.00m,Centre-Forward,"['Right Winger', 'Left Winger']",England,"Dec 30, 1995 (28)",Torquay  ,England,"1,80 m",Aston Villa,30-Jun-28,-,-,#11,right,Under Armour
+Kingsley Coman,€65.00m,Left Winger,['Right Winger'],France,"Jun 13, 1996 (27)",Paris  ,France,"1,81 m",Bayern Munich,30-Jun-27,-,-,#11,right,Puma
+Jack Grealish,€65.00m,Left Winger,['Attacking Midfield'],England,"Sep 10, 1995 (28)",Birmingham  ,England,"1,80 m",Manchester City,30-Jun-27,-,-,#10,right,Puma
+Mohamed Salah,€65.00m,Right Winger,"['Second Striker', 'Centre-Forward']",Egypt,"Jun 15, 1992 (31)","Nagrig, Basyoun  ",Egypt,"1,75 m",Liverpool FC,30-Jun-25,-,-,#11,left,adidas
+Warren Zaïre-Emery,€60.00m,Central Midfield,['Defensive Midfield'],France,"Mar 8, 2006 (18)",Montreuil  ,France,"1,78 m",Paris Saint-Germain,30-Jun-25,-,-,#33,right,Nike
+Evan Ferguson,€60.00m,Centre-Forward,['Right Winger'],Ireland,"Oct 19, 2004 (19)","Bettystown, Meath  ",Ireland,"1,88 m",Brighton & Hove Albion,30-Jun-29,-,-,#28,right,
+Nuno Mendes,€60.00m,Left-Back,['Left Midfield'],Portugal,"Jun 19, 2002 (21)",Lisboa  ,Portugal,"1,83 m",Paris Saint-Germain,30-Jun-26,-,-,#25,left,adidas
+Bremer,€60.00m,Centre-Back,[],Brazil,"Mar 18, 1997 (27)",Itapitanga  ,Brazil,"1,88 m",Juventus FC,30-Jun-28,-,-,#3,right,Puma
+Randal Kolo Muani,€60.00m,Centre-Forward,"['Right Winger', 'Left Winger']",France,"Dec 5, 1998 (25)",Bondy  ,France,"1,87 m",Paris Saint-Germain,30-Jun-28,-,-,#23,right,adidas
+Manuel Ugarte,€60.00m,Defensive Midfield,['Central Midfield'],Uruguay,"Apr 11, 2001 (23)",Montevideo  ,Uruguay,"1,82 m",Paris Saint-Germain,30-Jun-28,-,-,#4,right,adidas
+Alphonso Davies,€60.00m,Left-Back,"['Left Winger', 'Left Midfield']",Canada,"Nov 2, 2000 (23)",Buduburam  ,Ghana,"1,85 m",Bayern Munich,30-Jun-25,-,-,#19,left,
+Takefusa Kubo,€60.00m,Right Winger,"['Attacking Midfield', 'Left Winger']",Japan,"Jun 4, 2001 (22)","Kawasaki, Kanagawa  ",Japan,"1,73 m",Real Sociedad,30-Jun-29,-,-,#14,left,
+Loïs Openda,€60.00m,Centre-Forward,"['Left Winger', 'Right Winger']",Belgium,"Feb 16, 2000 (24)",Liège  ,Belgium,"1,77 m",RB Leipzig,30-Jun-28,-,-,#17,right,Nike
+Cristian Romero,€60.00m,Centre-Back,[],Argentina,"Apr 27, 1998 (25)",Córdoba  ,Argentina,"1,85 m",Tottenham Hotspur,30-Jun-27,-,-,#17,right,
+Theo Hernández,€60.00m,Left-Back,"['Left Midfield', 'Centre-Back']",France,"Oct 6, 1997 (26)",Marseille  ,France,"1,84 m",AC Milan,30-Jun-26,-,-,#19,left,
+Marcus Thuram,€60.00m,Centre-Forward,['Left Winger'],France,"Aug 6, 1997 (26)",Parma  ,Italy,"1,92 m",Inter Milan,30-Jun-28,-,-,#9,right,Nike
+Kai Havertz,€60.00m,Attacking Midfield,"['Centre-Forward', 'Right Winger']",Germany,"Jun 11, 1999 (24)",Aachen  ,Germany,"1,93 m",Arsenal FC,30-Jun-28,-,-,#29,left,Puma
+Ousmane Dembélé,€60.00m,Right Winger,['Left Winger'],France,"May 15, 1997 (26)",Vernon  ,France,"1,78 m",Paris Saint-Germain,30-Jun-28,-,-,#10,both,adidas
+Marcus Rashford,€60.00m,Left Winger,"['Centre-Forward', 'Right Winger']",England,"Oct 31, 1997 (26)",Manchester  ,England,"1,85 m",Manchester United,30-Jun-28,-,-,#10,right,Nike
+Joshua Kimmich,€60.00m,Right-Back,"['Defensive Midfield', 'Central Midfield']",Germany,"Feb 8, 1995 (29)",Rottweil  ,Germany,"1,77 m",Bayern Munich,30-Jun-25,-,-,#6,right,
+Kevin De Bruyne,€60.00m,Attacking Midfield,['Central Midfield'],Belgium,"Jun 28, 1991 (32)",Drongen  ,Belgium,"1,81 m",Manchester City,30-Jun-25,-,-,#17,right,Nike
+Endrick,€55.00m,Centre-Forward,"['Second Striker', 'Right Winger']",Brazil,"Jul 21, 2006 (17)",Taguatinga  ,Brazil,"1,73 m",Sociedade Esportiva Palmeiras,30-Jun-25,-,-,#9,left,New Balance
+Cole Palmer,€55.00m,Attacking Midfield,"['Right Winger', 'Centre-Forward']",England,"May 6, 2002 (21)",Manchester  ,England,"1,89 m",Chelsea FC,30-Jun-30,-,-,#20,left,Nike
+Min-jae Kim,€55.00m,Centre-Back,[],South Korea,"Nov 15, 1996 (27)","Tongyeong, Gyeongnam  ","Korea, South","1,90 m",Bayern Munich,30-Jun-28,-,-,#3,right,Nike
+Pedro Neto,€55.00m,Right Winger,"['Left Winger', 'Attacking Midfield']",Portugal,"Mar 9, 2000 (24)",Viana do Castelo  ,Portugal,"1,72 m",Wolverhampton Wanderers,30-Jun-27,-,-,#7,left,
+Dejan Kulusevski,€55.00m,Right Winger,['Attacking Midfield'],Sweden,"Apr 25, 2000 (23)",Stockholm  ,Sweden,"1,86 m",Tottenham Hotspur,30-Jun-28,-,-,#21,left,
+Moussa Diaby,€55.00m,Right Winger,"['Left Winger', 'Attacking Midfield']",France,"Jul 7, 1999 (24)",Paris  ,France,"1,71 m",Aston Villa,30-Jun-28,-,-,#19,left,
+Ben White,€55.00m,Right-Back,"['Centre-Back', 'Defensive Midfield']",England,"Oct 8, 1997 (26)",Poole  ,England,"1,86 m",Arsenal FC,30-Jun-28,-,-,#4,right,adidas
+Viktor Gyökeres,€55.00m,Centre-Forward,[],Sweden,"Jun 4, 1998 (25)",Stockholm  ,Sweden,"1,87 m",Sporting CP,30-Jun-28,-,-,#9,right,Nike
+João Palhinha,€55.00m,Defensive Midfield,[],Portugal,"Jul 9, 1995 (28)",Lisboa  ,Portugal,"1,90 m",Fulham FC,30-Jun-28,-,-,#26,right,adidas
+Marquinhos,€55.00m,Centre-Back,"['Defensive Midfield', 'Right-Back']",Brazil,"May 14, 1994 (29)",São Paulo  ,Brazil,"1,83 m",Paris Saint-Germain,30-Jun-28,-,-,#5,right,Nike
+Nico Williams,€50.00m,Left Winger,['Right Winger'],Spain,"Jul 12, 2002 (21)",Pamplona  ,Spain,"1,81 m",Athletic Bilbao,30-Jun-27,-,-,#11,right,Nike
+Levi Colwill,€50.00m,Centre-Back,['Left-Back'],England,"Feb 26, 2003 (21)",Southampton  ,England,"1,87 m",Chelsea FC,30-Jun-29,-,-,#26,left,
+Matheus Nunes,€50.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",Portugal,"Aug 27, 1998 (25)",Rio de Janeiro  ,Brazil,"1,83 m",Manchester City,30-Jun-28,-,-,#27,right,
+Michael Olise,€50.00m,Right Winger,"['Attacking Midfield', 'Right Midfield']",France,"Dec 12, 2001 (22)",London  ,England,"1,84 m",Crystal Palace,30-Jun-27,-,-,#7,left,Nike
+Micky van de Ven,€50.00m,Centre-Back,['Left-Back'],Netherlands,"Apr 19, 2001 (23)",Wormer  ,Netherlands,"1,93 m",Tottenham Hotspur,30-Jun-29,-,-,#37,left,
+Gonçalo Ramos,€50.00m,Centre-Forward,[],Portugal,"Jun 20, 2001 (22)",Olhão  ,Portugal,"1,85 m",Paris Saint-Germain,30-Jun-28,-,-,#9,right,Nike
+Mohammed Kudus,€50.00m,Attacking Midfield,"['Centre-Forward', 'Right Winger']",Ghana,"Aug 2, 2000 (23)",Accra  ,Ghana,"1,77 m",West Ham United,30-Jun-28,-,-,#14,left,Puma
+Jonathan David,€50.00m,Centre-Forward,"['Second Striker', 'Attacking Midfield']",Canada,"Jan 14, 2000 (24)","Brooklyn, New York  ",United States,"1,80 m",LOSC Lille,30-Jun-25,-,-,#9,both,adidas
+Anthony Gordon,€50.00m,Left Winger,"['Right Winger', 'Centre-Forward']",England,"Feb 24, 2001 (23)",Liverpool  ,England,"1,82 m",Newcastle United,30-Jun-26,-,-,#10,right,adidas
+Amadou Onana,€50.00m,Defensive Midfield,['Central Midfield'],Belgium,"Aug 16, 2001 (22)",Dakar  ,Senegal,"1,95 m",Everton FC,30-Jun-27,-,-,#8,right,
+Jeremie Frimpong,€50.00m,Right Midfield,"['Right-Back', 'Right Winger']",Netherlands,"Dec 10, 2000 (23)",Amsterdam  ,Netherlands,"1,72 m",Bayer 04 Leverkusen,30-Jun-28,-,-,#30,right,Puma
+Reece James,€50.00m,Right-Back,"['Centre-Back', 'Right Midfield']",England,"Dec 8, 1999 (24)",London  ,England,"1,80 m",Chelsea FC,30-Jun-28,-,-,#24,right,Nike
+Cody Gakpo,€50.00m,Left Winger,"['Centre-Forward', 'Right Winger']",Netherlands,"May 7, 1999 (24)",Eindhoven  ,Netherlands,"1,93 m",Liverpool FC,30-Jun-28,-,-,#18,right,Puma
+Martín Zubimendi,€50.00m,Defensive Midfield,['Central Midfield'],Spain,"Feb 2, 1999 (25)",Donostia-San Sebastián  ,Spain,"1,81 m",Real Sociedad,30-Jun-27,-,-,#4,right,
+Jules Koundé,€50.00m,Centre-Back,['Right-Back'],France,"Nov 12, 1998 (25)",Paris  ,France,"1,80 m",FC Barcelona,30-Jun-27,-,-,#23,right,adidas
+Raphinha,€50.00m,Right Winger,['Left Winger'],Brazil,"Dec 14, 1996 (27)",Porto Alegre  ,Brazil,"1,76 m",FC Barcelona,30-Jun-27,-,-,#11,left,adidas
+Benjamin Pavard,€50.00m,Centre-Back,['Right-Back'],France,"Mar 28, 1996 (28)",Maubeuge  ,France,"1,86 m",Inter Milan,30-Jun-28,-,-,#28,right,adidas
+Mikel Oyarzabal,€50.00m,Left Winger,"['Centre-Forward', 'Right Winger']",Spain,"Apr 21, 1997 (27)",Eibar  ,Spain,"1,81 m",Real Sociedad,30-Jun-28,-,-,#10,left,Nike
+Dayot Upamecano,€50.00m,Centre-Back,[],France,"Oct 27, 1998 (25)",Évreux  ,France,"1,86 m",Bayern Munich,30-Jun-26,-,-,#2,right,
+Diogo Jota,€50.00m,Left Winger,"['Centre-Forward', 'Right Winger']",Portugal,"Dec 4, 1996 (27)",Porto  ,Portugal,"1,78 m",Liverpool FC,30-Jun-27,-,-,#20,right,adidas
+Mikel Merino,€50.00m,Central Midfield,['Defensive Midfield'],Spain,"Jun 22, 1996 (27)",Pamplona  ,Spain,"1,89 m",Real Sociedad,30-Jun-25,-,-,#8,left,adidas
+Jarrod Bowen,€50.00m,Right Winger,"['Second Striker', 'Centre-Forward']",England,"Dec 20, 1996 (27)",Leominster  ,England,"1,75 m",West Ham United,30-Jun-30,-,-,#20,left,adidas
+Dani Olmo,€50.00m,Attacking Midfield,"['Left Winger', 'Right Winger']",Spain,"May 7, 1998 (25)",Terrassa  ,Spain,"1,79 m",RB Leipzig,30-Jun-27,-,-,#7,right,adidas
+Ivan Toney,€50.00m,Centre-Forward,[],England,"Mar 16, 1996 (28)",Northampton  ,England,"1,85 m",Brentford FC,30-Jun-25,-,-,#17,right,
+Federico Dimarco,€50.00m,Left-Back,"['Left Midfield', 'Centre-Back']",Italy,"Nov 10, 1997 (26)",Milano  ,Italy,"1,75 m",Inter Milan,30-Jun-27,-,-,#32,left,adidas
+Heung-min Son,€50.00m,Left Winger,"['Centre-Forward', 'Second Striker']",South Korea,"Jul 8, 1992 (31)","Chuncheon, Gangwon  ","Korea, South","1,84 m",Tottenham Hotspur,30-Jun-25,-,-,#7,both,adidas
+Conor Gallagher,€48.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",England,"Feb 6, 2000 (24)",Epsom  ,England,"1,82 m",Chelsea FC,30-Jun-25,-,-,#23,right,
+Eberechi Eze,€48.00m,Attacking Midfield,"['Left Midfield', 'Central Midfield']",England,"Jun 29, 1998 (25)",London  ,England,"1,78 m",Crystal Palace,30-Jun-27,-,-,#10,right,New Balance
+Brennan Johnson,€48.00m,Right Winger,"['Left Winger', 'Centre-Forward']",Wales,"May 23, 2001 (22)",Nottingham  ,England,"1,86 m",Tottenham Hotspur,30-Jun-28,-,-,#22,right,
+João Neves,€45.00m,Defensive Midfield,['Central Midfield'],Portugal,"Sep 27, 2004 (19)",Tavira  ,Portugal,"1,74 m",SL Benfica,30-Jun-28,-,-,#87,right,
+António Silva,€45.00m,Centre-Back,[],Portugal,"Oct 30, 2003 (20)",Viseu  ,Portugal,"1,87 m",SL Benfica,30-Jun-27,-,-,#4,right,adidas
+João Pedro,€45.00m,Centre-Forward,"['Left Winger', 'Second Striker']",Brazil,"Sep 26, 2001 (22)",Ribeirão Preto  ,Brazil,"1,82 m",Brighton & Hove Albion,30-Jun-28,-,-,#9,right,
+Giorgio Scalvini,€45.00m,Centre-Back,['Defensive Midfield'],Italy,"Dec 11, 2003 (20)",Chiari  ,Italy,"1,94 m",Atalanta BC,30-Jun-28,-,-,#42,right,Puma
+Destiny Udogie,€45.00m,Left-Back,['Left Midfield'],Italy,"Nov 28, 2002 (21)",Verona  ,Italy,"1,88 m",Tottenham Hotspur,30-Jun-30,-,-,#38,left,Puma
+Pedro Porro,€45.00m,Right-Back,['Right Midfield'],Spain,"Sep 13, 1999 (24)",Don Benito  ,Spain,"1,73 m",Tottenham Hotspur,30-Jun-28,-,-,#23,right,Nike
+Santiago Gimenez,€45.00m,Centre-Forward,[],Mexico,"Apr 18, 2001 (23)",Buenos Aires  ,Argentina,"1,82 m",Feyenoord Rotterdam,30-Jun-27,-,-,#29,left,adidas
+Kaoru Mitoma,€45.00m,Left Winger,['Left Midfield'],Japan,"May 20, 1997 (26)","Kawasaki, Kanagawa  ",Japan,"1,78 m",Brighton & Hove Albion,30-Jun-27,-,-,#22,right,Puma
+Vitinha,€45.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",Portugal,"Feb 13, 2000 (24)",Vila das Aves  ,Portugal,"1,72 m",Paris Saint-Germain,30-Jun-27,-,-,#17,right,Nike
+Lisandro Martínez,€45.00m,Centre-Back,"['Left-Back', 'Defensive Midfield']",Argentina,"Jan 18, 1998 (26)",Gualeguay  ,Argentina,"1,75 m",Manchester United,30-Jun-27,-,-,#6,left,
+Pau Torres,€45.00m,Centre-Back,[],Spain,"Jan 16, 1997 (27)",Villarreal  ,Spain,"1,92 m",Aston Villa,30-Jun-28,-,-,#14,left,
+Sven Botman,€45.00m,Centre-Back,[],Netherlands,"Jan 12, 2000 (24)",Badhoevedorp  ,Netherlands,"1,95 m",Newcastle United,30-Jun-27,-,-,#4,left,adidas
+Diogo Costa,€45.00m,Goalkeeper,[],Portugal,"Sep 19, 1999 (24)",Rothrist  ,Switzerland,"1,86 m",FC Porto,30-Jun-27,-,-,#99,right,adidas
+Ibrahima Konaté,€45.00m,Centre-Back,[],France,"May 25, 1999 (24)",Paris  ,France,"1,94 m",Liverpool FC,30-Jun-26,-,-,#5,right,Nike
+Lucas Hernández,€45.00m,Left-Back,['Centre-Back'],France,"Feb 14, 1996 (28)",Marseille  ,France,"1,84 m",Paris Saint-Germain,30-Jun-28,-,-,#21,left,Nike
+Alejandro Grimaldo,€45.00m,Left-Back,['Left Midfield'],Spain,"Sep 20, 1995 (28)",Valencia  ,Spain,"1,71 m",Bayer 04 Leverkusen,30-Jun-27,-,-,#20,left,adidas
+Serge Gnabry,€45.00m,Right Winger,"['Left Winger', 'Second Striker']",Germany,"Jul 14, 1995 (28)",Stuttgart  ,Germany,"1,76 m",Bayern Munich,30-Jun-26,-,-,#7,right,adidas
+Raheem Sterling,€45.00m,Left Winger,"['Right Winger', 'Centre-Forward']",England,"Dec 8, 1994 (29)",Kingston  ,Jamaica,"1,70 m",Chelsea FC,30-Jun-27,-,-,#7,right,New Balance
+Neymar,€45.00m,Left Winger,"['Second Striker', 'Attacking Midfield']",Brazil,"Feb 5, 1992 (32)",Mogi das Cruzes  ,Brazil,"1,75 m",Al-Hilal SFC,30-Jun-25,-,-,#10,right,Puma
+Matheus Cunha,€42.00m,Centre-Forward,"['Left Winger', 'Right Winger']",Brazil,"May 27, 1999 (24)",João Pessoa  ,Brazil,"1,83 m",Wolverhampton Wanderers,30-Jun-27,-,-,#12,right,Nike
+Jacob Ramsey,€42.00m,Attacking Midfield,"['Central Midfield', 'Left Midfield']",England,"May 28, 2001 (22)",Birmingham  ,England,"1,80 m",Aston Villa,30-Jun-27,-,-,#41,right,
+Axel Disasi,€42.00m,Centre-Back,['Right-Back'],France,"Mar 11, 1998 (26)",Gonesse  ,France,"1,90 m",Chelsea FC,30-Jun-29,-,-,#2,right,
+Joelinton,€42.00m,Central Midfield,"['Attacking Midfield', 'Left Winger']",Brazil,"Aug 14, 1996 (27)",Aliança  ,Brazil,"1,86 m",Newcastle United,30-Jun-28,-,-,#7,right,
+Manuel Akanji,€42.00m,Centre-Back,"['Right-Back', 'Left-Back']",Switzerland,"Jul 19, 1995 (28)",Wiesendangen  ,Switzerland,"1,88 m",Manchester City,30-Jun-27,-,-,#25,right,Puma
+Oleksandr Zinchenko,€42.00m,Left-Back,"['Left Midfield', 'Central Midfield']",Ukraine,"Dec 15, 1996 (27)","Radomyshl, Zhytomyr Oblast  ",Ukraine,"1,75 m",Arsenal FC,30-Jun-26,-,-,#35,left,
+Samu Omorodion,€40.00m,Centre-Forward,[],Spain,"May 5, 2004 (19)",Melilla  ,Spain,"1,93 m",Deportivo Alavés,30-Jun-24,Atlético de Madrid,30-Jun-28,#32,right,
+Ousmane Diomande,€40.00m,Centre-Back,[],Ivory Coast,"Dec 4, 2003 (20)",Abidjan  ,Cote d'Ivoire,"1,90 m",Sporting CP,30-Jun-27,-,-,#26,right,
+Vitor Roque,€40.00m,Centre-Forward,"['Left Winger', 'Right Winger']",Brazil,"Feb 28, 2005 (19)",Timóteo  ,Brazil,"1,72 m",FC Barcelona,30-Jun-31,-,-,#19,right,Nike
+Leny Yoro,€40.00m,Centre-Back,[],France,"Nov 13, 2005 (18)",Saint-Maurice  ,France,"1,90 m",LOSC Lille,30-Jun-25,-,-,#15,right,
+Alejandro Garnacho,€40.00m,Left Winger,['Right Winger'],Argentina,"Jul 1, 2004 (19)",Madrid  ,Spain,"1,80 m",Manchester United,30-Jun-28,-,-,#17,right,Nike
+Mathys Tel,€40.00m,Left Winger,"['Right Winger', 'Centre-Forward']",France,"Apr 27, 2005 (18)",Sarcelles  ,France,"1,83 m",Bayern Munich,30-Jun-29,-,-,#39,right,
+Sávio,€40.00m,Left Winger,"['Right Winger', 'Attacking Midfield']",Brazil,"Apr 10, 2004 (20)",São Mateus  ,Brazil,"1,76 m",Girona FC,30-Jun-24,ESTAC Troyes,30-Jun-27,#16,left,Nike
+Bradley Barcola,€40.00m,Left Winger,"['Right Winger', 'Centre-Forward']",France,"Sep 2, 2002 (21)",Lyon  ,France,"1,82 m",Paris Saint-Germain,30-Jun-28,-,-,#29,right,
+Victor Boniface,€40.00m,Centre-Forward,[],Nigeria,"Dec 23, 2000 (23)",Akure  ,Nigeria,"1,90 m",Bayer 04 Leverkusen,30-Jun-28,-,-,#22,right,
+Alejandro Balde,€40.00m,Left-Back,"['Left Winger', 'Right-Back']",Spain,"Oct 18, 2003 (20)",Barcelona  ,Spain,"1,75 m",FC Barcelona,30-Jun-28,-,-,#3,left,Nike
+Roméo Lavia,€40.00m,Defensive Midfield,['Central Midfield'],Belgium,"Jan 6, 2004 (20)",Brussels  ,Belgium,"1,81 m",Chelsea FC,30-Jun-30,-,-,#45,right,adidas
+Benjamin Sesko,€40.00m,Centre-Forward,[],Slovenia,"May 31, 2003 (20)",Radeče  ,Slovenia,"1,95 m",RB Leipzig,30-Jun-28,-,-,#30,right,
+Castello Lukeba,€40.00m,Centre-Back,[],France,"Dec 17, 2002 (21)",Lyon  ,France,"1,84 m",RB Leipzig,30-Jun-28,-,-,#23,left,
+Pape Matar Sarr,€40.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",Senegal,"Sep 14, 2002 (21)",Thiaroye  ,Senegal,"1,84 m",Tottenham Hotspur,30-Jun-30,-,-,#29,right,
+Johan Bakayoko,€40.00m,Right Winger,[],Belgium,"Apr 20, 2003 (21)",Overijse  ,Belgium,"1,79 m",PSV Eindhoven,30-Jun-26,-,-,#11,left,Puma
+Edmond Tapsoba,€40.00m,Centre-Back,[],Burkina Faso,"Feb 2, 1999 (25)",Ouagadougou  ,Burkina Faso,"1,94 m",Bayer 04 Leverkusen,30-Jun-28,-,-,#12,right,
+Gonçalo Inácio,€40.00m,Centre-Back,['Defensive Midfield'],Portugal,"Aug 25, 2001 (22)",Almada  ,Portugal,"1,86 m",Sporting CP,30-Jun-27,-,-,#25,left,
+Nicolás González,€40.00m,Right Winger,"['Centre-Forward', 'Left Winger']",Argentina,"Apr 6, 1998 (26)",Belén de Escobar  ,Argentina,"1,80 m",ACF Fiorentina,30-Jun-28,-,-,#10,left,
+Joshua Zirkzee,€40.00m,Centre-Forward,['Second Striker'],Netherlands,"May 22, 2001 (22)",Schiedam  ,Netherlands,"1,93 m",Bologna FC 1909,30-Jun-26,-,-,#9,right,Nike
+Morgan Gibbs-White,€40.00m,Attacking Midfield,"['Central Midfield', 'Second Striker']",England,"Jan 27, 2000 (24)",Stafford  ,England,"1,71 m",Nottingham Forest,30-Jun-27,-,-,#10,right,
+Jurrien Timber,€40.00m,Centre-Back,"['Right-Back', 'Left-Back']",Netherlands,"Jun 17, 2001 (22)",Utrecht  ,Netherlands,"1,79 m",Arsenal FC,30-Jun-28,-,-,#12,right,adidas
+Exequiel Palacios,€40.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",Argentina,"Oct 5, 1998 (25)",Famaillá  ,Argentina,"1,77 m",Bayer 04 Leverkusen,30-Jun-28,-,-,#25,right,
+Sandro Tonali,€40.00m,Defensive Midfield,['Central Midfield'],Italy,"May 8, 2000 (23)",Lodi  ,Italy,"1,81 m",Newcastle United,30-Jun-28,-,-,#8,right,Nike
+Richarlison,€40.00m,Centre-Forward,"['Left Winger', 'Right Winger']",Brazil,"May 10, 1997 (26)",Nova Venécia  ,Brazil,"1,84 m",Tottenham Hotspur,30-Jun-27,-,-,#9,right,Nike
+Teun Koopmeiners,€40.00m,Attacking Midfield,"['Central Midfield', 'Defensive Midfield']",Netherlands,"Feb 28, 1998 (26)",Castricum  ,Netherlands,"1,84 m",Atalanta BC,30-Jun-27,-,-,#7,left,
+Robin Le Normand,€40.00m,Centre-Back,[],Spain,"Nov 11, 1996 (27)",Pabu  ,France,"1,87 m",Real Sociedad,30-Jun-26,-,-,#24,right,
+Mason Mount,€40.00m,Attacking Midfield,"['Central Midfield', 'Left Midfield']",England,"Jan 10, 1999 (25)",Portsmouth  ,England,"1,81 m",Manchester United,30-Jun-28,-,-,#7,right,Nike
+Federico Chiesa,€40.00m,Left Winger,"['Right Winger', 'Second Striker']",Italy,"Oct 25, 1997 (26)",Genova  ,Italy,"1,75 m",Juventus FC,30-Jun-25,-,-,#7,right,Nike
+Donyell Malen,€40.00m,Right Winger,"['Centre-Forward', 'Left Winger']",Netherlands,"Jan 19, 1999 (25)",Wieringen  ,Netherlands,"1,76 m",Borussia Dortmund,30-Jun-26,-,-,#21,right,Nike
+Gianluigi Donnarumma,€40.00m,Goalkeeper,[],Italy,"Feb 25, 1999 (25)",Castellammare di Stabia  ,Italy,"1,96 m",Paris Saint-Germain,30-Jun-26,-,-,#99,right,adidas
+Brais Méndez,€40.00m,Attacking Midfield,"['Central Midfield', 'Right Winger']",Spain,"Jan 7, 1997 (27)",Mos  ,Spain,"1,84 m",Real Sociedad,30-Jun-28,-,-,#23,left,
+Fikayo Tomori,€40.00m,Centre-Back,['Right-Back'],England,"Dec 19, 1997 (26)","Calgary, Alberta  ",Canada,"1,85 m",AC Milan,30-Jun-27,-,-,#23,right,adidas
+Serhou Guirassy,€40.00m,Centre-Forward,['Left Winger'],Guinea,"Mar 12, 1996 (28)",Arles  ,France,"1,87 m",VfB Stuttgart,30-Jun-26,-,-,#9,right,adidas
+Gregor Kobel,€40.00m,Goalkeeper,[],Switzerland,"Dec 6, 1997 (26)",Zürich  ,Switzerland,"1,96 m",Borussia Dortmund,30-Jun-28,-,-,#1,right,
+Ederson,€40.00m,Goalkeeper,[],Brazil,"Aug 17, 1993 (30)",Osasco (SP)  ,Brazil,"1,88 m",Manchester City,30-Jun-26,-,-,#31,left,Puma
+André Onana,€40.00m,Goalkeeper,[],Cameroon,"Apr 2, 1996 (28)",Nkol Ngok  ,Cameroon,"1,90 m",Manchester United,30-Jun-28,-,-,#24,right,adidas
+Rúben Neves,€40.00m,Defensive Midfield,['Central Midfield'],Portugal,"Mar 13, 1997 (27)",Santa Maria da Feira  ,Portugal,"1,80 m",Al-Hilal SFC,30-Jun-26,-,-,#8,right,Nike
+Milan Skriniar,€40.00m,Centre-Back,[],Slovakia,"Feb 11, 1995 (29)",Žiar nad Hronom  ,Slovakia,"1,88 m",Paris Saint-Germain,30-Jun-28,-,-,#37,right,Puma
+Andreas Christensen,€40.00m,Centre-Back,['Defensive Midfield'],Denmark,"Apr 10, 1996 (28)",Lillerød  ,Denmark,"1,87 m",FC Barcelona,30-Jun-26,-,-,#15,right,adidas
+Julian Brandt,€40.00m,Attacking Midfield,"['Right Winger', 'Left Winger']",Germany,"May 2, 1996 (27)",Bremen  ,Germany,"1,85 m",Borussia Dortmund,30-Jun-26,-,-,#19,right,Nike
+Adrien Rabiot,€40.00m,Central Midfield,"['Defensive Midfield', 'Left Midfield']",France,"Apr 3, 1995 (29)",Saint-Maurice  ,France,"1,88 m",Juventus FC,30-Jun-24,-,-,#25,left,adidas
+Mike Maignan,€40.00m,Goalkeeper,[],France,"Jul 3, 1995 (28)",Cayenne  ,French Guiana,"1,91 m",AC Milan,30-Jun-26,-,-,#16,right,
+Nathan Aké,€40.00m,Centre-Back,"['Left-Back', 'Defensive Midfield']",Netherlands,"Feb 18, 1995 (29)",Den Haag  ,Netherlands,"1,80 m",Manchester City,30-Jun-27,-,-,#6,left,Nike
+Hakan Çalhanoğlu,€40.00m,Defensive Midfield,"['Central Midfield', 'Attacking Midfield']",Türkiye,"Feb 8, 1994 (30)",Mannheim  ,Germany,"1,78 m",Inter Milan,30-Jun-27,-,-,#20,right,Nike
+Rico Lewis,€38.00m,Right-Back,"['Defensive Midfield', 'Right Midfield']",England,"Nov 21, 2004 (19)",Bury  ,England,"1,69 m",Manchester City,30-Jun-28,-,-,#82,right,
+Bryan Mbeumo,€38.00m,Right Winger,"['Second Striker', 'Centre-Forward']",Cameroon,"Aug 7, 1999 (24)",Avallon  ,France,"1,71 m",Brentford FC,30-Jun-26,-,-,#19,left,
+Boubacar Kamara,€38.00m,Defensive Midfield,"['Centre-Back', 'Central Midfield']",France,"Nov 23, 1999 (24)",Marseille  ,France,"1,84 m",Aston Villa,30-Jun-27,-,-,#44,right,Nike
+Marc Guéhi,€38.00m,Centre-Back,[],England,"Jul 13, 2000 (23)",Abidjan  ,Cote d'Ivoire,"1,82 m",Crystal Palace,30-Jun-26,-,-,#6,right,
+Nayef Aguerd,€38.00m,Centre-Back,[],Morocco,"Mar 30, 1996 (28)",Kénitra  ,Morocco,"1,90 m",West Ham United,30-Jun-27,-,-,#27,left,
+John Stones,€38.00m,Centre-Back,"['Right-Back', 'Defensive Midfield']",England,"May 28, 1994 (29)",Barnsley  ,England,"1,88 m",Manchester City,30-Jun-26,-,-,#5,right,Nike
+Leandro Trossard,€38.00m,Left Winger,"['Attacking Midfield', 'Second Striker']",Belgium,"Dec 4, 1994 (29)",Waterschei  ,Belgium,"1,72 m",Arsenal FC,30-Jun-26,-,-,#19,right,
+Kobbie Mainoo,€35.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",England,"Apr 19, 2005 (19)",Stockport  ,England,"1,75 m",Manchester United,30-Jun-27,-,-,#37,right,
+Nicolas Jackson,€35.00m,Centre-Forward,"['Right Winger', 'Left Winger']",Senegal,"Jun 20, 2001 (22)",Djibonker  ,Senegal,"1,88 m",Chelsea FC,30-Jun-31,-,-,#15,right,
+Mohamed Simakan,€35.00m,Centre-Back,['Right-Back'],France,"May 3, 2000 (23)",Marseille  ,France,"1,87 m",RB Leipzig,30-Jun-27,-,-,#2,right,Puma
+Piero Hincapié,€35.00m,Centre-Back,"['Left-Back', 'Left Midfield']",Ecuador,"Jan 9, 2002 (22)",Esmeraldas  ,Ecuador,"1,84 m",Bayer 04 Leverkusen,30-Jun-27,-,-,#3,left,adidas
+Elye Wahi,€35.00m,Centre-Forward,"['Right Winger', 'Left Winger']",France,"Jan 2, 2003 (21)",Courcouronnes  ,France,"1,81 m",RC Lens,30-Jun-28,-,-,#9,right,adidas
+Odilon Kossounou,€35.00m,Centre-Back,['Right-Back'],Ivory Coast,"Jan 4, 2001 (23)",Abidjan  ,Cote d'Ivoire,"1,91 m",Bayer 04 Leverkusen,30-Jun-26,-,-,#6,right,
+Jean-Clair Todibo,€35.00m,Centre-Back,[],France,"Dec 30, 1999 (24)",Cayenne  ,French Guiana,"1,90 m",OGC Nice,30-Jun-27,-,-,#6,right,adidas
+Oihan Sancet,€35.00m,Attacking Midfield,['Central Midfield'],Spain,"Apr 25, 2000 (23)",Pamplona  ,Spain,"1,88 m",Athletic Bilbao,30-Jun-32,-,-,#8,right,
+Harvey Elliott,€35.00m,Attacking Midfield,"['Right Winger', 'Central Midfield']",England,"Apr 4, 2003 (21)",London  ,England,"1,70 m",Liverpool FC,30-Jun-27,-,-,#19,left,New Balance
+Cheick Doucouré,€35.00m,Defensive Midfield,['Centre-Back'],Mali,"Jan 8, 2000 (24)",Bamako  ,Mali,"1,80 m",Crystal Palace,30-Jun-29,-,-,#28,right,
+Mykhaylo Mudryk,€35.00m,Left Winger,"['Right Winger', 'Attacking Midfield']",Ukraine,"Jan 5, 2001 (23)","Krasnograd, Kharkiv Oblast  ",Ukraine,"1,75 m",Chelsea FC,30-Jun-31,-,-,#10,right,Nike
+Max Kilman,€35.00m,Centre-Back,['Left-Back'],England,"May 23, 1997 (26)",London  ,England,"1,94 m",Wolverhampton Wanderers,30-Jun-28,-,-,#23,left,
+Tino Livramento,€35.00m,Right-Back,"['Right Midfield', 'Left-Back']",England,"Nov 12, 2002 (21)",London  ,England,"1,82 m",Newcastle United,30-Jun-28,-,-,#21,right,adidas
+Giorgi Mamardashvili,€35.00m,Goalkeeper,[],Georgia,"Sep 29, 2000 (23)",Tbilisi  ,Georgia,"1,97 m",Valencia CF,30-Jun-27,-,-,#25,left,
+Ryan Gravenberch,€35.00m,Central Midfield,['Defensive Midfield'],Netherlands,"May 16, 2002 (21)",Amsterdam  ,Netherlands,"1,90 m",Liverpool FC,30-Jun-28,-,-,#38,right,adidas
+Khéphren Thuram,€35.00m,Central Midfield,"['Defensive Midfield', 'Left Midfield']",France,"Mar 26, 2001 (23)",Reggio Emilia  ,Italy,"1,92 m",OGC Nice,30-Jun-25,-,-,#19,right,
+Curtis Jones,€35.00m,Central Midfield,"['Attacking Midfield', 'Left Midfield']",England,"Jan 30, 2001 (23)",Liverpool  ,England,"1,85 m",Liverpool FC,30-Jun-27,-,-,#17,right,Nike
+Nahuel Molina,€35.00m,Right-Back,['Right Midfield'],Argentina,"Apr 6, 1998 (26)",Embalse  ,Argentina,"1,75 m",Atlético de Madrid,30-Jun-27,-,-,#16,right,
+Ezri Konsa,€35.00m,Centre-Back,['Right-Back'],England,"Oct 23, 1997 (26)",London  ,England,"1,83 m",Aston Villa,30-Jun-28,-,-,#4,right,
+Yves Bissouma,€35.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",Mali,"Aug 30, 1996 (27)",Issia  ,Cote d'Ivoire,"1,82 m",Tottenham Hotspur,30-Jun-26,-,-,#8,right,Nike
+Dávid Hancko,€35.00m,Centre-Back,['Left-Back'],Slovakia,"Dec 13, 1997 (26)",Prievidza  ,Slovakia,"1,88 m",Feyenoord Rotterdam,30-Jun-28,-,-,#33,left,
+Edson Álvarez,€35.00m,Defensive Midfield,['Centre-Back'],Mexico,"Oct 24, 1997 (26)",Tlalnepantla  ,Mexico,"1,90 m",West Ham United,30-Jun-28,-,-,#19,right,adidas
+Ferran Torres,€35.00m,Left Winger,"['Right Winger', 'Centre-Forward']",Spain,"Feb 29, 2000 (24)",Foios  ,Spain,"1,84 m",FC Barcelona,30-Jun-27,-,-,#7,right,adidas
+Harvey Barnes,€35.00m,Left Winger,"['Left Midfield', 'Attacking Midfield']",England,"Dec 9, 1997 (26)",Burnley  ,England,"1,82 m",Newcastle United,30-Jun-28,-,-,#15,right,
+Leon Bailey,€35.00m,Left Winger,['Right Winger'],Jamaica,"Aug 9, 1997 (26)",Kingston  ,Jamaica,"1,78 m",Aston Villa,30-Jun-27,-,-,#31,left,Nike
+Diogo Dalot,€35.00m,Right-Back,"['Right Midfield', 'Left-Back']",Portugal,"Mar 18, 1999 (25)",Braga  ,Portugal,"1,83 m",Manchester United,30-Jun-28,-,-,#20,right,Nike
+Rodrigo Bentancur,€35.00m,Central Midfield,['Defensive Midfield'],Uruguay,"Jun 25, 1997 (26)",Nueva Helvecia  ,Uruguay,"1,87 m",Tottenham Hotspur,30-Jun-26,-,-,#30,right,adidas
+Ismaël Bennacer,€35.00m,Defensive Midfield,"['Attacking Midfield', 'Central Midfield']",Algeria,"Dec 1, 1997 (26)",Arles  ,France,"1,75 m",AC Milan,30-Jun-27,-,-,#4,left,
+Pervis Estupiñán,€35.00m,Left-Back,['Left Midfield'],Ecuador,"Jan 21, 1998 (26)",Esmeraldas  ,Ecuador,"1,75 m",Brighton & Hove Albion,30-Jun-27,-,-,#30,left,Nike
+Joe Willock,€35.00m,Central Midfield,"['Attacking Midfield', 'Right Midfield']",England,"Aug 20, 1999 (24)",London  ,England,"1,86 m",Newcastle United,30-Jun-27,-,-,#28,right,adidas
+Tammy Abraham,€35.00m,Centre-Forward,[],England,"Oct 2, 1997 (26)",London  ,England,"1,94 m",AS Roma,30-Jun-26,-,-,#9,right,Nike
+Brahim Díaz,€35.00m,Attacking Midfield,"['Right Winger', 'Second Striker']",Morocco,"Aug 3, 1999 (24)",Málaga  ,Spain,"1,70 m",Real Madrid,30-Jun-27,-,-,#21,both,adidas
+Guglielmo Vicario,€35.00m,Goalkeeper,[],Italy,"Oct 7, 1996 (27)",Udine  ,Italy,"1,94 m",Tottenham Hotspur,30-Jun-28,-,-,#13,right,
+Tomas Soucek,€35.00m,Defensive Midfield,"['Central Midfield', 'Attacking Midfield']",Czechia,"Feb 27, 1995 (29)",Havlíčkův Brod  ,Czech Republic,"1,92 m",West Ham United,30-Jun-27,-,-,#28,right,
+Sergej Milinković-Savić,€35.00m,Central Midfield,['Attacking Midfield'],Serbia,"Feb 27, 1995 (29)",Lleida  ,Spain,"1,92 m",Al-Hilal SFC,30-Jun-26,-,-,#22,right,Nike
+David Raya,€35.00m,Goalkeeper,[],Spain,"Sep 15, 1995 (28)",Barcelona  ,Spain,"1,83 m",Arsenal FC,30-Jun-24,Brentford FC,30-Jun-25,#22,right,
+Joachim Andersen,€35.00m,Centre-Back,[],Denmark,"May 31, 1996 (27)",Frederiksberg  ,Denmark,"1,92 m",Crystal Palace,30-Jun-26,-,-,#16,right,
+Dominic Solanke,€35.00m,Centre-Forward,[],England,"Sep 14, 1997 (26)",Basingstoke  ,England,"1,86 m",AFC Bournemouth,30-Jun-27,-,-,#9,right,adidas
+Andrew Robertson,€35.00m,Left-Back,['Left Midfield'],Scotland,"Mar 11, 1994 (30)",Glasgow  ,Scotland,"1,78 m",Liverpool FC,30-Jun-26,-,-,#26,left,Nike
+Fabinho,€35.00m,Defensive Midfield,['Centre-Back'],Brazil,"Oct 23, 1993 (30)",Campinas  ,Brazil,"1,88 m",Al-Ittihad Club,30-Jun-26,-,-,#8,right,adidas
+Luke Shaw,€35.00m,Left-Back,"['Left Midfield', 'Centre-Back']",England,"Jul 12, 1995 (28)",London  ,England,"1,78 m",Manchester United,30-Jun-27,-,-,#23,left,adidas
+James Ward-Prowse,€35.00m,Central Midfield,"['Attacking Midfield', 'Right Midfield']",England,"Nov 1, 1994 (29)",Portsmouth  ,England,"1,77 m",West Ham United,30-Jun-27,-,-,#7,right,
+Manuel Locatelli,€33.00m,Defensive Midfield,['Central Midfield'],Italy,"Jan 8, 1998 (26)",Lecco  ,Italy,"1,85 m",Juventus FC,30-Jun-28,-,-,#5,right,
+Malo Gusto,€32.00m,Right-Back,['Right Midfield'],France,"May 19, 2003 (20)",Décines-Charpieu  ,France,"1,78 m",Chelsea FC,30-Jun-30,-,-,#27,right,
+Rayan Aït-Nouri,€32.00m,Left-Back,['Left Midfield'],Algeria,"Jun 6, 2001 (22)",Montreuil  ,France,"1,80 m",Wolverhampton Wanderers,30-Jun-26,-,-,#3,left,
+Wesley Fofana,€32.00m,Centre-Back,[],France,"Dec 17, 2000 (23)",Marseille  ,France,"1,86 m",Chelsea FC,30-Jun-29,-,-,#33,right,adidas
+Benoît Badiashile,€32.00m,Centre-Back,['Left-Back'],France,"Mar 26, 2001 (23)",Limoges  ,France,"1,94 m",Chelsea FC,30-Jun-30,-,-,#5,left,adidas
+Lutsharel Geertruida,€32.00m,Right-Back,"['Centre-Back', 'Defensive Midfield']",Netherlands,"Jul 18, 2000 (23)",Rotterdam  ,Netherlands,"1,84 m",Feyenoord Rotterdam,30-Jun-25,-,-,#4,right,adidas
+Joey Veerman,€32.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",Netherlands,"Nov 19, 1998 (25)",Purmerend  ,Netherlands,"1,85 m",PSV Eindhoven,30-Jun-26,-,-,#23,right,adidas
+Ibrahim Sangaré,€32.00m,Defensive Midfield,['Central Midfield'],Ivory Coast,"Dec 2, 1997 (26)",Abidjan  ,Cote d'Ivoire,"1,91 m",Nottingham Forest,30-Jun-28,-,-,#6,right,
+Scott McTominay,€32.00m,Defensive Midfield,"['Central Midfield', 'Attacking Midfield']",Scotland,"Dec 8, 1996 (27)",Lancaster  ,England,"1,91 m",Manchester United,30-Jun-25,-,-,#39,right,adidas
+Christian Pulisic,€32.00m,Right Winger,"['Left Winger', 'Attacking Midfield']",USA,"Sep 18, 1998 (25)","Hershey, Pennsylvania  ",United States,"1,77 m",AC Milan,30-Jun-27,-,-,#11,right,Puma
+Virgil van Dijk,€32.00m,Centre-Back,[],Netherlands,"Jul 8, 1991 (32)",Breda  ,Netherlands,"1,93 m",Liverpool FC,30-Jun-25,-,-,#4,right,Nike
+Alisson,€32.00m,Goalkeeper,[],Brazil,"Oct 2, 1992 (31)",Novo Hamburgo  ,Brazil,"1,93 m",Liverpool FC,30-Jun-27,-,-,#1,right,Nike
+Arthur Vermeeren,€30.00m,Central Midfield,['Defensive Midfield'],Belgium,"Feb 7, 2005 (19)",Lier  ,Belgium,"1,80 m",Atlético de Madrid,30-Jun-30,-,-,#18,right,
+Kenan Yıldız,€30.00m,Second Striker,"['Left Winger', 'Right Winger']",Türkiye,"May 4, 2005 (18)",Regensburg  ,Germany,"1,87 m",Juventus FC,30-Jun-27,-,-,#15,both,adidas
+Evanilson,€30.00m,Centre-Forward,[],Brazil,"Oct 6, 1999 (24)",Fortaleza  ,Brazil,"1,83 m",FC Porto,30-Jun-27,-,-,#30,both,
+Gabri Veiga,€30.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",Spain,"May 27, 2002 (21)",Porriño  ,Spain,"1,85 m",Al-Ahli SFC,30-Jun-26,-,-,#24,right,adidas
+Willian Pacho,€30.00m,Centre-Back,[],Ecuador,"Oct 16, 2001 (22)",Quinindé  ,Ecuador,"1,87 m",Eintracht Frankfurt,30-Jun-28,-,-,#3,left,
+Jarrad Branthwaite,€30.00m,Centre-Back,[],England,"Jun 27, 2002 (21)",Carlisle  ,England,"1,95 m",Everton FC,30-Jun-27,-,-,#32,left,
+Simon Adingra,€30.00m,Left Winger,['Right Winger'],Ivory Coast,"Jan 1, 2002 (22)",Abobo  ,Cote d'Ivoire,"1,75 m",Brighton & Hove Albion,30-Jun-26,-,-,#24,right,
+Éderson,€30.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",Brazil,"Jul 7, 1999 (24)",Campo Grande  ,Brazil,"1,83 m",Atalanta BC,30-Jun-26,-,-,#13,right,adidas
+Aaron Hickey,€30.00m,Right-Back,"['Left-Back', 'Left Midfield']",Scotland,"Jun 10, 2002 (21)",Glasgow  ,Scotland,"1,85 m",Brentford FC,30-Jun-26,-,-,#2,both,
+Enzo Millot,€30.00m,Attacking Midfield,"['Central Midfield', 'Right Winger']",France,"Jul 17, 2002 (21)",Lucé  ,France,"1,74 m",VfB Stuttgart,30-Jun-28,-,-,#8,left,
+Yéremy Pino,€30.00m,Right Winger,['Left Winger'],Spain,"Oct 20, 2002 (21)",Las Palmas  ,Spain,"1,72 m",Villarreal CF,30-Jun-27,-,-,#21,right,
+Malick Thiaw,€30.00m,Centre-Back,"['Defensive Midfield', 'Right-Back']",Germany,"Aug 8, 2001 (22)",Düsseldorf  ,Germany,"1,94 m",AC Milan,30-Jun-27,-,-,#28,right,Under Armour
+Folarin Balogun,€30.00m,Centre-Forward,[],USA,"Jul 3, 2001 (22)","New York City, New York  ",United States,"1,78 m",AS Monaco,30-Jun-28,-,-,#29,right,adidas
+Ian Maatsen,€30.00m,Left-Back,"['Left Midfield', 'Left Winger']",Netherlands,"Mar 10, 2002 (22)",Vlaardingen  ,Netherlands,"1,78 m",Borussia Dortmund,30-Jun-24,Chelsea FC,30-Jun-26,#22,left,
+Kiernan Dewsbury-Hall,€30.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",England,"Sep 6, 1998 (25)",Shepshed  ,England,"1,78 m",Leicester City,30-Jun-27,-,-,#22,left,
+Ansu Fati,€30.00m,Left Winger,"['Attacking Midfield', 'Centre-Forward']",Spain,"Oct 31, 2002 (21)",Bissau  ,Guinea-Bissau,"1,78 m",Brighton & Hove Albion,30-Jun-24,FC Barcelona,30-Jun-27,#31,right,Nike
+João Félix,€30.00m,Left Winger,"['Second Striker', 'Centre-Forward']",Portugal,"Nov 10, 1999 (24)",Viseu  ,Portugal,"1,81 m",FC Barcelona,30-Jun-24,Atlético de Madrid,30-Jun-29,#14,right,adidas
+Morten Hjulmand,€30.00m,Defensive Midfield,"['Central Midfield', 'Attacking Midfield']",Denmark,"Jun 25, 1999 (24)",Kastrup  ,Denmark,"1,85 m",Sporting CP,30-Jun-28,-,-,#42,right,
+Orkun Kökçü,€30.00m,Central Midfield,['Attacking Midfield'],Türkiye,"Dec 29, 2000 (23)",Haarlem  ,Netherlands,"1,75 m",SL Benfica,30-Jun-28,-,-,#10,both,
+Charles De Ketelaere,€30.00m,Attacking Midfield,"['Centre-Forward', 'Right Winger']",Belgium,"Mar 10, 2001 (23)",Brugge  ,Belgium,"1,92 m",Atalanta BC,30-Jun-24,AC Milan,30-Jun-27,#17,left,
+Pedro Gonçalves,€30.00m,Attacking Midfield,"['Left Winger', 'Right Winger']",Portugal,"Jun 28, 1998 (25)",Chaves  ,Portugal,"1,73 m",Sporting CP,30-Jun-27,-,-,#8,right,
+Ademola Lookman,€30.00m,Second Striker,"['Right Winger', 'Left Winger']",Nigeria,"Oct 20, 1997 (26)",London  ,England,"1,74 m",Atalanta BC,30-Jun-26,-,-,#11,right,Nike
+Davide Frattesi,€30.00m,Central Midfield,['Attacking Midfield'],Italy,"Sep 22, 1999 (24)",Roma  ,Italy,"1,78 m",Inter Milan,30-Jun-28,US Sassuolo,30-Jun-26,#16,right,Puma
+Nico Schlotterbeck,€30.00m,Centre-Back,['Left-Back'],Germany,"Dec 1, 1999 (24)",Waiblingen  ,Germany,"1,91 m",Borussia Dortmund,30-Jun-27,-,-,#4,left,
+Alessandro Buongiorno,€30.00m,Centre-Back,['Left-Back'],Italy,"Jun 6, 1999 (24)",Torino  ,Italy,"1,90 m",Torino FC,30-Jun-28,-,-,#4,left,adidas
+Frank Anguissa,€30.00m,Central Midfield,['Defensive Midfield'],Cameroon,"Nov 16, 1995 (28)",Yaoundé  ,Cameroon,"1,84 m",SSC Napoli,30-Jun-25,-,-,#99,right,
+Fabián Ruiz,€30.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",Spain,"Apr 3, 1996 (28)",Los Palacios y Villafranca  ,Spain,"1,89 m",Paris Saint-Germain,30-Jun-27,-,-,#8,left,adidas
+Artem Dovbyk,€30.00m,Centre-Forward,[],Ukraine,"Jun 21, 1997 (26)",Cherkasy  ,Ukraine,"1,89 m",Girona FC,30-Jun-28,-,-,#9,left,
+Noussair Mazraoui,€30.00m,Right-Back,"['Left-Back', 'Central Midfield']",Morocco,"Nov 14, 1997 (26)",Leiderdorp  ,Netherlands,"1,83 m",Bayern Munich,30-Jun-26,-,-,#40,right,adidas
+Eddie Nketiah,€30.00m,Centre-Forward,"['Right Winger', 'Left Winger']",England,"May 30, 1999 (24)",London  ,England,"1,75 m",Arsenal FC,30-Jun-27,-,-,#14,right,Under Armour
+Takehiro Tomiyasu,€30.00m,Right-Back,"['Centre-Back', 'Left-Back']",Japan,"Nov 5, 1998 (25)","Fukuoka, Fukuoka  ",Japan,"1,88 m",Arsenal FC,30-Jun-26,-,-,#18,right,
+Malcom,€30.00m,Right Winger,"['Left Winger', 'Second Striker']",Brazil,"Feb 26, 1997 (27)",São Paulo  ,Brazil,"1,71 m",Al-Hilal SFC,30-Jun-27,-,-,#77,left,adidas
+Mathias Jensen,€30.00m,Central Midfield,[],Denmark,"Jan 1, 1996 (28)","Jerslev, West Zealand  ",Denmark,"1,80 m",Brentford FC,30-Jun-26,-,-,#8,right,Nike
+Ben Chilwell,€30.00m,Left-Back,['Left Midfield'],England,"Dec 21, 1996 (27)",Milton Keynes  ,England,"1,80 m",Chelsea FC,30-Jun-27,-,-,#21,left,Nike
+Marcos Llorente,€30.00m,Central Midfield,"['Right Midfield', 'Right-Back']",Spain,"Jan 30, 1995 (29)",Madrid  ,Spain,"1,84 m",Atlético de Madrid,30-Jun-27,-,-,#14,right,Nike
+Aleksandr Golovin,€30.00m,Attacking Midfield,"['Central Midfield', 'Left Winger']",Russia,"May 30, 1996 (27)","Kaltan, Kemerovo Oblast  ",Russia,"1,78 m",AS Monaco,30-Jun-26,-,-,#17,right,Nike
+Rodrigo de Paul,€30.00m,Central Midfield,['Attacking Midfield'],Argentina,"May 24, 1994 (29)",Sarandí  ,Argentina,"1,80 m",Atlético de Madrid,30-Jun-26,-,-,#5,right,adidas
+Otávio,€30.00m,Attacking Midfield,"['Right Winger', 'Central Midfield']",Portugal,"Feb 9, 1995 (29)",João Pessoa  ,Brazil,"1,72 m",Al-Nassr FC,30-Jun-26,-,-,#25,right,
+José Gayà,€30.00m,Left-Back,[],Spain,"May 25, 1995 (28)",Pedreguer  ,Spain,"1,72 m",Valencia CF,30-Jun-27,-,-,#14,left,Nike
+Jonathan Tah,€30.00m,Centre-Back,[],Germany,"Feb 11, 1996 (28)",Hamburg  ,Germany,"1,95 m",Bayer 04 Leverkusen,30-Jun-25,-,-,#4,right,adidas
+John McGinn,€30.00m,Central Midfield,"['Left Midfield', 'Defensive Midfield']",Scotland,"Oct 18, 1994 (29)",Glasgow  ,Scotland,"1,78 m",Aston Villa,30-Jun-27,-,-,#7,left,
+Stanislav Lobotka,€30.00m,Defensive Midfield,['Central Midfield'],Slovakia,"Nov 25, 1994 (29)",Trenčín  ,Slovakia,"1,68 m",SSC Napoli,30-Jun-27,-,-,#68,right,
+João Cancelo,€30.00m,Right-Back,"['Left-Back', 'Right Midfield']",Portugal,"May 27, 1994 (29)",Barreiro  ,Portugal,"1,82 m",FC Barcelona,30-Jun-24,Manchester City,30-Jun-27,#2,right,Nike
+Leon Goretzka,€30.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",Germany,"Feb 6, 1995 (29)",Bochum  ,Germany,"1,89 m",Bayern Munich,30-Jun-26,-,-,#8,right,
+Jan Oblak,€30.00m,Goalkeeper,[],Slovenia,"Jan 7, 1993 (31)",Škofja Loka  ,Slovenia,"1,88 m",Atlético de Madrid,30-Jun-28,-,-,#13,right,Puma
+Thibaut Courtois,€30.00m,Goalkeeper,[],Belgium,"May 11, 1992 (31)",Bree  ,Belgium,"2,00 m",Real Madrid,30-Jun-26,-,-,#1,left,Nike
+Romelu Lukaku,€30.00m,Centre-Forward,[],Belgium,"May 13, 1993 (30)",Antwerpen  ,Belgium,"1,91 m",AS Roma,30-Jun-24,Chelsea FC,30-Jun-26,#90,left,Nike
+Marc-André ter Stegen,€30.00m,Goalkeeper,[],Germany,"Apr 30, 1992 (31)",Mönchengladbach  ,Germany,"1,87 m",FC Barcelona,30-Jun-28,-,-,#1,right,adidas
+Mateo Kovacic,€30.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",Croatia,"May 6, 1994 (29)",Linz  ,Austria,"1,77 m",Manchester City,30-Jun-27,-,-,#8,right,Nike
+Lionel Messi,€30.00m,Right Winger,"['Centre-Forward', 'Second Striker']",Argentina,"Jun 24, 1987 (36)",Rosario  ,Argentina,"1,70 m",Inter Miami CF,31-Dec-25,-,-,#10,left,adidas
+Casemiro,€30.00m,Defensive Midfield,[],Brazil,"Feb 23, 1992 (32)",São José dos Campos  ,Brazil,"1,85 m",Manchester United,30-Jun-26,-,-,#18,right,adidas
+Hugo Larsson,€28.00m,Central Midfield,['Defensive Midfield'],Sweden,"Jun 27, 2004 (19)",Svarte  ,Sweden,"1,87 m",Eintracht Frankfurt,30-Jun-28,-,-,#16,right,Puma
+Danilo,€28.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",Brazil,"Apr 29, 2001 (22)",Salvador  ,Brazil,"1,77 m",Nottingham Forest,30-Jun-29,-,-,#28,left,Nike
+João Gomes,€28.00m,Central Midfield,['Defensive Midfield'],Brazil,"Feb 12, 2001 (23)",Rio de Janeiro   ,Brazil,"1,76 m",Wolverhampton Wanderers,30-Jun-28,-,-,#8,right,Nike
+Jamie Bynoe-Gittens,€28.00m,Left Winger,['Right Winger'],England,"Aug 8, 2004 (19)",London  ,England,"1,77 m",Borussia Dortmund,30-Jun-28,-,-,#43,right,
+Ilya Zabarnyi,€28.00m,Centre-Back,[],Ukraine,"Sep 1, 2002 (21)",Kyiv  ,Ukraine,"1,89 m",AFC Bournemouth,30-Jun-28,-,-,#27,right,
+Antony,€28.00m,Right Winger,['Left Winger'],Brazil,"Feb 24, 2000 (24)",São Paulo  ,Brazil,"1,72 m",Manchester United,30-Jun-27,-,-,#21,left,Puma
+Armando Broja,€28.00m,Centre-Forward,[],Albania,"Sep 10, 2001 (22)",Slough  ,England,"1,91 m",Fulham FC,30-Jun-24,Chelsea FC,30-Jun-28,#9,right,Nike
+Youssouf Fofana,€28.00m,Central Midfield,"['Defensive Midfield', 'Right Midfield']",France,"Jan 10, 1999 (25)",Paris  ,France,"1,85 m",AS Monaco,30-Jun-25,-,-,#19,right,adidas
+Karim Adeyemi,€28.00m,Left Winger,"['Centre-Forward', 'Right Winger']",Germany,"Jan 18, 2002 (22)",München  ,Germany,"1,80 m",Borussia Dortmund,30-Jun-27,-,-,#27,left,Nike
+Matty Cash,€28.00m,Right-Back,"['Right Midfield', 'Central Midfield']",Poland,"Aug 7, 1997 (26)",Slough  ,England,"1,85 m",Aston Villa,30-Jun-27,-,-,#2,right,Under Armour
+Amine Gouiri,€28.00m,Left Winger,"['Centre-Forward', 'Second Striker']",Algeria,"Feb 16, 2000 (24)",Bourgoin-Jallieu  ,France,"1,81 m",Stade Rennais FC,30-Jun-27,-,-,#10,right,
+Giacomo Raspadori,€28.00m,Second Striker,"['Left Winger', 'Centre-Forward']",Italy,"Feb 18, 2000 (24)",Bentivoglio  ,Italy,"1,72 m",SSC Napoli,30-Jun-28,-,-,#81,right,adidas
+Vitaliy Mykolenko,€28.00m,Left-Back,"['Centre-Back', 'Left Midfield']",Ukraine,"May 29, 1999 (24)",Cherkasy  ,Ukraine,"1,80 m",Everton FC,30-Jun-26,-,-,#19,left,
+Kalvin Phillips,€28.00m,Defensive Midfield,"['Central Midfield', 'Centre-Back']",England,"Dec 2, 1995 (28)",Leeds  ,England,"1,79 m",West Ham United,30-Jun-24,Manchester City,30-Jun-28,#11,right,
+Ermedin Demirovic,€28.00m,Centre-Forward,"['Right Winger', 'Left Winger']",Bosnia,"Mar 25, 1998 (26)",Hamburg  ,Germany,"1,85 m",FC Augsburg,30-Jun-26,-,-,#9,right,Nike
+Taiwo Awoniyi,€28.00m,Centre-Forward,[],Nigeria,"Aug 12, 1997 (26)",Ilorin  ,Nigeria,"1,83 m",Nottingham Forest,30-Jun-27,-,-,#9,right,
+Viktor Tsygankov,€28.00m,Right Winger,"['Attacking Midfield', 'Left Winger']",Ukraine,"Nov 15, 1997 (26)",Nahariya  ,Israel,"1,78 m",Girona FC,30-Jun-27,-,-,#8,left,
+Alex Iwobi,€28.00m,Attacking Midfield,"['Left Winger', 'Right Winger']",Nigeria,"May 3, 1996 (27)",Lagos  ,Nigeria,"1,83 m",Fulham FC,30-Jun-28,-,-,#22,right,Nike
+Xaver Schlager,€28.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",Austria,"Sep 28, 1997 (26)",Linz  ,Austria,"1,74 m",RB Leipzig,30-Jun-26,-,-,#24,left,Puma
+Konrad Laimer,€28.00m,Central Midfield,"['Defensive Midfield', 'Right-Back']",Austria,"May 27, 1997 (26)",Salzburg  ,Austria,"1,80 m",Bayern Munich,30-Jun-27,-,-,#27,right,
+Emiliano Martínez,€28.00m,Goalkeeper,[],Argentina,"Sep 2, 1992 (31)",Mar del Plata  ,Argentina,"1,95 m",Aston Villa,30-Jun-27,-,-,#1,right,adidas
+Aleksandar Mitrovic,€28.00m,Centre-Forward,[],Serbia,"Sep 16, 1994 (29)",Smederevo  ,Yugoslavia (Republic),"1,89 m",Al-Hilal SFC,30-Jun-26,-,-,#9,right,Puma
+Thiago Almada,€27.00m,Attacking Midfield,"['Left Winger', 'Right Winger']",Argentina,"Apr 26, 2001 (22)",Buenos Aires  ,Argentina,"1,71 m",Atlanta United FC,31-Dec-26,-,-,#10,right,Nike
+Mats Wieffer,€27.00m,Defensive Midfield,"['Central Midfield', 'Centre-Back']",Netherlands,"Nov 16, 1999 (24)",Borne  ,Netherlands,"1,88 m",Feyenoord Rotterdam,30-Jun-27,-,-,#20,right,Puma
+Denzel Dumfries,€27.00m,Right Midfield,['Right-Back'],Netherlands,"Apr 18, 1996 (28)",Rotterdam  ,Netherlands,"1,88 m",Inter Milan,30-Jun-25,-,-,#2,right,
+Olivier Boscagli,€27.00m,Centre-Back,"['Left-Back', 'Defensive Midfield']",France,"Nov 18, 1997 (26)",Monaco  ,Monaco,"1,81 m",PSV Eindhoven,30-Jun-25,-,-,#18,left,
+Murillo,€25.00m,Centre-Back,[],Brazil,"Jul 4, 2002 (21)",São Paulo  ,Brazil,"1,84 m",Nottingham Forest,30-Jun-28,-,-,#40,left,Nike
+Pau Cubarsí,€25.00m,Centre-Back,[],Spain,"Jan 22, 2007 (17)",Estanyol  ,Spain,"1,84 m",FC Barcelona,30-Jun-26,-,-,#33,right,
+André,€25.00m,Defensive Midfield,"['Central Midfield', 'Centre-Back']",Brazil,"Jul 16, 2001 (22)",Ibirataia  ,Brazil,"1,76 m",Fluminense Football Club,31-Dec-26,-,-,#7,right,Nike
+Aleksandar Pavlovic,€25.00m,Defensive Midfield,['Central Midfield'],Germany,"May 3, 2004 (19)",München   ,Germany,"1,88 m",Bayern Munich,30-Jun-27,-,-,#45,both,
+Pablo Barrios,€25.00m,Central Midfield,['Attacking Midfield'],Spain,"Jun 15, 2003 (20)",Madrid  ,Spain,"1,81 m",Atlético de Madrid,30-Jun-28,-,-,#24,right,
+Alan Varela,€25.00m,Defensive Midfield,['Central Midfield'],Argentina,"Jul 4, 2001 (22)",Isidro Casanova  ,Argentina,"1,77 m",FC Porto,30-Jun-28,-,-,#22,right,
+Igor Thiago,€25.00m,Centre-Forward,['Second Striker'],Brazil,"Jun 26, 2001 (22)",Gama  ,Brazil,"1,91 m",Club Brugge KV,30-Jun-27,-,-,#99,right,
+Lesley Ugochukwu,€25.00m,Defensive Midfield,['Central Midfield'],France,"Mar 26, 2004 (20)",Rennes  ,France,"1,90 m",Chelsea FC,30-Jun-30,-,-,#16,right,Nike
+Samuel Lino,€25.00m,Left Winger,"['Left Midfield', 'Right Winger']",Brazil,"Dec 23, 1999 (24)",Santo André  ,Brazil,"1,70 m",Atlético de Madrid,30-Jun-27,-,-,#12,right,
+Matías Soulé,€25.00m,Right Winger,"['Attacking Midfield', 'Second Striker']",Argentina,"Apr 15, 2003 (21)",Mar del Plata  ,Argentina,"1,82 m",Frosinone Calcio,30-Jun-24,Juventus FC,30-Jun-26,#18,left,adidas
+Marcos Leonardo,€25.00m,Centre-Forward,['Second Striker'],Brazil,"May 2, 2003 (20)",Itapetinga  ,Brazil,"1,77 m",SL Benfica,30-Jun-29,-,-,#36,right,Nike
+Oscar Bobb,€25.00m,Right Winger,"['Attacking Midfield', 'Left Winger']",Norway,"Jul 12, 2003 (20)",Oslo  ,Norway,"1,75 m",Manchester City,30-Jun-29,-,-,#52,left,Puma
+Bilal El Khannouss,€25.00m,Attacking Midfield,['Central Midfield'],Morocco,"May 10, 2004 (19)",Strombeek-Bever  ,Belgium,"1,80 m",KRC Genk,30-Jun-27,-,-,#10,right,
+Manu Koné,€25.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",France,"May 17, 2001 (22)",Colombes  ,France,"1,85 m",Borussia Mönchengladbach,30-Jun-26,-,-,#17,right,adidas
+Georgiy Sudakov,€25.00m,Attacking Midfield,"['Central Midfield', 'Left Midfield']",Ukraine,"Sep 1, 2002 (21)","Bryanka, Lugansk Oblast  ",Ukraine,"1,77 m",Shakhtar Donetsk,31-Dec-28,-,-,#10,both,Nike
+Rayan Cherki,€25.00m,Attacking Midfield,"['Left Winger', 'Right Winger']",France,"Aug 17, 2003 (20)",Lyon  ,France,"1,77 m",Olympique Lyon,30-Jun-25,-,-,#18,both,adidas
+Pierre Kalulu,€25.00m,Centre-Back,['Right-Back'],France,"Jun 5, 2000 (23)",Lyon  ,France,"1,82 m",AC Milan,30-Jun-27,-,-,#20,right,
+Strahinja Pavlovic,€25.00m,Centre-Back,[],Serbia,"May 24, 2001 (22)",Šabac  ,Yugoslavia (Republic),"1,94 m",Red Bull Salzburg,30-Jun-27,-,-,#31,left,Puma
+Radu Drăgușin,€25.00m,Centre-Back,['Right-Back'],Romania,"Feb 3, 2002 (22)",Bucharest  ,Romania,"1,91 m",Tottenham Hotspur,30-Jun-30,-,-,#6,right,Nike
+Álex Baena,€25.00m,Attacking Midfield,"['Left Winger', 'Right Winger']",Spain,"Jul 20, 2001 (22)",Roquetas de Mar  ,Spain,"1,74 m",Villarreal CF,30-Jun-28,-,-,#16,right,
+Mohamed Camara,€25.00m,Defensive Midfield,['Central Midfield'],Mali,"Jan 6, 2000 (24)",Bamako  ,Mali,"1,73 m",AS Monaco,30-Jun-27,-,-,#4,right,
+Terem Moffi,€25.00m,Centre-Forward,['Right Winger'],Nigeria,"May 25, 1999 (24)",Calabar  ,Nigeria,"1,88 m",OGC Nice,30-Jun-27,-,-,#9,left,
+Anatoliy Trubin,€25.00m,Goalkeeper,[],Ukraine,"Aug 1, 2001 (22)",Donetsk  ,Ukraine,"1,99 m",SL Benfica,30-Jun-28,-,-,#1,right,Puma
+Fábio Vieira,€25.00m,Attacking Midfield,"['Central Midfield', 'Right Midfield']",Portugal,"May 30, 2000 (23)",Santa Maria da Feira  ,Portugal,"1,70 m",Arsenal FC,30-Jun-27,-,-,#21,left,
+Amine Adli,€25.00m,Left Winger,"['Right Winger', 'Second Striker']",Morocco,"May 10, 2000 (23)",Béziers  ,France,"1,74 m",Bayer 04 Leverkusen,30-Jun-26,-,-,#21,left,adidas
+Roger Ibañez,€25.00m,Centre-Back,[],Brazil,"Nov 23, 1998 (25)",Canela  ,Brazil,"1,85 m",Al-Ahli SFC,30-Jun-27,-,-,#3,right,
+Dani Vivian,€25.00m,Centre-Back,[],Spain,"Jul 5, 1999 (24)",Vitoria-Gasteiz  ,Spain,"1,84 m",Athletic Bilbao,30-Jun-26,-,-,#3,right,
+Pepê,€25.00m,Left Winger,"['Right Winger', 'Right-Back']",Brazil,"Feb 24, 1997 (27)",Foz do Iguaçu  ,Brazil,"1,75 m",FC Porto,30-Jun-27,-,-,#11,right,
+Jesper Lindstrøm,€25.00m,Attacking Midfield,"['Left Winger', 'Right Winger']",Denmark,"Feb 29, 2000 (24)",Taastrup  ,Denmark,"1,82 m",SSC Napoli,30-Jun-28,-,-,#29,right,adidas
+Noni Madueke,€25.00m,Right Winger,['Centre-Forward'],England,"Mar 10, 2002 (22)",London  ,England,"1,82 m",Chelsea FC,30-Jun-30,-,-,#11,left,adidas
+Riccardo Calafiori,€25.00m,Centre-Back,"['Left Midfield', 'Left-Back']",Italy,"May 19, 2002 (21)",Roma  ,Italy,"1,88 m",Bologna FC 1909,30-Jun-27,-,-,#33,left,
+Facundo Medina,€25.00m,Centre-Back,['Left-Back'],Argentina,"May 28, 1999 (24)",Villa Fiorito  ,Argentina,"1,84 m",RC Lens,30-Jun-28,-,-,#14,left,
+Brian Brobbey,€25.00m,Centre-Forward,[],Netherlands,"Feb 1, 2002 (22)",Amsterdam  ,Netherlands,"1,80 m",Ajax Amsterdam,30-Jun-27,-,-,#9,right,Nike
+Kevin Schade,€25.00m,Right Winger,"['Left Winger', 'Centre-Forward']",Germany,"Nov 27, 2001 (22)",Potsdam  ,Germany,"1,85 m",Brentford FC,30-Jun-28,-,-,#9,right,Puma
+David Neres,€25.00m,Right Winger,"['Left Winger', 'Attacking Midfield']",Brazil,"Mar 3, 1997 (27)",São Paulo  ,Brazil,"1,76 m",SL Benfica,30-Jun-27,-,-,#7,left,adidas
+Nathan Collins,€25.00m,Centre-Back,['Right-Back'],Ireland,"Apr 30, 2001 (22)",Leixlip  ,Ireland,"1,93 m",Brentford FC,30-Jun-29,-,-,#22,right,
+Youssoufa Moukoko,€25.00m,Centre-Forward,['Second Striker'],Germany,"Nov 20, 2004 (19)",Yaoundé  ,Cameroon,"1,79 m",Borussia Dortmund,30-Jun-26,-,-,#18,left,Nike
+Mattéo Guendouzi,€25.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",France,"Apr 14, 1999 (25)",Poissy  ,France,"1,85 m",SS Lazio,30-Jun-28,Olympique Marseille,30-Jun-25,#8,right,adidas
+Rodrigo Riquelme,€25.00m,Left Winger,"['Right Winger', 'Attacking Midfield']",Spain,"Apr 2, 2000 (24)",Madrid  ,Spain,"1,74 m",Atlético de Madrid,30-Jun-28,-,-,#17,right,
+Andrea Cambiaso,€25.00m,Left-Back,"['Right-Back', 'Left Midfield']",Italy,"Feb 20, 2000 (24)",Genova  ,Italy,"1,82 m",Juventus FC,30-Jun-27,-,-,#27,both,adidas
+Galeno,€25.00m,Left Winger,"['Right Winger', 'Left Midfield']",Brazil,"Oct 22, 1997 (26)",Barra da Corda  ,Brazil,"1,79 m",FC Porto,30-Jun-28,-,-,#13,right,
+Martin Terrier,€25.00m,Left Winger,['Centre-Forward'],France,"Mar 4, 1997 (27)",Armentières  ,France,"1,84 m",Stade Rennais FC,30-Jun-26,-,-,#7,right,adidas
+Aaron Ramsdale,€25.00m,Goalkeeper,[],England,"May 14, 1998 (25)",Chesterton  ,England,"1,90 m",Arsenal FC,30-Jun-26,-,-,#1,right,adidas
+Jakub Kiwior,€25.00m,Left-Back,"['Centre-Back', 'Defensive Midfield']",Poland,"Feb 15, 2000 (24)",Tychy  ,Poland,"1,89 m",Arsenal FC,30-Jun-28,-,-,#15,left,
+Perr Schuurs,€25.00m,Centre-Back,[],Netherlands,"Nov 26, 1999 (24)",Nieuwstadt  ,Netherlands,"1,91 m",Torino FC,30-Jun-26,-,-,#3,right,Nike
+Felix Nmecha,€25.00m,Central Midfield,['Attacking Midfield'],Germany,"Oct 10, 2000 (23)",Hamburg  ,Germany,"1,90 m",Borussia Dortmund,30-Jun-28,-,-,#8,right,
+Robert Sánchez,€25.00m,Goalkeeper,[],Spain,"Nov 18, 1997 (26)",Cartagena  ,Spain,"1,97 m",Chelsea FC,30-Jun-30,-,-,#1,right,Nike
+Jadon Sancho,€25.00m,Left Winger,"['Right Winger', 'Attacking Midfield']",England,"Mar 25, 2000 (24)",London  ,England,"1,80 m",Borussia Dortmund,30-Jun-24,Manchester United,30-Jun-26,#10,right,Nike
+Emile Smith Rowe,€25.00m,Attacking Midfield,"['Central Midfield', 'Left Midfield']",England,"Jul 28, 2000 (23)",London  ,England,"1,82 m",Arsenal FC,30-Jun-26,-,-,#10,right,Nike
+Yoane Wissa,€25.00m,Left Winger,"['Centre-Forward', 'Right Winger']",DR Congo,"Sep 3, 1996 (27)",Villeneuve-Saint-George  ,France,"1,76 m",Brentford FC,30-Jun-26,-,-,#11,right,
+Lovro Majer,€25.00m,Attacking Midfield,['Central Midfield'],Croatia,"Jan 17, 1998 (26)",Zagreb  ,Croatia,"1,78 m",VfL Wolfsburg,30-Jun-28,-,-,#19,left,
+Hiroki Ito,€25.00m,Centre-Back,"['Left-Back', 'Defensive Midfield']",Japan,"May 12, 1999 (24)","Hamamatsu, Shizuoka  ",Japan,"1,88 m",VfB Stuttgart,30-Jun-27,-,-,#21,left,
+Sean Longstaff,€25.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",England,"Oct 30, 1997 (26)",Newcastle upon Tyne  ,England,"1,87 m",Newcastle United,30-Jun-25,-,-,#36,right,
+Rico Henry,€25.00m,Left-Back,['Left Midfield'],England,"Jul 8, 1997 (26)",Birmingham  ,England,"1,70 m",Brentford FC,30-Jun-26,-,-,#3,left,
+Denis Zakaria,€25.00m,Defensive Midfield,"['Central Midfield', 'Centre-Back']",Switzerland,"Nov 20, 1996 (27)",Genf  ,Switzerland,"1,90 m",AS Monaco,30-Jun-28,-,-,#6,right,adidas
+Weston McKennie,€25.00m,Central Midfield,"['Right Midfield', 'Defensive Midfield']",USA,"Aug 28, 1998 (25)","Little Elm, Texas  ",United States,"1,85 m",Juventus FC,30-Jun-25,-,-,#16,right,adidas
+Gianluca Scamacca,€25.00m,Centre-Forward,[],Italy,"Jan 1, 1999 (25)",Roma  ,Italy,"1,95 m",Atalanta BC,30-Jun-27,-,-,#90,right,Nike
+Marcus Edwards,€25.00m,Right Winger,"['Attacking Midfield', 'Left Winger']",England,"Dec 3, 1998 (25)",London  ,England,"1,68 m",Sporting CP,30-Jun-26,-,-,#10,left,
+Hee-chan Hwang,€25.00m,Centre-Forward,"['Left Winger', 'Right Winger']",South Korea,"Jan 26, 1996 (28)","Chuncheon, Gangwon  ","Korea, South","1,77 m",Wolverhampton Wanderers,30-Jun-28,-,-,#11,right,
+Lorenzo Pellegrini,€25.00m,Attacking Midfield,"['Central Midfield', 'Defensive Midfield']",Italy,"Jun 19, 1996 (27)",Roma  ,Italy,"1,86 m",AS Roma,30-Jun-26,-,-,#7,right,Nike
+Marc Cucurella,€25.00m,Left-Back,"['Left Midfield', 'Centre-Back']",Spain,"Jul 22, 1998 (25)",Alella  ,Spain,"1,73 m",Chelsea FC,30-Jun-28,-,-,#3,left,Puma
+Mario Hermoso,€25.00m,Centre-Back,['Left-Back'],Spain,"Jun 18, 1995 (28)",Madrid  ,Spain,"1,84 m",Atlético de Madrid,30-Jun-24,-,-,#22,left,
+Chris Führich,€25.00m,Left Winger,"['Right Winger', 'Second Striker']",Germany,"Jan 9, 1998 (26)",Castrop-Rauxel  ,Germany,"1,81 m",VfB Stuttgart,30-Jun-28,-,-,#27,right,
+Kevin Danso,€25.00m,Centre-Back,[],Austria,"Sep 19, 1998 (25)",Voitsberg  ,Austria,"1,90 m",RC Lens,30-Jun-27,-,-,#4,right,Puma
+Unai Simón,€25.00m,Goalkeeper,[],Spain,"Jun 11, 1997 (26)",Vitoria-Gasteiz  ,Spain,"1,90 m",Athletic Bilbao,30-Jun-25,-,-,#1,right,
+Aleix García,€25.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",Spain,"Jun 28, 1997 (26)",Ulldecona  ,Spain,"1,73 m",Girona FC,30-Jun-26,-,-,#14,right,
+Joe Gomez,€25.00m,Centre-Back,"['Right-Back', 'Left-Back']",England,"May 23, 1997 (26)",London  ,England,"1,88 m",Liverpool FC,30-Jun-27,-,-,#2,right,Nike
+Iñaki Williams,€25.00m,Right Winger,"['Centre-Forward', 'Left Winger']",Ghana,"Jun 15, 1994 (29)",Bilbao  ,Spain,"1,86 m",Athletic Bilbao,30-Jun-28,-,-,#9,right,Nike
+José María Giménez,€25.00m,Centre-Back,"['Right-Back', 'Defensive Midfield']",Uruguay,"Jan 20, 1995 (29)",Toledo  ,Uruguay,"1,85 m",Atlético de Madrid,30-Jun-28,-,-,#2,right,Puma
+Youri Tielemans,€25.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",Belgium,"May 7, 1997 (26)",Sint-Pieters-Leeuw  ,Belgium,"1,77 m",Aston Villa,30-Jun-27,-,-,#8,right,Nike
+Álex Remiro,€25.00m,Goalkeeper,[],Spain,"Mar 24, 1995 (29)",Cascante  ,Spain,"1,91 m",Real Sociedad,30-Jun-27,-,-,#1,right,
+Paulo Dybala,€25.00m,Second Striker,"['Centre-Forward', 'Right Winger']",Argentina,"Nov 15, 1993 (30)",Laguna Larga  ,Argentina,"1,77 m",AS Roma,30-Jun-25,-,-,#21,left,adidas
+Ruben Loftus-Cheek,€25.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",England,"Jan 23, 1996 (28)",London  ,England,"1,91 m",AC Milan,30-Jun-27,-,-,#8,right,adidas
+Piotr Zieliński,€25.00m,Central Midfield,"['Attacking Midfield', 'Left Midfield']",Poland,"May 20, 1994 (29)",Ząbkowice Śląskie  ,Poland,"1,80 m",SSC Napoli,30-Jun-24,-,-,#20,both,Nike
+Aymeric Laporte,€25.00m,Centre-Back,[],Spain,"May 27, 1994 (29)",Agen  ,France,"1,91 m",Al-Nassr FC,30-Jun-26,-,-,#27,left,adidas
+Raphaël Varane,€25.00m,Centre-Back,[],France,"Apr 25, 1993 (30)",Lille  ,France,"1,91 m",Manchester United,30-Jun-24,-,-,#19,right,Puma
+Kurt Zouma,€25.00m,Centre-Back,['Right-Back'],France,"Oct 27, 1994 (29)",Lyon  ,France,"1,90 m",West Ham United,30-Jun-25,-,-,#4,right,
+Antoine Griezmann,€25.00m,Centre-Forward,"['Second Striker', 'Left Winger']",France,"Mar 21, 1991 (33)",Mâcon  ,France,"1,76 m",Atlético de Madrid,30-Jun-26,-,-,#7,left,Puma
+Marco Verratti,€25.00m,Central Midfield,['Defensive Midfield'],Italy,"Nov 5, 1992 (31)",Pescara  ,Italy,"1,65 m",Al-Arabi SC,30-Jun-25,-,-,#7,right,Nike
+Antonio Rüdiger,€25.00m,Centre-Back,['Right-Back'],Germany,"Mar 3, 1993 (31)",Berlin  ,Germany,"1,90 m",Real Madrid,30-Jun-26,-,-,#22,right,Under Armour
+David Alaba,€25.00m,Centre-Back,"['Left-Back', 'Central Midfield']",Austria,"Jun 24, 1992 (31)",Wien  ,Austria,"1,80 m",Real Madrid,30-Jun-26,-,-,#4,left,adidas
+Maximilian Beier,€24.00m,Centre-Forward,"['Right Winger', 'Left Winger']",Germany,"Oct 17, 2002 (21)",Brandenburg an der Havel  ,Germany,"1,85 m",TSG 1899 Hoffenheim,30-Jun-27,-,-,#14,right,
+Lewis Ferguson,€24.00m,Attacking Midfield,['Central Midfield'],Scotland,"Aug 24, 1999 (24)",Hamilton  ,Scotland,"1,81 m",Bologna FC 1909,30-Jun-27,-,-,#19,right,
+Eljif Elmas,€24.00m,Attacking Midfield,"['Left Winger', 'Central Midfield']",North Macedonia,"Sep 24, 1999 (24)",Skopje  ,Macedonia,"1,84 m",RB Leipzig,30-Jun-28,-,-,#6,right,
+Evan Ndicka,€24.00m,Centre-Back,[],Ivory Coast,"Aug 20, 1999 (24)",Paris  ,France,"1,92 m",AS Roma,30-Jun-28,-,-,#5,left,
+Jerdy Schouten,€24.00m,Defensive Midfield,"['Centre-Back', 'Central Midfield']",Netherlands,"Jan 12, 1997 (27)",Spijkenisse  ,Netherlands,"1,85 m",PSV Eindhoven,30-Jun-28,-,-,#22,right,
+Guido Rodríguez,€24.00m,Defensive Midfield,['Central Midfield'],Argentina,"Apr 12, 1994 (30)",Sáenz Peña  ,Argentina,"1,85 m",Real Betis Balompié,30-Jun-24,-,-,#5,right,
+Quilindschy Hartman,€23.00m,Left-Back,[],Netherlands,"Nov 14, 2001 (22)",Zwijndrecht  ,Netherlands,"1,83 m",Feyenoord Rotterdam,30-Jun-26,-,-,#5,left,Puma
+Yunus Musah,€23.00m,Central Midfield,"['Attacking Midfield', 'Right Midfield']",USA,"Nov 29, 2002 (21)","New York City, New York  ",United States,"1,78 m",AC Milan,30-Jun-28,-,-,#80,right,Puma
+Tijjani Reijnders,€23.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",Netherlands,"Jul 29, 1998 (25)",Zwolle  ,Netherlands,"1,85 m",AC Milan,30-Jun-28,-,-,#14,right,Mizuno
+Nathan Tella,€23.00m,Right Winger,"['Left Winger', 'Right Midfield']",Nigeria,"Jul 5, 1999 (24)",Stevenage  ,England,"1,73 m",Bayer 04 Leverkusen,30-Jun-28,-,-,#19,right,
+Lewis Miley,€22.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",England,"May 1, 2006 (17)",Stanley  ,England,"1,89 m",Newcastle United,30-Jun-29,-,-,#67,right,
+Jorrel Hato,€22.00m,Centre-Back,['Left-Back'],Netherlands,"Mar 7, 2006 (18)",Rotterdam  ,Netherlands,"1,82 m",Ajax Amsterdam,30-Jun-28,-,-,#4,left,
+Tyrick Mitchell,€22.00m,Left-Back,['Left Midfield'],England,"Sep 1, 1999 (24)",London  ,England,"1,75 m",Crystal Palace,30-Jun-25,-,-,#3,left,
+Julio Enciso,€22.00m,Attacking Midfield,"['Centre-Forward', 'Left Winger']",Paraguay,"Jan 23, 2004 (20)",Caaguazú  ,Paraguay,"1,73 m",Brighton & Hove Albion,30-Jun-26,-,-,#10,right,adidas
+Beto,€22.00m,Centre-Forward,[],Portugal,"Jan 31, 1998 (26)",Lisboa  ,Portugal,"1,94 m",Everton FC,30-Jun-27,-,-,#14,right,
+Anthony Elanga,€22.00m,Left Winger,"['Centre-Forward', 'Right Winger']",Sweden,"Apr 27, 2002 (21)",Hyllie  ,Sweden,"1,78 m",Nottingham Forest,30-Jun-28,-,-,#21,right,Nike
+Kang-in Lee,€22.00m,Attacking Midfield,"['Left Winger', 'Right Winger']",South Korea,"Feb 19, 2001 (23)",Incheon  ,"Korea, South","1,73 m",Paris Saint-Germain,30-Jun-28,-,-,#19,left,adidas
+James Garner,€22.00m,Defensive Midfield,"['Central Midfield', 'Right-Back']",England,"Mar 13, 2001 (23)",Birkenhead  ,England,"1,82 m",Everton FC,30-Jun-26,-,-,#37,right,
+Taylor Harwood-Bellis,€22.00m,Centre-Back,[],England,"Jan 30, 2002 (22)",Stockport  ,England,"1,88 m",Southampton FC,31-May-24,Manchester City,30-Jun-25,#21,right,
+Wendel,€22.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",Brazil,"Aug 28, 1997 (26)",Duque de Caxias  ,Brazil,"1,80 m",Zenit St. Petersburg,30-Jun-27,-,-,#8,right,Nike
+Sacha Boey,€22.00m,Right-Back,[],France,"Sep 13, 2000 (23)",Montreuil  ,France,"1,78 m",Bayern Munich,30-Jun-28,-,-,#23,right,Nike
+Lucas Chevalier,€22.00m,Goalkeeper,[],France,"Nov 6, 2001 (22)",Calais  ,France,"1,89 m",LOSC Lille,30-Jun-27,-,-,#30,right,adidas
+Omar Marmoush,€22.00m,Centre-Forward,"['Left Winger', 'Right Winger']",Egypt,"Feb 7, 1999 (25)",Kairo  ,Egypt,"1,83 m",Eintracht Frankfurt,30-Jun-27,-,-,#7,right,Nike
+Pedro,€22.00m,Centre-Forward,[],Brazil,"Jun 20, 1997 (26)",Rio de Janeiro  ,Brazil,"1,85 m",CR Flamengo,31-Dec-27,-,-,#9,right,adidas
+Quinten Timber,€22.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",Netherlands,"Jun 17, 2001 (22)",Utrecht  ,Netherlands,"1,79 m",Feyenoord Rotterdam,30-Jun-26,-,-,#8,right,adidas
+Jack Harrison,€22.00m,Right Winger,['Left Winger'],England,"Nov 20, 1996 (27)",Stoke-on-Trent  ,England,"1,75 m",Everton FC,31-May-24,Leeds United,30-Jun-28,#11,left,
+Angel Gomes,€22.00m,Attacking Midfield,"['Central Midfield', 'Defensive Midfield']",England,"Aug 31, 2000 (23)",London  ,England,"1,68 m",LOSC Lille,30-Jun-25,-,-,#8,right,Nike
+Sergiño Dest,€22.00m,Left-Back,['Right-Back'],USA,"Nov 3, 2000 (23)",Almere  ,Netherlands,"1,73 m",PSV Eindhoven,30-Jun-24,FC Barcelona,30-Jun-25,#8,right,
+Igor Zubeldia,€22.00m,Centre-Back,"['Central Midfield', 'Defensive Midfield']",Spain,"Mar 30, 1997 (27)",Azkoitia  ,Spain,"1,81 m",Real Sociedad,30-Jun-29,-,-,#5,right,
+Deniz Undav,€22.00m,Centre-Forward,"['Second Striker', 'Attacking Midfield']",Germany,"Jul 19, 1996 (27)",Varel  ,Germany,"1,79 m",VfB Stuttgart,30-Jun-24,Brighton & Hove Albion,30-Jun-26,#26,right,
+Konstantinos Tsimikas,€22.00m,Left-Back,[],Greece,"May 12, 1996 (27)",Thessaloniki  ,Greece,"1,79 m",Liverpool FC,30-Jun-27,-,-,#21,left,adidas
+Vangelis Pavlidis,€22.00m,Centre-Forward,"['Left Winger', 'Second Striker']",Greece,"Nov 21, 1998 (25)",Thessaloniki  ,Greece,"1,86 m",AZ Alkmaar,30-Jun-25,-,-,#9,both,adidas
+Emiliano Buendía,€22.00m,Right Winger,"['Left Winger', 'Attacking Midfield']",Argentina,"Dec 25, 1996 (27)",Mar del Plata  ,Argentina,"1,72 m",Aston Villa,30-Jun-26,-,-,#10,right,
+Philip Billing,€22.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",Denmark,"Jun 11, 1996 (27)",Copenhagen  ,Denmark,"1,93 m",AFC Bournemouth,30-Jun-27,-,-,#29,left,adidas
+Dominic Calvert-Lewin,€22.00m,Centre-Forward,"['Second Striker', 'Left Winger']",England,"Mar 16, 1997 (27)",Sheffield  ,England,"1,89 m",Everton FC,30-Jun-25,-,-,#9,right,Nike
+Albert Gudmundsson,€22.00m,Second Striker,"['Left Winger', 'Right Winger']",Iceland,"Jun 15, 1997 (26)",Reykjavík  ,Iceland,"1,77 m",Genoa CFC,30-Jun-27,-,-,#11,right,
+Saïd Benrahma,€22.00m,Left Winger,"['Right Winger', 'Attacking Midfield']",Algeria,"Aug 10, 1995 (28)",Aïn Témouchent  ,Algeria,"1,72 m",Olympique Lyon,30-Jun-24,West Ham United,30-Jun-26,#17,right,
+Orel Mangala,€22.00m,Central Midfield,['Defensive Midfield'],Belgium,"Mar 18, 1998 (26)",Brüssel  ,Belgium,"1,78 m",Olympique Lyon,30-Jun-24,Nottingham Forest,30-Jun-26,#25,right,adidas
+Sofyan Amrabat,€22.00m,Defensive Midfield,"['Central Midfield', 'Left-Back']",Morocco,"Aug 21, 1996 (27)",Huizen  ,Netherlands,"1,85 m",Manchester United,30-Jun-24,ACF Fiorentina,30-Jun-25,#4,right,Nike
+Mattia Zaccagni,€22.00m,Left Winger,"['Attacking Midfield', 'Central Midfield']",Italy,"Jun 16, 1995 (28)",Cesena  ,Italy,"1,77 m",SS Lazio,30-Jun-29,-,-,#20,right,
+Issa Diop,€22.00m,Centre-Back,[],France,"Jan 9, 1997 (27)",Toulouse  ,France,"1,94 m",Fulham FC,30-Jun-27,-,-,#31,right,adidas
+Vitaly Janelt,€22.00m,Defensive Midfield,"['Central Midfield', 'Left-Back']",Germany,"May 10, 1998 (25)",Hamburg  ,Germany,"1,84 m",Brentford FC,30-Jun-26,-,-,#27,left,
+Patrik Schick,€22.00m,Centre-Forward,"['Right Winger', 'Second Striker']",Czechia,"Jan 24, 1996 (28)",Praha  ,Czech Republic,"1,91 m",Bayer 04 Leverkusen,30-Jun-27,-,-,#14,left,
+Solly March,€22.00m,Right Winger,"['Left Winger', 'Attacking Midfield']",England,"Jul 20, 1994 (29)",Eastbourne  ,England,"1,80 m",Brighton & Hove Albion,30-Jun-26,-,-,#7,left,
+Niklas Süle,€22.00m,Centre-Back,['Right-Back'],Germany,"Sep 3, 1995 (28)",Frankfurt am Main  ,Germany,"1,95 m",Borussia Dortmund,30-Jun-26,-,-,#25,right,Nike
+Jordan Pickford,€22.00m,Goalkeeper,[],England,"Mar 7, 1994 (30)",Washington  ,England,"1,85 m",Everton FC,30-Jun-27,-,-,#1,left,Puma
+Carlos Baleba,€20.00m,Defensive Midfield,['Central Midfield'],Cameroon,"Jan 3, 2004 (20)",Douala  ,Cameroon,"1,79 m",Brighton & Hove Albion,30-Jun-28,-,-,#20,left,Puma
+Oscar Gloukh,€20.00m,Attacking Midfield,['Central Midfield'],Israel,"Apr 1, 2004 (20)",Rehovot  ,Israel,"1,70 m",Red Bull Salzburg,30-Jun-27,-,-,#30,both,
+Désiré Doué,€20.00m,Attacking Midfield,"['Central Midfield', 'Left Winger']",France,"Jun 3, 2005 (18)",Angers  ,France,"1,81 m",Stade Rennais FC,30-Jun-26,-,-,#33,both,
+Lucas Beraldo,€20.00m,Centre-Back,['Left-Back'],Brazil,"Nov 24, 2003 (20)",Piracicaba  ,Brazil,"1,82 m",Paris Saint-Germain,30-Jun-28,-,-,#35,left,Nike
+Alex Scott,€20.00m,Central Midfield,"['Attacking Midfield', 'Right Midfield']",England,"Aug 21, 2003 (20)",Guernsey  ,Guernsey,"1,78 m",AFC Bournemouth,-,-,-,#14,right,
+Javi Guerra,€20.00m,Central Midfield,['Defensive Midfield'],Spain,"May 13, 2003 (20)",Valencia  ,Spain,"1,87 m",Valencia CF,30-Jun-27,-,-,#8,right,adidas
+Dango Ouattara,€20.00m,Right Winger,['Left Winger'],Burkina Faso,"Feb 11, 2002 (22)",Ouagadougou  ,Burkina Faso,"1,77 m",AFC Bournemouth,30-Jun-28,-,-,#11,left,
+Vanderson,€20.00m,Right-Back,"['Right Midfield', 'Right Winger']",Brazil,"Jun 21, 2001 (22)",Rondonópolis  ,Brazil,"1,73 m",AS Monaco,30-Jun-28,-,-,#2,right,
+Adam Wharton,€20.00m,Central Midfield,"['Attacking Midfield', 'Defensive Midfield']",England,"Feb 6, 2004 (20)",Blackburn  ,England,"1,82 m",Crystal Palace,30-Jun-29,-,-,#20,left,
+Milos Kerkez,€20.00m,Left-Back,['Left Midfield'],Hungary,"Nov 7, 2003 (20)",Vrbas  ,Serbia and Montenegro,"1,80 m",AFC Bournemouth,-,-,-,#3,left,
+El Bilal Touré,€20.00m,Centre-Forward,['Right Winger'],Mali,"Oct 3, 2001 (22)",Adjamé  ,Cote d'Ivoire,"1,85 m",Atalanta BC,30-Jun-27,-,-,#10,both,
+Wilfried Singo,€20.00m,Right-Back,"['Centre-Back', 'Right Midfield']",Ivory Coast,"Dec 25, 2000 (23)",Grand-Béréby  ,Cote d'Ivoire,"1,90 m",AS Monaco,30-Jun-28,-,-,#99,right,
+Enzo Le Fée,€20.00m,Attacking Midfield,"['Central Midfield', 'Left Midfield']",France,"Feb 3, 2000 (24)",Lorient  ,France,"1,73 m",Stade Rennais FC,30-Jun-28,-,-,#28,right,
+Ander Barrenetxea,€20.00m,Left Winger,"['Right Winger', 'Right-Back']",Spain,"Dec 27, 2001 (22)",Donostia-San Sebastián  ,Spain,"1,75 m",Real Sociedad,30-Jun-30,-,-,#7,right,
+Carlos Augusto,€20.00m,Left Midfield,"['Left-Back', 'Centre-Back']",Brazil,"Jan 7, 1999 (25)",Campinas  ,Brazil,"1,84 m",Inter Milan,30-Jun-28,AC Monza,30-Jun-25,#30,left,
+Arnaud Kalimuendo,€20.00m,Centre-Forward,[],France,"Jan 20, 2002 (22)",Suresnes  ,France,"1,78 m",Stade Rennais FC,30-Jun-27,-,-,#9,right,adidas
+Dwight McNeil,€20.00m,Left Winger,"['Left Midfield', 'Right Winger']",England,"Nov 22, 1999 (24)",Rochdale  ,England,"1,83 m",Everton FC,30-Jun-27,-,-,#7,left,
+Lazar Samardžić,€20.00m,Central Midfield,['Attacking Midfield'],Serbia,"Feb 24, 2002 (22)",Berlin  ,Germany,"1,84 m",Udinese Calcio,30-Jun-26,-,-,#24,left,adidas
+Miguel Gutiérrez,€20.00m,Left-Back,['Left Midfield'],Spain,"Jul 27, 2001 (22)",Madrid  ,Spain,"1,80 m",Girona FC,30-Jun-27,-,-,#3,left,
+Amar Dedic,€20.00m,Right-Back,"['Left-Back', 'Centre-Back']",Bosnia,"Aug 18, 2002 (21)",Zell am See  ,Austria,"1,80 m",Red Bull Salzburg,30-Jun-27,-,-,#70,right,
+Giovanni Reyna,€20.00m,Attacking Midfield,"['Right Winger', 'Left Winger']",USA,"Nov 13, 2002 (21)",Durham  ,England,"1,85 m",Nottingham Forest,30-Jun-24,Borussia Dortmund,30-Jun-26,#20,right,adidas
+Aaron Wan-Bissaka,€20.00m,Right-Back,[],England,"Nov 26, 1997 (26)",London  ,England,"1,83 m",Manchester United,30-Jun-25,-,-,#29,right,adidas
+Renan Lodi,€20.00m,Left-Back,['Left Midfield'],Brazil,"Apr 8, 1998 (26)",Serrana  ,Brazil,"1,73 m",Al-Hilal SFC,30-Jun-27,-,-,#6,left,
+Marcos Senesi,€20.00m,Centre-Back,[],Argentina,"May 10, 1997 (26)",Concordia  ,Argentina,"1,85 m",AFC Bournemouth,30-Jun-26,-,-,#25,left,
+Samuele Ricci,€20.00m,Defensive Midfield,['Central Midfield'],Italy,"Aug 21, 2001 (22)",Pontedera  ,Italy,"1,81 m",Torino FC,30-Jun-26,-,-,#28,right,
+Maxence Lacroix,€20.00m,Centre-Back,"['Sweeper', 'Right-Back']",France,"Apr 6, 2000 (24)",Villeneuve-Saint-Georges  ,France,"1,90 m",VfL Wolfsburg,30-Jun-25,-,-,#4,right,
+Jørgen Strand Larsen,€20.00m,Centre-Forward,"['Right Winger', 'Left Winger']",Norway,"Feb 6, 2000 (24)",Halden  ,Norway,"1,93 m",Celta de Vigo,30-Jun-28,-,-,#18,right,
+Caio Henrique,€20.00m,Left-Back,"['Attacking Midfield', 'Left Midfield']",Brazil,"Jul 31, 1997 (26)",Santos  ,Brazil,"1,78 m",AS Monaco,30-Jun-27,-,-,#12,left,
+Ismaïla Sarr,€20.00m,Right Winger,"['Centre-Forward', 'Left Winger']",Senegal,"Feb 25, 1998 (26)",Saint-Louis  ,Senegal,"1,85 m",Olympique Marseille,30-Jun-28,-,-,#23,right,
+Samuel Chukwueze,€20.00m,Right Winger,['Left Winger'],Nigeria,"May 22, 1999 (24)",Umahaia  ,Nigeria,"1,72 m",AC Milan,30-Jun-28,-,-,#21,left,
+Dodô,€20.00m,Right-Back,[],Brazil,"Nov 17, 1998 (25)",Taubaté  ,Brazil,"1,66 m",ACF Fiorentina,30-Jun-27,-,-,#2,right,adidas
+Marcus Tavernier,€20.00m,Left Winger,"['Right Winger', 'Attacking Midfield']",England,"Mar 22, 1999 (25)",Leeds  ,England,"1,78 m",AFC Bournemouth,30-Jun-28,-,-,#16,left,
+Maxence Caqueret,€20.00m,Central Midfield,"['Defensive Midfield', 'Attacking Midfield']",France,"Feb 15, 2000 (24)",Vénissieux  ,France,"1,74 m",Olympique Lyon,30-Jun-27,-,-,#6,right,adidas
+Nicolò Zaniolo,€20.00m,Attacking Midfield,"['Right Winger', 'Second Striker']",Italy,"Jul 2, 1999 (24)",Massa  ,Italy,"1,90 m",Aston Villa,30-Jun-24,Galatasaray,30-Jun-27,#22,left,adidas
+Jonas Wind,€20.00m,Centre-Forward,['Second Striker'],Denmark,"Feb 7, 1999 (25)",Hvidovre  ,Denmark,"1,90 m",VfL Wolfsburg,30-Jun-26,-,-,#23,right,
+Yangel Herrera,€20.00m,Central Midfield,['Defensive Midfield'],Venezuela,"Jan 7, 1998 (26)","La Guaira, Vargas  ",Venezuela,"1,84 m",Girona FC,30-Jun-27,-,-,#21,right,adidas
+Carlos Soler,€20.00m,Central Midfield,"['Right Midfield', 'Attacking Midfield']",Spain,"Jan 2, 1997 (27)",Valencia  ,Spain,"1,80 m",Paris Saint-Germain,30-Jun-27,-,-,#28,right,adidas
+Ferdi Kadıoğlu,€20.00m,Left-Back,"['Right-Back', 'Central Midfield']",Türkiye,"Oct 7, 1999 (24)",Arnhem  ,Netherlands,"1,74 m",Fenerbahce,30-Jun-26,-,-,#7,right,
+Arthur Theate,€20.00m,Centre-Back,['Left-Back'],Belgium,"May 25, 2000 (23)",Liège  ,Belgium,"1,85 m",Stade Rennais FC,30-Jun-27,-,-,#5,left,
+Florentino,€20.00m,Defensive Midfield,[],Portugal,"Aug 19, 1999 (24)",Lobito  ,Angola,"1,84 m",SL Benfica,30-Jun-27,-,-,#61,right,adidas
+Antonee Robinson,€20.00m,Left-Back,['Left Midfield'],USA,"Aug 8, 1997 (26)",Milton Keynes  ,England,"1,83 m",Fulham FC,30-Jun-28,-,-,#33,left,
+Noah Okafor,€20.00m,Centre-Forward,"['Left Winger', 'Right Winger']",Switzerland,"May 24, 2000 (23)",Binningen  ,Switzerland,"1,85 m",AC Milan,30-Jun-28,-,-,#17,right,
+Odsonne Edouard,€20.00m,Centre-Forward,[],France,"Jan 16, 1998 (26)",Kourou  ,French Guiana,"1,87 m",Crystal Palace,30-Jun-25,-,-,#22,right,
+Kyle Walker-Peters,€20.00m,Right-Back,['Left-Back'],England,"Apr 13, 1997 (27)",London  ,England,"1,73 m",Southampton FC,30-Jun-25,-,-,#2,right,adidas
+Noa Lang,€20.00m,Left Winger,"['Right Winger', 'Second Striker']",Netherlands,"Jun 17, 1999 (24)",Capelle aan de IJssel  ,Netherlands,"1,70 m",PSV Eindhoven,30-Jun-28,-,-,#7,right,adidas
+Sander Berge,€20.00m,Defensive Midfield,['Central Midfield'],Norway,"Feb 14, 1998 (26)",Bærum  ,Norway,"1,95 m",Burnley FC,30-Jun-27,-,-,#16,right,adidas
+Christoph Baumgartner,€20.00m,Attacking Midfield,"['Second Striker', 'Left Winger']",Austria,"Aug 1, 1999 (24)",Horn  ,Austria,"1,80 m",RB Leipzig,30-Jun-28,-,-,#14,right,adidas
+Sebastian Szymanski,€20.00m,Attacking Midfield,"['Right Winger', 'Central Midfield']",Poland,"May 10, 1999 (24)",Biała Podlaska  ,Poland,"1,74 m",Fenerbahce,30-Jun-27,-,-,#53,left,Nike
+Marco Asensio,€20.00m,Right Winger,"['Left Winger', 'Attacking Midfield']",Spain,"Jan 21, 1996 (28)",Palma de Mallorca  ,Spain,"1,82 m",Paris Saint-Germain,30-Jun-26,-,-,#11,left,adidas

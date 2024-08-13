@@ -7,7 +7,7 @@ This project aims to explore the market value of the top 500 football players ba
 The data was scraped using Selenium, a powerful web scraping tool, to gather information about the top 500 football players. The scraping process was split into batches to ensure efficient data collection, allowing for easier troubleshooting if any batch fails.
 
 *Merging the Scraped Files:*
-After scraping, the data from multiple batches was merged to consolidate the information into a single dataset. This consolidation step facilitates easier analysis and processing of the collected data.
+After scraping, the data from multiple batches was merged to combine the information into a single dataset. This merging step facilitates easier analysis and processing of the collected data.
 
 *Preprocessing the Data:*
 The collected data, stored in the file "processed_players_data.csv," underwent preprocessing to clean and organize it for analysis. This involved tasks such as handling missing values, standardizing formats, and transforming variables for analysis.

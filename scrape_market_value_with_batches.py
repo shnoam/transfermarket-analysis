@@ -82,36 +82,11 @@ def extract_data(driver, xpath, feature_name, player_name=None):
             print(f"Error while extracting {feature_name} data for player {player_name}: {e}")
         return None
 
-
-
 def scrape_batch(driver, start_page, end_page):
     website = f"https://www.transfermarkt.com/spieler-statistik/wertvollstespieler/marktwertetop?ajax=yw1&page={start_page}"
     driver.get(website)
     driver.maximize_window()
-    #
     handle_popup_window(driver)
-
-    # if start_page > 1:
-    #     print(start_page)
-    #     if start_page <= 10:
-    #         pagination = WebDriverWait(driver, 10).until(
-    #             EC.presence_of_element_located((By.XPATH, '//ul[@class="tm-pagination"]'))
-    #         )
-    #         page_links = pagination.find_elements_by_tag_name("li")
-    #         page_links[start_page - 1].click()
-    #     else:
-    #         pagination = WebDriverWait(driver, 10).until(
-    #             EC.presence_of_element_located((By.XPATH, '//ul[@class="tm-pagination"]'))
-    #         )
-    #         page_10_button = pagination.find_element_by_xpath('./li[contains(@class, "last-page")]/a')
-    #         page_10_button.click()
-    #         pagination = WebDriverWait(driver, 10).until(
-    #             EC.presence_of_element_located((By.XPATH, '//ul[@class="tm-pagination"]'))
-    #         )
-    #         page_links = pagination.find_elements_by_tag_name("li")
-    #         print((start_page % 10) + 1)
-    #         page_links[(start_page % 10) + 1].click()
-    #         # Wait for page 10 to load
 
     players_data_global = []
     all_transfers_data = []
@@ -120,7 +95,7 @@ def scrape_batch(driver, start_page, end_page):
         time.sleep(3)
         handle_popup_window(driver)
         players_links = []
-        players_data_curr_page = []  # List to store player data from current iteration
+        players_data_curr_page = []  # list to store player data from current iteration
         players_table = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.XPATH, "//table[@class='items']"))
         )
@@ -129,14 +104,14 @@ def scrape_batch(driver, start_page, end_page):
             EC.presence_of_all_elements_located((By.XPATH, "./tbody/tr"))
         )
 
-        i=0
+
         for player in all_players_in_page:
             try:
                 player_link = player.find_element_by_xpath('./td[2]/table/tbody/tr[1]/td[2]/a').get_attribute("href")
                 player_name = player.find_element_by_xpath('./td[2]/table/tbody/tr[1]/td[2]/a').text
                 current_value = player.find_element_by_xpath('./td[contains(@class,"rechts")]/a').text
 
-                players_links.append(player_link)  # Store player link
+                players_links.append(player_link)  # store player link
 
                 current_player_data = {
                     'player': player_name,
@@ -146,9 +121,7 @@ def scrape_batch(driver, start_page, end_page):
             except Exception as e:
                 print(f"Error occurred while extracting data: {e}")
                 pass
-
-        # Loop through player links
-
+        # loop through player links
         for idx, player_link in enumerate(players_links):
             driver.get(player_link)
             player_name = players_data_curr_page[idx].get('Name')
@@ -165,63 +138,6 @@ def scrape_batch(driver, start_page, end_page):
             time.sleep(2)
 
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight / 4);")
-            # try:
-            #     main_position = driver.find_element_by_xpath(
-            #         "//dt[contains(text(), 'Main position')]/following-sibling::dd[1]").text
-            # except Exception as e:
-            #     print(f"Error while extracting main_position for player {player_name}: {e}")
-            #     main_position = None
-            # try:
-            #     other_positions_elements = driver.find_elements_by_xpath(
-            #         "//dt[contains(text(), 'Other position')]/following-sibling::dd")
-            #     other_positions = [element.text for element in other_positions_elements]
-            # except Exception as e:
-            #     print(f"Error while extracting other_positions for player {player_name}: {e}")
-            #     other_positions = None
-            # try:
-            #     nationality = driver.find_element_by_xpath(
-            #         '//li[contains(text(), "Current international")]/span[1]/a | //li[contains(text(), "National")]/span[1]/a | //li[contains(text(), "International")]/span[1]/a').text
-            # except Exception as e:
-            #     print(f"Error while extracting nationality data for player {player_name}: {e}")
-            #     nationality = None
-            # try:
-            #     date_of_birth = driver.find_element_by_xpath(
-            # except Exception as e:
-            #     print(f"Error while extracting date_of_birth for player {player_name}: {e}")
-            #     date_of_birth = None
-            # try:
-            #     city_of_birth = driver.find_element_by_xpath(
-            #         '//span[contains(text(), "Place of")]/following-sibling::span[1]/span').text
-            # except Exception as e:
-            #     print(f"Error while extracting city_of_birth data for player {player_name}: {e}")
-            #     city_of_birth = None
-            # try:
-            #     country_of_birth = driver.find_element_by_xpath(
-            #         '//span[contains(text(), "Place of")]/following-sibling::span[1]/span/img').get_attribute(
-            #         'title')
-            # except Exception as e:
-            #     print(f"Error while extracting country_of_birth data for player {player_name}: {e}")
-            #     country_of_birth = None
-            # try:
-            #     height = driver.find_element_by_xpath('//span[contains(text(), "Height")]/following-sibling::span[1]').text
-            # except:
-            #
-            # foot = driver.find_element_by_xpath('//span[contains(text(), "Foot")]/following-sibling::span[1]').text
-            # current_club = driver.find_element_by_xpath('//span[contains(text(), "club")]/following-sibling::span[1]/a[2]').text
-            # contract_expires = driver.find_element_by_xpath('//span[contains(text(), "expires")]/following-sibling::span[1]').text
-            # number = driver.find_element_by_xpath("//span[contains(@class, 'shirt-number')]").text
-            # try:
-            #     on_loan_from = driver.find_element_by_xpath('//span[contains(text(), "loan from")]/following-sibling::span[1]/a').text
-            #     contract_there_expires = driver.find_element_by_xpath('//span[contains(text(), "there expires")]/following-sibling::span[1]').text
-            # except:
-            #     on_loan_from = None
-            #     contract_there_expires = None
-            #     pass
-            # try:
-            #     outfitter = driver.find_element_by_xpath('//span[contains(text(), "Outfitter")]/following-sibling::span[1]').text
-            # except:
-            #     outfitter = None
-            #     pass
             try:
                 if driver.find_element_by_xpath('//*[@id="main"]/main/header/div[1]/a/span[contains(text(),"loan")]'):
                     on_loan = True
@@ -314,18 +230,12 @@ def scrape_batch(driver, start_page, end_page):
                 print(f"{player_name} mv development failed")
                 print(e)
                 pass
-            #
-            # i+=1
-            # print(f"{player_name} data loaded successfully")
-            # if i == 2:
-            #     break
         players_data_global.extend(players_data_curr_page)
         print(f"page {page} is finished")
 
         try:
             next_page_url = f"https://www.transfermarkt.com/spieler-statistik/wertvollstespieler/marktwertetop/mw/ajax/yw1/page/{page+1}"
             driver.get(next_page_url)
-
 
         except Exception as e: # last page
             print(e)
@@ -334,9 +244,6 @@ def scrape_batch(driver, start_page, end_page):
     return players_data_global, all_transfers_data, mv_data_by_player
 
 def main():
-    # Set up ChromeOptions to use a specific user agent
-
-
     # Define batch size
     batch_size = 4
     num_batches = 5
@@ -371,8 +278,6 @@ def main():
         print(FAILED_TRANSFER_DATA)
     except:
         pass
-
-
 
 if __name__ == "__main__":
     main()
